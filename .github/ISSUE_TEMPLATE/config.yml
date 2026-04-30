@@ -1,0 +1,21 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Question / Discussion
+    url: https://github.com/maigonia/YumilMPM/discussions
+    about: For usage questions, ideas, and general discussion, please use Discussions instead. / 使い方の質問・アイデア・雑談は Discussions へどうぞ。
+
+  - name: 🧩 ComfyUI integration issue
+    url: https://github.com/maigonia/comfyui-yumil-mpm/issues
+    about: Issues specific to the ComfyUI extension. / ComfyUI 拡張機能固有の問題はこちら。
+
+  - name: 🎨 Stable Diffusion WebUI integration issue
+    url: https://github.com/maigonia/sd-webui-yumil-mpm/issues
+    about: Issues specific to the SD WebUI extension. / SD WebUI 拡張機能固有の問題はこちら。
+
+  - name: 📧 Privacy inquiry
+    url: mailto:yumil.mpm@gmail.com
+    about: For privacy-related questions, please email directly. / プライバシー関連のお問い合わせはメールでお願いします。
+
+  - name: 🔒 Security vulnerability
+    url: https://github.com/maigonia/YumilMPM/security/policy
+    about: Please report security issues privately. Do not open a public Issue. / セキュリティ脆弱性は非公開でご報告ください（公開 Issue 不可）。
