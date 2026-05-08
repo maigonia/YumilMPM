@@ -1,0 +1,270 @@
+================================================================================
+THIRD-PARTY SOFTWARE LICENSES
+Yumil MPM
+================================================================================
+
+This file contains the licenses for all third-party software used in this
+application. All libraries listed here are compatible with commercial use.
+
+Generated: 2026-04-06
+
+================================================================================
+LICENSE SUMMARY
+================================================================================
+
+Most libraries use permissive licenses (MIT, Apache-2.0, ISC, BSD) that allow
+commercial use with attribution.
+
+License Types Used:
+- MIT: Most permissive, requires license notice
+- Apache-2.0: Requires license notice and change documentation
+- ISC: Similar to MIT
+- BSD-2-Clause / BSD-3-Clause: Requires license notice
+- MPL-2.0: File-level copyleft (modifications to MPL files must be shared)
+- 0BSD: Public domain equivalent
+- Unlicense: Public domain
+- Unicode-3.0: Permissive for Unicode data
+
+================================================================================
+FRONTEND DEPENDENCIES (JavaScript/TypeScript)
+================================================================================
+
+Package                                  License              Repository
+--------------------------------------------------------------------------------
+@babel/runtime                           MIT                  https://github.com/babel/babel
+@bokuweb/zstd-wasm                       MIT                  https://github.com/bokuweb/zstd-wasm
+@crabnebula/tauri-plugin-drag            Apache-2.0 OR MIT    https://github.com/crabnebula-dev/drag
+@dnd-kit/accessibility                   MIT                  https://github.com/clauderic/dnd-kit
+@dnd-kit/core                            MIT                  https://github.com/clauderic/dnd-kit
+@dnd-kit/sortable                        MIT                  https://github.com/clauderic/dnd-kit
+@dnd-kit/utilities                       MIT                  https://github.com/clauderic/dnd-kit
+@floating-ui/core                        MIT                  https://github.com/floating-ui/floating-ui
+@floating-ui/dom                         MIT                  https://github.com/floating-ui/floating-ui
+@floating-ui/react-dom                   MIT                  https://github.com/floating-ui/floating-ui
+@floating-ui/utils                       MIT                  https://github.com/floating-ui/floating-ui
+@jitl/quickjs-ffi-types                  MIT                  https://github.com/justjake/quickjs-emscripten
+@jitl/quickjs-wasmfile-*                 MIT                  https://github.com/justjake/quickjs-emscripten
+@monaco-editor/loader                    MIT                  https://github.com/suren-atoyan/monaco-loader
+@monaco-editor/react                     MIT                  https://github.com/suren-atoyan/monaco-react
+@radix-ui/*                              MIT                  https://github.com/radix-ui/primitives
+@react-dnd/asap                          MIT                  https://github.com/react-dnd/react-dnd
+@react-dnd/invariant                     MIT                  https://github.com/react-dnd/invariant
+@react-dnd/shallowequal                  MIT                  https://github.com/react-dnd/shallowequal
+@tanstack/react-virtual                  MIT                  https://github.com/TanStack/virtual
+@tanstack/virtual-core                   MIT                  https://github.com/TanStack/virtual
+@tauri-apps/api                          Apache-2.0 OR MIT    https://github.com/tauri-apps/tauri
+@tauri-apps/plugin-dialog                MIT OR Apache-2.0    https://github.com/tauri-apps/plugins-workspace
+@tauri-apps/plugin-fs                    MIT OR Apache-2.0    https://github.com/tauri-apps/plugins-workspace
+@tauri-apps/plugin-log                   MIT OR Apache-2.0    https://github.com/tauri-apps/plugins-workspace
+@tauri-apps/plugin-opener                MIT OR Apache-2.0    https://github.com/tauri-apps/plugins-workspace
+@tauri-apps/plugin-shell                 MIT OR Apache-2.0    https://github.com/tauri-apps/plugins-workspace
+aria-hidden                              MIT                  https://github.com/theKashey/aria-hidden
+csstype                                  MIT                  https://github.com/frenic/csstype
+detect-node-es                           MIT                  https://github.com/thekashey/detect-node
+dnd-core                                 MIT                  https://github.com/react-dnd/react-dnd
+dompurify                                MPL-2.0 OR Apache-2.0 https://github.com/cure53/DOMPurify
+fast-deep-equal                          MIT                  https://github.com/epoberezkin/fast-deep-equal
+fzstd                                    MIT                  https://github.com/101arrowz/fzstd
+get-nonce                                MIT                  https://github.com/theKashey/get-nonce
+hoist-non-react-statics                  BSD-3-Clause         https://github.com/mridgway/hoist-non-react-statics
+html-parse-stringify                     MIT                  https://github.com/henrikjoreteg/html-parse-stringify
+i18next                                  MIT                  https://github.com/i18next/i18next
+i18next-browser-languagedetector         MIT                  https://github.com/i18next/i18next-browser-languageDetector
+immer                                    MIT                  https://github.com/immerjs/immer
+lucide-react                             ISC                  https://github.com/lucide-icons/lucide
+marked                                   MIT                  https://github.com/markedjs/marked
+memoize-one                              MIT                  https://github.com/alexreardon/memoize-one
+monaco-editor                            MIT                  https://github.com/microsoft/monaco-editor
+quickjs-emscripten                       MIT                  https://github.com/justjake/quickjs-emscripten
+quickjs-emscripten-core                  MIT                  https://github.com/justjake/quickjs-emscripten
+react                                    MIT                  https://github.com/facebook/react
+react-arborist                           MIT                  https://github.com/brimdata/react-arborist
+react-dnd                                MIT                  https://github.com/react-dnd/react-dnd
+react-dnd-html5-backend                  MIT                  https://github.com/react-dnd/react-dnd
+react-dom                                MIT                  https://github.com/facebook/react
+react-i18next                            MIT                  https://github.com/i18next/react-i18next
+react-is                                 MIT                  https://github.com/facebook/react
+react-remove-scroll                      MIT                  https://github.com/theKashey/react-remove-scroll
+react-remove-scroll-bar                  MIT                  https://github.com/theKashey/react-remove-scroll-bar
+react-style-singleton                    MIT                  https://github.com/theKashey/react-style-singleton
+react-window                             MIT                  https://github.com/bvaughn/react-window
+redux                                    MIT                  https://github.com/reduxjs/redux
+scheduler                                MIT                  https://github.com/facebook/react
+state-local                              MIT                  https://github.com/suren-atoyan/state-local
+tauri-plugin-keyring-api                 MIT                  https://github.com/AugustasMelmo/tauri-plugin-keyring
+tslib                                    0BSD                 https://github.com/Microsoft/tslib
+undici-types                             MIT                  https://github.com/nodejs/undici
+use-callback-ref                         MIT                  https://github.com/theKashey/use-callback-ref
+use-sidecar                              MIT                  https://github.com/theKashey/use-sidecar
+use-sync-external-store                  MIT                  https://github.com/facebook/react
+void-elements                            MIT                  https://github.com/pugjs/void-elements
+zod                                      MIT                  https://github.com/colinhacks/zod
+zustand                                  MIT                  https://github.com/pmndrs/zustand
+
+================================================================================
+BACKEND DEPENDENCIES (Rust)
+================================================================================
+
+License Summary by Count:
+--------------------------------------------------------------------------------
+Apache-2.0 OR MIT                        419 crates
+MIT                                      169 crates
+Unicode-3.0                              18 crates
+Apache-2.0 OR MIT OR Zlib               16 crates
+Apache-2.0 OR Apache-2.0 WITH LLVM      15 crates
+MIT OR Unlicense                         7 crates
+MPL-2.0                                  7 crates
+Apache-2.0                               6 crates
+ISC                                      4 crates
+BSD-3-Clause                             3 crates
+Zlib                                     2 crates
+Apache-2.0 OR BSD-2-Clause OR MIT       2 crates
+Apache-2.0 OR BSD-3-Clause              2 crates
+Apache-2.0 OR BSD-3-Clause OR MIT       2 crates
+BSD-3-Clause AND MIT                     2 crates
+Other dual licenses                      Various
+
+Notable Rust Dependencies:
+--------------------------------------------------------------------------------
+tauri                                    Apache-2.0 OR MIT    https://github.com/tauri-apps/tauri
+tauri-plugin-dialog                      Apache-2.0 OR MIT    https://github.com/tauri-apps/plugins-workspace
+tauri-plugin-fs                          Apache-2.0 OR MIT    https://github.com/tauri-apps/plugins-workspace
+tauri-plugin-log                         Apache-2.0 OR MIT    https://github.com/tauri-apps/plugins-workspace
+tauri-plugin-shell                       Apache-2.0 OR MIT    https://github.com/tauri-apps/plugins-workspace
+tauri-plugin-opener                      Apache-2.0 OR MIT    https://github.com/tauri-apps/plugins-workspace
+tauri-plugin-keyring                     MIT                  https://github.com/AugustasMelmo/tauri-plugin-keyring
+tauri-plugin-drag                        Apache-2.0 OR MIT    https://github.com/crabnebula-dev/drag
+serde                                    Apache-2.0 OR MIT    https://github.com/serde-rs/serde
+serde_json                               Apache-2.0 OR MIT    https://github.com/serde-rs/json
+tokio                                    MIT                  https://github.com/tokio-rs/tokio
+reqwest                                  Apache-2.0 OR MIT    https://github.com/seanmonstar/reqwest
+chrono                                   Apache-2.0 OR MIT    https://github.com/chronotope/chrono
+regex                                    Apache-2.0 OR MIT    https://github.com/rust-lang/regex
+url                                      Apache-2.0 OR MIT    https://github.com/servo/rust-url
+base64                                   Apache-2.0 OR MIT    https://github.com/marshallpierce/rust-base64
+dirs                                     Apache-2.0 OR MIT    https://github.com/dirs-dev/dirs-rs
+walkdir                                  MIT OR Unlicense     https://github.com/BurntSushi/walkdir
+trash                                    MIT                  https://github.com/Byron/trash-rs
+zip                                      MIT                  https://github.com/zip-rs/zip2
+zstd                                     MIT                  https://github.com/gyscos/zstd-rs
+ort (ONNX Runtime)                       Apache-2.0 OR MIT    https://github.com/pykeio/ort
+image                                    Apache-2.0 OR MIT    https://github.com/image-rs/image
+ndarray                                  Apache-2.0 OR MIT    https://github.com/rust-ndarray/ndarray
+hyper                                    MIT                  https://github.com/hyperium/hyper
+tower                                    MIT                  https://github.com/tower-rs/tower
+wry                                      Apache-2.0 OR MIT    https://github.com/nicholasanthony/nicholaswry
+
+================================================================================
+FULL LICENSE TEXTS
+================================================================================
+
+--------------------------------------------------------------------------------
+MIT License
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+Apache License, Version 2.0
+--------------------------------------------------------------------------------
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+--------------------------------------------------------------------------------
+ISC License
+--------------------------------------------------------------------------------
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+--------------------------------------------------------------------------------
+BSD 3-Clause License
+--------------------------------------------------------------------------------
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+MPL-2.0 (Mozilla Public License 2.0)
+--------------------------------------------------------------------------------
+
+This Source Code Form is subject to the terms of the Mozilla Public License,
+v. 2.0. If a copy of the MPL was not distributed with this file, You can
+obtain one at https://mozilla.org/MPL/2.0/.
+
+--------------------------------------------------------------------------------
+0BSD License
+--------------------------------------------------------------------------------
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+================================================================================
+END OF THIRD-PARTY LICENSES
+================================================================================

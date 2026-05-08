@@ -79,6 +79,12 @@ Integrate Yumil MPM into your image generation workflow.
 
 ---
 
+## Third-Party Licenses
+
+Yumil MPM uses open-source third-party components. License information is available in the app's About dialog and in [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
+
+---
+
 ## Support
 
 Yumil MPM is developed and maintained with your support.
@@ -90,6 +96,7 @@ Support channels are coming soon. Details will be announced once support channel
 ## Links
 
 - [License (EULA)](LICENSE)
+- [Third-Party Licenses](THIRD_PARTY_LICENSES.txt)
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [Contact](mailto:yumil.mpm@gmail.com)
 
