@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last updated: March 30, 2026*
+*Last updated: May 8, 2026*
 
 ## 1. Overview
 
@@ -12,13 +12,15 @@ The Software does not collect, transmit, or store any personal information on ex
 
 ## 3. Network Communications
 
-The Software communicates with external servers only for the following user-initiated purposes:
+The Software may communicate with external servers or the local environment for the following user-initiated purposes:
 
-- **External service connections** — Based on user configuration and actions, the Software may connect to external services such as LM Studio (for local AI model access), ComfyUI, and Stable Diffusion WebUI. These connections are initiated only by explicit user action.
+- **External service connections** — Based on user configuration and actions, the Software may connect to external services such as Civitai (for retrieving model information and downloading model or image files), Google Translate, LM Studio (for local AI model access), ComfyUI, and Stable Diffusion WebUI. These connections are initiated only by explicit user action or by features the user has enabled.
+- **Model file downloads** — Features such as the WD14 tagger may download required model files from Hugging Face or similar sources on first use or during user-initiated setup.
 - **URL whitelist** — The Software may access external sites permitted by the user-configured URL whitelist.
+- **Local integrations** — If the user enables the API server or MCP server, the Software may communicate with external applications or MCP-compatible AI tools within the local environment.
 - **Custom plugins** — Custom plugins created by users may communicate with external services or access local files based on the plugin's code and granted permissions. Such operations are entirely under the user's control and responsibility.
 
-The Software does not independently collect or transmit any personal information or usage statistics through these communications.
+The Software does not independently collect or transmit any personal information or usage statistics through these communications. However, data sent to external services chosen by the user is subject to those services' own privacy policies.
 
 ## 4. Local Storage
 
@@ -33,7 +35,7 @@ This data never leaves the user's device unless the user explicitly exports or s
 
 ## 5. Third-Party Services
 
-When the user chooses to connect to third-party services, those services' own privacy policies apply to data exchanged with them. The Developer is not responsible for the privacy practices of third-party services.
+When the user chooses to connect to third-party services (such as Civitai, Google Translate, Hugging Face, or LM Studio), those services' own privacy policies apply to data exchanged with them. The Developer is not responsible for the privacy practices of third-party services.
 
 ## 6. Cookies and Tracking
 
