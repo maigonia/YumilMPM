@@ -64,7 +64,11 @@
 | **OS** | Windows 10/11 |
 | **Architecture** | x64 |
 
-> Linux / macOS builds are available on [GitHub Releases](https://github.com/maigonia/YumilMPM/releases), but they are only there because the build passed. No testing has been done, and they may not work. Use at your own risk.
+### Linux / macOS
+
+Linux and macOS builds are planned for GitHub Releases, but are not available yet.
+
+These builds will be experimental and unsupported.
 
 ---
 
