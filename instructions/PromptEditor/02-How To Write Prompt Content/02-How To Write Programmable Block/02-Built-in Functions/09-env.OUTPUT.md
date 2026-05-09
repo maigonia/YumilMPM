@@ -65,6 +65,6 @@ _@@@
 
 - [Programmable Block](../README.md)
 - [env.CI](02-env.CI.md)
-- [Generation](../../../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Once Generation](../../../../PromptGeneration/04-Menu/01-Once Generation.md)
-- [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected Add/02-Add From Generated Output.md)
+- [Generation](../../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Once Generation](../../../../PromptGeneration/04-Menu/01-Once%20Generation.md)
+- [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md)

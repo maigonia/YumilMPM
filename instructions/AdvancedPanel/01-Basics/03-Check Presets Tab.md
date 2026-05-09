@@ -1,6 +1,6 @@
 # Check Presets Tab
 
-A tab for managing [Check Preset](../02-Glossary/02-Check Preset.md)s.
+A tab for managing [Check Preset](../02-Glossary/02-Check%20Preset.md)s.
 This is displayed in Global scope for saving and restoring the check state of the entire project.
 
 ## When Is It Useful
@@ -58,15 +58,15 @@ Each preset shows the following:
 - Updated date
 - Description (if configured)
 
-## Difference from [Favorite List](../02-Glossary/03-Favorite List.md)
+## Difference from [Favorite List](../02-Glossary/03-Favorite%20List.md)
 
-Check Presets manages the check state of the **entire project** at once. To manage prompt combinations within a single category, use [Favorite List](../02-Glossary/03-Favorite List.md) in Category scope.
+Check Presets manages the check state of the **entire project** at once. To manage prompt combinations within a single category, use [Favorite List](../02-Glossary/03-Favorite%20List.md) in Category scope.
 
 ## Related
 
-- [Check Preset](../02-Glossary/02-Check Preset.md)
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Favorite List](../02-Glossary/03-Favorite List.md)
-- [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md)
-- [Save Current State](../04-Menu/08-Check Presets/01-Save Current State.md)
+- [Check Preset](../02-Glossary/02-Check%20Preset.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Favorite List](../02-Glossary/03-Favorite%20List.md)
+- [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [Save Current State](../04-Menu/08-Check%20Presets/01-Save%20Current%20State.md)

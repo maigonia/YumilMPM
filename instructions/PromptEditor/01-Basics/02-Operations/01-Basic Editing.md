@@ -15,9 +15,9 @@ Basic text editing operations available in the prompt editor.
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
 - [Copy](../../04-Menu/04-Copy.md)
 - [Cut](../../04-Menu/05-Cut.md)
 - [Paste](../../04-Menu/06-Paste.md)
-- [Select All](../../04-Menu/03-Select All.md)
-- [Shortcuts](../04-Keyboard Shortcuts.md)
+- [Select All](../../04-Menu/03-Select%20All.md)
+- [Shortcuts](../04-Keyboard%20Shortcuts.md)

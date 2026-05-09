@@ -28,12 +28,12 @@ Keyboard shortcuts available in the prompt editor.
 
 ## Customizing Shortcuts
 
-By default, only basic operations are enabled. To enable additional shortcuts (multi-cursor, line operations, etc.), configure them in [Monaco Keybinding Settings](../04-Menu/13-Monaco Keybinding Settings.md).
+By default, only basic operations are enabled. To enable additional shortcuts (multi-cursor, line operations, etc.), configure them in [Monaco Keybinding Settings](../04-Menu/13-Monaco%20Keybinding%20Settings.md).
 
 ## Related
 
-- [PromptEditor](03-Prompt Editor.md)
-- [Monaco Keybinding Settings](../04-Menu/13-Monaco Keybinding Settings.md)
-- [Command Palette](01-Features/02-Command Palette.md)
-- [Basic Editing](02-Operations/01-Basic Editing.md)
-- [Find and Replace](02-Operations/02-Find and Replace.md)
+- [PromptEditor](03-Prompt%20Editor.md)
+- [Monaco Keybinding Settings](../04-Menu/13-Monaco%20Keybinding%20Settings.md)
+- [Command Palette](01-Features/02-Command%20Palette.md)
+- [Basic Editing](02-Operations/01-Basic%20Editing.md)
+- [Find and Replace](02-Operations/02-Find%20and%20Replace.md)

@@ -12,7 +12,7 @@ env.getText()
 
 ## Behavior
 
-Retrieves the text targeted for editing in the [Programmable Edit](../../../04-Menu/01-Edit SelectedText with Plugins/18-Programmable Edit.md) plugin.
+Retrieves the text targeted for editing in the [Programmable Edit](../../../04-Menu/01-Edit%20SelectedText%20with%20Plugins/18-Programmable%20Edit.md) plugin.
 
 - When text is selected in the editor: Returns the selected text
 - When nothing is selected: Returns all text in the editor
@@ -58,7 +58,7 @@ _@@@
 
 ## Related
 
-- [Programmable Edit](../../../04-Menu/01-Edit SelectedText with Plugins/18-Programmable Edit.md)
+- [Programmable Edit](../../../04-Menu/01-Edit%20SelectedText%20with%20Plugins/18-Programmable%20Edit.md)
 - [Programmable Block](../README.md)
 - [env.OUTPUT](09-env.OUTPUT.md)
 - [env.CI](02-env.CI.md)

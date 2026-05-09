@@ -4,7 +4,7 @@
 
 Endpoints for referencing instructions (in-app help) and retrieving generation history (6 endpoints).
 
-> See [REST API Reference](01-REST API Reference.md) for common specifications (authentication / request format).
+> See [REST API Reference](01-REST%20API%20Reference.md) for common specifications (authentication / request format).
 
 ## Endpoint List
 
@@ -348,9 +348,9 @@ for (const t of types) {
 
 ## Related
 
-- [REST API Reference](01-REST API Reference.md)
-- [REST API - Read Endpoints](02-REST API - Read Endpoints.md)
-- [Instruction Portal](../../InstructionPortal/01-Table of Contents/01-Instruction Index.md)
-- [FAQ](../../FAQ/01-Unresolved Issues/README.md)
-- [History](../../PromptGeneration/04-Menu/17-Set Max History Entries.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
+- [REST API Reference](01-REST%20API%20Reference.md)
+- [REST API - Read Endpoints](02-REST%20API%20-%20Read%20Endpoints.md)
+- [Instruction Portal](../../InstructionPortal/01-Table%20of%20Contents/01-Instruction%20Index.md)
+- [FAQ](../../FAQ/01-Unresolved%20Issues/README.md)
+- [History](../../PromptGeneration/04-Menu/17-Set%20Max%20History%20Entries.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)

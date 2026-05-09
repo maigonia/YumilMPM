@@ -4,13 +4,13 @@
 
 ## When to Use
 
-- When you want to adjust the expansion depth of nested [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)s
+- When you want to adjust the expansion depth of nested [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)s
 - When you want to prevent infinite loops
 - When you need deeper hierarchy prompt expansion
 
 ## What It Does
 
-Sets the maximum depth for recursive expansion of [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)s. When one [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) contains another [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md), it is expanded up to the specified depth.
+Sets the maximum depth for recursive expansion of [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)s. When one [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) contains another [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md), it is expanded up to the specified depth.
 
 **Example**: With depth of 3
 
@@ -32,6 +32,6 @@ Sets the maximum depth for recursive expansion of [Category Identifier](../../Pr
 
 ## Related
 
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Once Generation](01-Once Generation.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Once Generation](01-Once%20Generation.md)

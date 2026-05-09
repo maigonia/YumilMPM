@@ -17,6 +17,6 @@ Moves to the nearest checked prompt below the current selection.
 
 ## Related
 
-- [Check State](../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [Goto Checked Above](10-Go to Checked Above.md)
+- [Check State](../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Goto Checked Above](10-Go%20to%20Checked%20Above.md)

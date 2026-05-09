@@ -77,6 +77,6 @@ This app is designed to persist all changes only when "Save Project" is run. Imm
 
 ## Related
 
-- [Menu System Guide](04-Menu System Guide.md)
-- [Keyboard User Guide](06-Keyboard User Guide.md)
-- [Save Project](../../File/02-Menu/06-Save Project.md)
+- [Menu System Guide](04-Menu%20System%20Guide.md)
+- [Keyboard User Guide](06-Keyboard%20User%20Guide.md)
+- [Save Project](../../File/02-Menu/06-Save%20Project.md)

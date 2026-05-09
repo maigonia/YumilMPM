@@ -29,7 +29,7 @@ The API key required for external apps to connect to the API server. It can be v
 
 ### Automatic API Key Sharing
 
-The API key is automatically saved to `~/.mpm/api_key`. The ExternalPromptRequester extensions used by [ComfyUI Extension](../../01-Basics/05-External App Integration/01-ComfyUI Extension.md) and [Stable Diffusion Extension](../../01-Basics/05-External App Integration/02-Stable Diffusion Extension.md) automatically read the API key from this file, eliminating the need for manual API key configuration.
+The API key is automatically saved to `~/.mpm/api_key`. The ExternalPromptRequester extensions used by [ComfyUI Extension](../../01-Basics/05-External%20App%20Integration/01-ComfyUI%20Extension.md) and [Stable Diffusion Extension](../../01-Basics/05-External%20App%20Integration/02-Stable%20Diffusion%20Extension.md) automatically read the API key from this file, eliminating the need for manual API key configuration.
 
 ## Notes
 
@@ -39,6 +39,6 @@ The API key is automatically saved to `~/.mpm/api_key`. The ExternalPromptReques
 
 ## Related
 
-- [Start On Demand](01-Start On Demand.md)
-- [ComfyUI Extension](../../01-Basics/05-External App Integration/01-ComfyUI Extension.md)
-- [Stable Diffusion Extension](../../01-Basics/05-External App Integration/02-Stable Diffusion Extension.md)
+- [Start On Demand](01-Start%20On%20Demand.md)
+- [ComfyUI Extension](../../01-Basics/05-External%20App%20Integration/01-ComfyUI%20Extension.md)
+- [Stable Diffusion Extension](../../01-Basics/05-External%20App%20Integration/02-Stable%20Diffusion%20Extension.md)

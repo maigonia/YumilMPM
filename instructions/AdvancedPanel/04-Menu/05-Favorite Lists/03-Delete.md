@@ -21,5 +21,5 @@ A confirmation dialog is shown before deletion.
 
 ## Related
 
-- [Favorite List](../../02-Glossary/03-Favorite List.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
+- [Favorite List](../../02-Glossary/03-Favorite%20List.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)

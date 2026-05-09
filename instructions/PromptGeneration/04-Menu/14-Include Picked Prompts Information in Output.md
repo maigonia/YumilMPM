@@ -25,6 +25,6 @@ Configures whether to include metadata about picked (selected) prompts in genera
 
 ## Related
 
-- [Pick](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/03-Pick.md)
-- [Auto-save prompts to text files](10-Auto-save prompts to text files.md)
-- [Once Generation](01-Once Generation.md)
+- [Pick](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/03-Pick.md)
+- [Auto-save prompts to text files](10-Auto-save%20prompts%20to%20text%20files.md)
+- [Once Generation](01-Once%20Generation.md)

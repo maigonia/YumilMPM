@@ -29,7 +29,7 @@ Stops all currently running generation processes. The following states can be st
 
 ## Related
 
-- [Once Generation](01-Once Generation.md)
-- [Timer Generation Start](03-Timer Generation/01-Timer Generation Start.md)
-- [Start On Demand](02-Generation On Demand/01-Start On Demand.md)
-- [Generation Queue](05-Generation Queue/README.md)
+- [Once Generation](01-Once%20Generation.md)
+- [Timer Generation Start](03-Timer%20Generation/01-Timer%20Generation%20Start.md)
+- [Start On Demand](02-Generation%20On%20Demand/01-Start%20On%20Demand.md)
+- [Generation Queue](05-Generation%20Queue/README.md)

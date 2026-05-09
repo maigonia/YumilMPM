@@ -153,12 +153,12 @@ Category and chunk `tagDefinitions` are lazy-loaded — no cost when not accesse
 - `env.globalTags` / `env.tagDefinitions` are read-only properties (`await` not needed)
 - `env.globalTags` contains names only (string[]), `env.tagDefinitions` includes detailed info (object[])
 - For individual chunk tags, use [env.chunk](01-env.chunk.md).tags or [env.chunk](01-env.chunk.md).tagDefinitions
-- Global tags are managed in [Tag Manager](../../../../GlobalSettings/04-Menu/06-Tag Manager.md)
+- Global tags are managed in [Tag Manager](../../../../GlobalSettings/04-Menu/06-Tag%20Manager.md)
 
 ## Related
 
 - [Programmable Block](../README.md)
 - [Tag](../../../../PromptBrowser/01-Basics/04-Tag.md)
-- [Tag Manager](../../../../GlobalSettings/04-Menu/06-Tag Manager.md)
+- [Tag Manager](../../../../GlobalSettings/04-Menu/06-Tag%20Manager.md)
 - [env.chunk](01-env.chunk.md)
 - [env.getCategory](04-env.getCategory.md)

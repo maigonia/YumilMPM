@@ -29,7 +29,7 @@ await env.LMEDIT(preset, instruction, prompt)
 ## Prerequisites
 
 - LM Studio must be running (`http://localhost:1234`)
-- Presets must be configured in [GlobalSettings > LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
+- Presets must be configured in [GlobalSettings > LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
 - When using templates, templates must be created in the Templates tab of the same settings
 
 ## Templates and Presets
@@ -39,13 +39,13 @@ await env.LMEDIT(preset, instruction, prompt)
 A template combines a **name**, **editing instruction**, and **default preset**.
 
 - Storage: `{DataFolder}/settings/instruction_templates.json`
-- Creation: [GlobalSettings > LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md) > Templates tab
+- Creation: [GlobalSettings > LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md) > Templates tab
 
 ### Presets
 
 A preset is the parameter settings for LLM calls (model, temperature, max_tokens, etc.).
 
-- Creation: [GlobalSettings > LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md) > Presets tab
+- Creation: [GlobalSettings > LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md) > Presets tab
 
 ## Usage Examples
 
@@ -134,7 +134,7 @@ To adjust timeout, change the timeout value in AI Settings for this preset.
 ## Related
 
 - [Programmable Block](../README.md)
-- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [LM Studio Edit](../../../04-Menu/01-Edit SelectedText with Plugins/13-LMStudio Edit.md)
+- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [LM Studio Edit](../../../04-Menu/01-Edit%20SelectedText%20with%20Plugins/13-LMStudio%20Edit.md)
 - [env.EMBED](03-env.EMBED.md)

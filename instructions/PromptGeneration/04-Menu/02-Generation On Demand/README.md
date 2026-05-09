@@ -2,5 +2,5 @@
 
 ## Contents
 
-- [Start On Demand](01-Start On Demand.md)
-- [API Server Settings](02-API Server Settings.md)
+- [Start On Demand](01-Start%20On%20Demand.md)
+- [API Server Settings](02-API%20Server%20Settings.md)

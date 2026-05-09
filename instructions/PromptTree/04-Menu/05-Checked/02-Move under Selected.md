@@ -24,9 +24,9 @@ Moves all checked prompts as children of the selected prompt. They are removed f
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
 - [Cut](../../../PromptEditor/04-Menu/05-Cut.md)
-- [Copy under Selected](01-Copy under Selected.md)
+- [Copy under Selected](01-Copy%20under%20Selected.md)
 - [Paste](../../../PromptEditor/04-Menu/06-Paste.md)

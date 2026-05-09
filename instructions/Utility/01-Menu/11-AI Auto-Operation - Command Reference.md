@@ -223,6 +223,6 @@ _@@@
 
 ## Related
 
-- [AI Auto-Operation](08-AI Auto-Operation.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [On Demand](../../PromptGeneration/04-Menu/02-Generation On Demand/README.md)
+- [AI Auto-Operation](08-AI%20Auto-Operation.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [On Demand](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/README.md)

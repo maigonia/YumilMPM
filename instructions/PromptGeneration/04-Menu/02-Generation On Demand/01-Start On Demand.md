@@ -27,7 +27,7 @@ It essentially performs the same processing as **PromptGeneration > Once Generat
 External App → Sends HTTP request → API server receives → Generates prompt → Returns result
 ```
 
-To send requests from an external app, an **API key** is required. The API key can be checked in the [API Server Settings](02-API Server Settings.md) dialog.
+To send requests from an external app, an **API key** is required. The API key can be checked in the [API Server Settings](02-API%20Server%20Settings.md) dialog.
 
 ## Using from External Apps
 
@@ -82,10 +82,10 @@ Generation results are returned in JSON format.
 
 ## Related
 
-- [Generation Modes](../../01-Basics/01-Generation Modes.md)
-- [API Server Settings](02-API Server Settings.md)
+- [Generation Modes](../../01-Basics/01-Generation%20Modes.md)
+- [API Server Settings](02-API%20Server%20Settings.md)
 - [Stop](../04-Stop.md)
-- [Once Generation](../01-Once Generation.md)
-- [Timer Generation Start](../03-Timer Generation/01-Timer Generation Start.md)
-- [ComfyUI Extension](../../01-Basics/05-External App Integration/01-ComfyUI Extension.md)
-- [Stable Diffusion Extension](../../01-Basics/05-External App Integration/02-Stable Diffusion Extension.md)
+- [Once Generation](../01-Once%20Generation.md)
+- [Timer Generation Start](../03-Timer%20Generation/01-Timer%20Generation%20Start.md)
+- [ComfyUI Extension](../../01-Basics/05-External%20App%20Integration/01-ComfyUI%20Extension.md)
+- [Stable Diffusion Extension](../../01-Basics/05-External%20App%20Integration/02-Stable%20Diffusion%20Extension.md)

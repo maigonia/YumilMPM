@@ -23,7 +23,7 @@ A favorite query stores search criteria (query string, search target, regex opti
 
 ## Related
 
-- [Favorite Query](../../02-Glossary/04-Favorite Query.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Search](../../01-Basics/07-What Is Advanced Panel.md)
-- [Filter](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
+- [Favorite Query](../../02-Glossary/04-Favorite%20Query.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Search](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Filter](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)

@@ -48,7 +48,7 @@ You can copy the TreePath of the selected prompt to the clipboard with **PromptT
 
 ### CategoryIdentifier
 
-In [CategoryIdentifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) notation, you can use TreePath to filter prompts with the [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md) action.
+In [CategoryIdentifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) notation, you can use TreePath to filter prompts with the [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md) action.
 
 #### Basic Format (Exact Match)
 
@@ -92,7 +92,7 @@ Adding `!` to the condition type keeps items that do not match.
 @@@_CategoryName.Filter(TreePath!=Hair Color/Blonde)_@@@
 ```
 
-See [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md) for details.
+See [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md) for details.
 
 ## Important Notes
 
@@ -103,9 +103,9 @@ See [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write C
 
 ## Related
 
-- [Hierarchy](../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
-- [Search](../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md)
-- [Copy TreePath](../04-Menu/04-Selected Copy Info/03-TreePath.md)
+- [Hierarchy](../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
+- [Search](../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Copy TreePath](../04-Menu/04-Selected%20Copy%20Info/03-TreePath.md)

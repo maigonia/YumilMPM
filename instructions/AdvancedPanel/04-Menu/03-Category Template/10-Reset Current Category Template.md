@@ -21,7 +21,7 @@ Resets the currently selected category's template settings (Target, Filter, Pick
 
 ## Related
 
-- [Category Template](../../02-Glossary/01-Category Template.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Reset All Category Template](11-Reset All Category Template.md)
-- [Show All Category Template](09-Show All Category Template.md)
+- [Category Template](../../02-Glossary/01-Category%20Template.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Reset All Category Template](11-Reset%20All%20Category%20Template.md)
+- [Show All Category Template](09-Show%20All%20Category%20Template.md)

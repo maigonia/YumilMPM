@@ -34,9 +34,9 @@ Connecting, disconnecting, and applying settings changes to the MCP server are a
 |-----------|-------|-----|
 | Connect | AI client side | Paste JSON into MCP config file, then reload VSCode (Ctrl+Shift+P → Developer: Reload Window) |
 | Disconnect | AI client side | In `/mcp`, Disconnect or Disable mpm |
-| Apply settings changes | AI client side | Re-copy JSON from [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP Server Settings.md), update the config file, then reload VSCode (Ctrl+Shift+P → Developer: Reload Window) |
+| Apply settings changes | AI client side | Re-copy JSON from [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP%20Server%20Settings.md), update the config file, then reload VSCode (Ctrl+Shift+P → Developer: Reload Window) |
 
-For detailed steps, see [AI Auto-Operation - Disconnect & Reconnect](10-AI Auto-Operation - Disconnect & Reconnect.md).
+For detailed steps, see [AI Auto-Operation - Disconnect & Reconnect](10-AI%20Auto-Operation%20-%20Disconnect%20&%20Reconnect.md).
 
 ## Supported AI Tools
 
@@ -101,7 +101,7 @@ Claude Code is a tool that lets you work while chatting with AI. Skip to Step 5 
 3. Make sure the **Generation On Demand** button is turned on in this app
 4. Just give instructions in natural language, like "Check all prompts in the Quality category"
 
-> Please also see [AI Auto-Operation - Safe Setup Guide](09-AI Auto-Operation - Safe Setup Guide.md).
+> Please also see [AI Auto-Operation - Safe Setup Guide](09-AI%20Auto-Operation%20-%20Safe%20Setup%20Guide.md).
 
 ### Subsequent Use
 
@@ -114,12 +114,12 @@ Setup is only needed once. From then on:
 
 - This feature uses the MCP protocol (Model Context Protocol) to connect AI with this app
 - Communication between this app and the AI client is done locally (localhost). However, please note that the AI client (e.g., Claude Code) sends prompt content to the AI service's API, meaning your prompt content will be transmitted to the AI service provider
-- API tokens are randomly generated on first startup and the same token is reused thereafter. You can also manually regenerate it from [API Server Settings](../../PromptGeneration/04-Menu/02-Generation On Demand/02-API Server Settings.md)
-- If you regenerate the token, re-copy the JSON from [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP Server Settings.md) and update the MCP config file
+- API tokens are randomly generated on first startup and the same token is reused thereafter. You can also manually regenerate it from [API Server Settings](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)
+- If you regenerate the token, re-copy the JSON from [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP%20Server%20Settings.md) and update the MCP config file
 
 ## Related
 
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [On Demand](../../PromptGeneration/04-Menu/02-Generation On Demand/README.md)
-- [API Server](../../PromptGeneration/04-Menu/02-Generation On Demand/02-API Server Settings.md)
-- [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP Server Settings.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [On Demand](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/README.md)
+- [API Server](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)
+- [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP%20Server%20Settings.md)

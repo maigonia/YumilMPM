@@ -26,23 +26,23 @@ A list of created FavoriteLists is displayed. Click each item to toggle its chec
 
 Favorite List is a Category-scope feature, with each category having its own lists.
 
-To save the check state of the entire project, use [Check Preset](02-Check Preset.md).
+To save the check state of the entire project, use [Check Preset](02-Check%20Preset.md).
 
 ## Operations
 
 - **Left-click (checkbox)**: Toggle check state
 - **Right-click**: Edit, delete, reorder
 
-## Can Be Set as a Parameter for [CategoryIdentifer](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)'s [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md) Command.
+## Can Be Set as a Parameter for [CategoryIdentifer](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)'s [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md) Command.
 
 (Example) @@@_Backgrounds.Filter(favoritelist=indoors)_@@@
 
 ## Related
 
-- [Favorite Listsタブ](../01-Basics/04-Favorite Lists Tab.md)
-- [Check Preset](02-Check Preset.md)
-- [Advanced Panel](../01-Basics/07-What Is Advanced Panel.md)
-- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Create Favorite List](../../PromptTree/04-Menu/05-Checked/03-Create Favorite List.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
-- [Workflow Switching](../03-Tips/03-Switching Work Modes with Check Presets.md)
+- [Favorite Listsタブ](../01-Basics/04-Favorite%20Lists%20Tab.md)
+- [Check Preset](02-Check%20Preset.md)
+- [Advanced Panel](../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Create Favorite List](../../PromptTree/04-Menu/05-Checked/03-Create%20Favorite%20List.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
+- [Workflow Switching](../03-Tips/03-Switching%20Work%20Modes%20with%20Check%20Presets.md)

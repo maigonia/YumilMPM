@@ -54,7 +54,7 @@ In the Category Tree and Prompt Tree, the following key operations are available
 
 ## Editor Operations
 
-In the Prompt Editor, in addition to the [Command Palette](../../PromptEditor/01-Basics/01-Features/02-Command Palette.md), the following operations are available:
+In the Prompt Editor, in addition to the [Command Palette](../../PromptEditor/01-Basics/01-Features/02-Command%20Palette.md), the following operations are available:
 
 | Key | Operation |
 |-----|-----------|
@@ -68,10 +68,10 @@ In the Prompt Editor, in addition to the [Command Palette](../../PromptEditor/01
 
 **Alt+click** a menu item to assign a shortcut key to that operation. Assign shortcuts to frequently used operations.
 
-See the Shortcut Keys chapter in [Menu System Guide](04-Menu System Guide.md) for details.
+See the Shortcut Keys chapter in [Menu System Guide](04-Menu%20System%20Guide.md) for details.
 
 ## Related
 
-- [Menu System Guide](04-Menu System Guide.md)
-- [Command Palette](../../PromptEditor/01-Basics/01-Features/02-Command Palette.md)
-- [Shortcuts](../../PromptEditor/01-Basics/04-Keyboard Shortcuts.md)
+- [Menu System Guide](04-Menu%20System%20Guide.md)
+- [Command Palette](../../PromptEditor/01-Basics/01-Features/02-Command%20Palette.md)
+- [Shortcuts](../../PromptEditor/01-Basics/04-Keyboard%20Shortcuts.md)

@@ -18,7 +18,7 @@ Added tags can be managed at GlobalSettings > Tag Manager.
 ## Related
 
 - [Tag](04-Tag.md)
-- [PromptBrowser](03-Prompt Browser.md)
-- [Tag Manager](../../GlobalSettings/04-Menu/06-Tag Manager.md)
-- [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest Tags with AI.md)
-- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk Suggest Tags with AI.md)
+- [PromptBrowser](03-Prompt%20Browser.md)
+- [Tag Manager](../../GlobalSettings/04-Menu/06-Tag%20Manager.md)
+- [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest%20Tags%20with%20AI.md)
+- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk%20Suggest%20Tags%20with%20AI.md)

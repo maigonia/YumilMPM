@@ -21,7 +21,7 @@ You can check each category's Target, Filter, Pick, Sort, Join, Edit, and Final 
 
 ## Related
 
-- [Category Template](../../02-Glossary/01-Category Template.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Reset All Category Template](11-Reset All Category Template.md)
-- [Reset Current Category Template](10-Reset Current Category Template.md)
+- [Category Template](../../02-Glossary/01-Category%20Template.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Reset All Category Template](11-Reset%20All%20Category%20Template.md)
+- [Reset Current Category Template](10-Reset%20Current%20Category%20Template.md)

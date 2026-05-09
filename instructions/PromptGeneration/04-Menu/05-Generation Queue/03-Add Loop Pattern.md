@@ -20,7 +20,7 @@ The pattern editor opens when you execute the menu.
 
 ### Adding and Managing Queues
 
-Queues can be added and managed with the same operations as [Sequential Pattern](02-Add Sequential Pattern.md).
+Queues can be added and managed with the same operations as [Sequential Pattern](02-Add%20Sequential%20Pattern.md).
 
 1. Set up the tree's check states and click "**Add Current Snapshot**" to add a queue
 2. Repeat as many times as needed
@@ -50,7 +50,7 @@ When enabled, the execution order of queues is randomized from the 2nd loop onwa
 
 ### Save, Load, and Confirm
 
-Same as [Sequential Pattern](02-Add Sequential Pattern.md): "Save" saves to a file, saved patterns can be loaded, and "Add to Queue" confirms.
+Same as [Sequential Pattern](02-Add%20Sequential%20Pattern.md): "Save" saves to a file, saved patterns can be loaded, and "Add to Queue" confirms.
 
 ## Execution Flow
 
@@ -69,7 +69,7 @@ During execution, a progress bar and display like "Loop 1/2 - Queue Name" shows 
 
 ## After Completion
 
-When the specified number of loops is complete, the pattern status becomes "completed". Unlike [Sequential Pattern](02-Add Sequential Pattern.md), it is not automatically removed. Reset to re-execute or delete manually.
+When the specified number of loops is complete, the pattern status becomes "completed". Unlike [Sequential Pattern](02-Add%20Sequential%20Pattern.md), it is not automatically removed. Reset to re-execute or delete manually.
 
 For infinite loops, it never completes until manually stopped.
 
@@ -81,8 +81,8 @@ For infinite loops, it never completes until manually stopped.
 ## Related
 
 - [Generation Queue](README.md)
-- [Standard Pattern](01-Add Standard Pattern.md)
-- [Sequential Pattern](02-Add Sequential Pattern.md)
-- [Once Generation](../01-Once Generation.md)
-- [Output Category](../../../CategoryTree/02-Glossary/01-Output Category.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
+- [Standard Pattern](01-Add%20Standard%20Pattern.md)
+- [Sequential Pattern](02-Add%20Sequential%20Pattern.md)
+- [Once Generation](../01-Once%20Generation.md)
+- [Output Category](../../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)

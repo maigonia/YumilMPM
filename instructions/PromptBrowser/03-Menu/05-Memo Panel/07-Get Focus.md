@@ -17,4 +17,4 @@ Moves keyboard focus to the memo panel's text area. After focusing, you can imme
 ## Related
 
 - [Memo](../../01-Basics/02-Memo.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)

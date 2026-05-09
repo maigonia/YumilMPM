@@ -35,7 +35,7 @@ By placing a configuration file inside a dedicated folder for this app, Claude C
 
 - **Claude Code** must be installed (VSCode extension or CLI version)
 - A project must be open in this app
-- Standard setup ([AI Auto-Operation](08-AI Auto-Operation.md)) must be completed
+- Standard setup ([AI Auto-Operation](08-AI%20Auto-Operation.md)) must be completed
 
 ### Step 1: Create a Dedicated Folder for This App
 
@@ -111,5 +111,5 @@ By performing this app's operations and development work in separate folders, yo
 
 ## Related
 
-- [AI Auto-Operation](08-AI Auto-Operation.md)
-- [AI Auto-Operation - Command Reference](11-AI Auto-Operation - Command Reference.md)
+- [AI Auto-Operation](08-AI%20Auto-Operation.md)
+- [AI Auto-Operation - Command Reference](11-AI%20Auto-Operation%20-%20Command%20Reference.md)

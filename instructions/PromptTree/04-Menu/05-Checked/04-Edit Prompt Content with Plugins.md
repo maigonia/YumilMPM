@@ -87,8 +87,8 @@ Edits prompt content using a locally running LLM.
 
 ### Prerequisites
 
-- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md) must be installed and the server must be running
-- The server URL must be configured in [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
+- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md) must be installed and the server must be running
+- The server URL must be configured in [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
 
 ### Processing Flow
 
@@ -109,7 +109,7 @@ Translates prompt content to another language using Google Translate.
 
 1. Select source and target languages in the settings dialog
 2. Each prompt is translated sequentially
-3. When [Rate Limiting](../../../GlobalSettings/02-Glossary/06-Rate Limiting.md) is exceeded, a modal dialog opens with a countdown of remaining seconds (default: 3000ms delay, 20 requests/5 minutes)
+3. When [Rate Limiting](../../../GlobalSettings/02-Glossary/06-Rate%20Limiting.md) is exceeded, a modal dialog opens with a countdown of remaining seconds (default: 3000ms delay, 20 requests/5 minutes)
 
 ### About Rate Limiting
 
@@ -156,13 +156,13 @@ When the limit is exceeded, the modal dialog displays a countdown and auto-retri
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Plugin](../03-Selected Add/01-Plugin/README.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [Edit SelectedText with Plugins](../../../PromptEditor/01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [Rate Limiting](../../../GlobalSettings/02-Glossary/06-Rate Limiting.md)
-- [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt Editor.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Plugin](../03-Selected%20Add/01-Plugin/README.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [Edit SelectedText with Plugins](../../../PromptEditor/01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [Rate Limiting](../../../GlobalSettings/02-Glossary/06-Rate%20Limiting.md)
+- [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt%20Editor.md)

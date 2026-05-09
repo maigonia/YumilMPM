@@ -23,6 +23,6 @@ Selects all text in the editor.
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Copy](04-Copy.md)
 - [Cut](05-Cut.md)

@@ -14,4 +14,4 @@ Moves keyboard focus to the prompt tree. After focusing, you can navigate using 
 
 ## Related
 
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)

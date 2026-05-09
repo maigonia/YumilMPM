@@ -6,11 +6,11 @@
 
 - When you want to save frequently used prompt combinations
 - When you want to group specific prompts for quick recall
-- When you want to use it as a [filter](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md) condition for [CategoryIdentifier](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
+- When you want to use it as a [filter](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md) condition for [CategoryIdentifier](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
 
 ## What It Does
 
-Creates a new **favorite list** from the checked prompts. The created list can be accessed from the "Favorite List" tab in the [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md).
+Creates a new **favorite list** from the checked prompts. The created list can be accessed from the "Favorite List" tab in the [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md).
 
 ## What Is a Favorite List
 
@@ -27,13 +27,13 @@ A favorite list is a group of prompts that can be created **per category**.
 3. Enter a list name in the dialog
 4. Click **Create**
 
-After creation, it appears in the "Favorite List" tab of the [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md).
+After creation, it appears in the "Favorite List" tab of the [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md).
 
 ## How to Use Favorite Lists
 
 ### Accessing from the Advanced Panel
 
-1. Open the [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md)
+1. Open the [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md)
 2. Select the "Favorite List" tab
 3. Turn ON the list's checkbox
 4. The prompts in the list become checked
@@ -49,7 +49,7 @@ Multiple lists can be used in combination.
 
 ### Using with the Filter Command
 
-Can be specified as a parameter for the [CategoryIdentifier](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)'s [filter](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md) command:
+Can be specified as a parameter for the [CategoryIdentifier](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)'s [filter](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md) command:
 
 ```
 @@@_Character.Filter(favoriteList=Main Characters)_@@@
@@ -59,7 +59,7 @@ This makes only the prompts in the favorite list "Main Characters" the output ta
 
 ## Difference from Check Presets
 
-The [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md) has a similar feature called "Check Preset," but it works differently.
+The [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md) has a similar feature called "Check Preset," but it works differently.
 
 **Favorite List**:
 - **Scope**: Per category
@@ -92,9 +92,9 @@ The [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Favorite List](../../../AdvancedPanel/02-Glossary/03-Favorite List.md)
-- [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md)
-- [Filter](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Favorite List](../../../AdvancedPanel/02-Glossary/03-Favorite%20List.md)
+- [Advanced Panel](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Filter](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)

@@ -24,6 +24,6 @@ Opens the folder where generation results are saved in the OS file explorer.
 
 ## Related
 
-- [Auto-save prompts to text files](10-Auto-save prompts to text files.md)
-- [Open Data Folder](../../File/02-Menu/07-Open Data Folder.md)
-- [Once Generation](01-Once Generation.md)
+- [Auto-save prompts to text files](10-Auto-save%20prompts%20to%20text%20files.md)
+- [Open Data Folder](../../File/02-Menu/07-Open%20Data%20Folder.md)
+- [Once Generation](01-Once%20Generation.md)

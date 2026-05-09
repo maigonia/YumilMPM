@@ -23,10 +23,10 @@ A group is the same as a regular prompt but displayed with a folder icon. It ser
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Hierarchy](../../../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add Root Group](../../09-Add Root Group.md)
-- [Add Child](01-Add Child.md)
-- [Add Sibling](04-Add Sibling.md)
-- [Set As Group](../../01-Selected/07-Change Icon/02-Set as Group.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Hierarchy](../../../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add Root Group](../../09-Add%20Root%20Group.md)
+- [Add Child](01-Add%20Child.md)
+- [Add Sibling](04-Add%20Sibling.md)
+- [Set As Group](../../01-Selected/07-Change%20Icon/02-Set%20as%20Group.md)

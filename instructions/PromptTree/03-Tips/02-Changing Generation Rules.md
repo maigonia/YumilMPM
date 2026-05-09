@@ -16,11 +16,11 @@ There are two ways to change the rule:
 
 ### Method 1: Change the Output Category Settings
 
-In [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md), you can change the generation rule using [CategoryTemplate](../../AdvancedPanel/02-Glossary/01-Category Template.md) (in the Advanced Panel).
+In [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md), you can change the generation rule using [CategoryTemplate](../../AdvancedPanel/02-Glossary/01-Category%20Template.md) (in the Advanced Panel).
 
 ### Method 2: Use CategoryIdentifier Notation
 
-In [Non-Output Category](../../CategoryTree/02-Glossary/01-Output Category.md), you can specify rules using [CategoryIdentifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) notation.
+In [Non-Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md), you can specify rules using [CategoryIdentifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) notation.
 
 For example, you can retrieve all checked prompts by writing:
 
@@ -47,9 +47,9 @@ When you want to select a different background each time from multiple candidate
 
 ## Related
 
-- [Check State](../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
+- [Check State](../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)

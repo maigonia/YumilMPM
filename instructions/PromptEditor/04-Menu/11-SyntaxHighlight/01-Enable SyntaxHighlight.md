@@ -21,7 +21,7 @@ Toggles the syntax highlighting feature on/off in the prompt editor. When enable
 
 ## Basic Flow
 
-1. **Create rules**: First create highlighting rules in [SyntaxHighlight Setting](02-SyntaxHighlight Setting.md)
+1. **Create rules**: First create highlighting rules in [SyntaxHighlight Setting](02-SyntaxHighlight%20Setting.md)
 2. **Enable**: Check the Enable menu
 3. **Verify**: Check the coloring in the editor
 4. **Adjust**: Change settings or temporarily turn off as needed
@@ -40,7 +40,7 @@ Toggles the syntax highlighting feature on/off in the prompt editor. When enable
 
 ### Relationship with Rule Settings
 
-- Highlighting rules can be created/edited in [SyntaxHighlight Setting](02-SyntaxHighlight Setting.md)
+- Highlighting rules can be created/edited in [SyntaxHighlight Setting](02-SyntaxHighlight%20Setting.md)
 - Enable only toggles on/off; rules themselves are not deleted
 - Rules are preserved even when temporarily turned off
 
@@ -54,12 +54,12 @@ Toggles the syntax highlighting feature on/off in the prompt editor. When enable
 
 ### Testing Rules
 
-1. First create a simple rule in [SyntaxHighlight Setting](02-SyntaxHighlight Setting.md)
+1. First create a simple rule in [SyntaxHighlight Setting](02-SyntaxHighlight%20Setting.md)
 2. Turn on with Enable to check the effect
 3. Add more rules as you like
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
 - [SyntaxHighlight](../../01-Basics/01-Features/07-SyntaxHighlight.md)
-- [SyntaxHighlight Setting](02-SyntaxHighlight Setting.md)
+- [SyntaxHighlight Setting](02-SyntaxHighlight%20Setting.md)

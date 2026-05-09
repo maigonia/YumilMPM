@@ -13,7 +13,7 @@ Expands all nodes in the prompt tree.
 
 ## Related
 
-- [Hierarchy](../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [Collapse All](../../CategoryTree/03-Menu/04-Collapse All.md)
-- [Collapse Except Checked](13-Collapse Except Checked.md)
+- [Hierarchy](../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Collapse All](../../CategoryTree/03-Menu/04-Collapse%20All.md)
+- [Collapse Except Checked](13-Collapse%20Except%20Checked.md)

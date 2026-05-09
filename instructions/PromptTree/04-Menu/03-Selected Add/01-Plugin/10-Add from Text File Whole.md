@@ -66,7 +66,7 @@ Selecting "All Files" in the dialog allows other file types as well.
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add From Text File](09-Add from Text File Lines.md)
-- [Add From File System](13-Add from File System.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add From Text File](09-Add%20from%20Text%20File%20Lines.md)
+- [Add From File System](13-Add%20from%20File%20System.md)

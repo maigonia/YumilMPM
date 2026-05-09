@@ -26,8 +26,8 @@ Displays a dialog to enter a name, then adds a sibling prompt at the same level 
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add Child](01-Add Child.md)
-- [Add Sibling](04-Add Sibling.md)
-- [Rename](../../../../CategoryTree/03-Menu/01-Selected Category/04-Rename.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add Child](01-Add%20Child.md)
+- [Add Sibling](04-Add%20Sibling.md)
+- [Rename](../../../../CategoryTree/03-Menu/01-Selected%20Category/04-Rename.md)

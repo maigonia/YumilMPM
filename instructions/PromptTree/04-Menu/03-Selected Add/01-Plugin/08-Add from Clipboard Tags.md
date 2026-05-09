@@ -30,8 +30,8 @@ Four child prompts are created: "1girl", "red hair", "blue eyes", "smile"
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
 - [Tag](../../../../PromptBrowser/01-Basics/04-Tag.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add From Clipboard](06-Add from Clipboard Lines.md)
-- [Add From Clipboard Whole](07-Add from Clipboard Whole.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add From Clipboard](06-Add%20from%20Clipboard%20Lines.md)
+- [Add From Clipboard Whole](07-Add%20from%20Clipboard%20Whole.md)

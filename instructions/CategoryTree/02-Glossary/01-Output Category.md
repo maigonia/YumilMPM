@@ -37,7 +37,7 @@ The category name color indicates its state:
 
 ## Uses of Non-Output Categories
 
-Non-output categories are not included in normal generation, but they can be referenced as data sources from [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) and programmable blocks. This is useful for organizing prompts that you don't normally output but want to use under specific conditions.
+Non-output categories are not included in normal generation, but they can be referenced as data sources from [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) and programmable blocks. This is useful for organizing prompts that you don't normally output but want to use under specific conditions.
 
 ## How to Toggle
 
@@ -47,9 +47,9 @@ Non-output categories are not included in normal generation, but they can be ref
 
 ## Related
 
-- [Category](../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [PromptTree](../../PromptTree/01-Basics/03-Prompt Tree Overview.md)
+- [Category](../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [PromptTree](../../PromptTree/01-Basics/03-Prompt%20Tree%20Overview.md)

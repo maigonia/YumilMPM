@@ -4,12 +4,12 @@
 
 ## When to Use
 
-- When the same [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) is used in multiple places and you want all of them to output the same result
+- When the same [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) is used in multiple places and you want all of them to output the same result
 - When you want to maintain character consistency (e.g., same hair color in multiple places)
 
 ## What It Does
 
-Configures whether all instances of the same [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) output the same result when used multiple times.
+Configures whether all instances of the same [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) output the same result when used multiple times.
 
 **Example**: When `@@@_Character1_@@@` appears twice
 
@@ -29,6 +29,6 @@ Configures whether all instances of the same [Category Identifier](../../PromptE
 
 ## Related
 
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Once Generation](01-Once Generation.md)
-- [env.SEED](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/12-env.SEED.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Once Generation](01-Once%20Generation.md)
+- [env.SEED](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/12-env.SEED.md)

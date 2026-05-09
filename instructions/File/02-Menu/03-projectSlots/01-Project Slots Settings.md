@@ -34,7 +34,7 @@ File > Project Slots >
 
 ### When You Want a Similar Project
 
-If the goal is "create a new themed project based on an existing one" or "duplicate an existing project as a derivative," this app does not yet provide a dedicated export feature, but folder copy or partial overwrite can be used. See [Exporting and Migrating Data](../../01-Basics/03-Exporting and Migrating Data.md) for details.
+If the goal is "create a new themed project based on an existing one" or "duplicate an existing project as a derivative," this app does not yet provide a dedicated export feature, but folder copy or partial overwrite can be used. See [Exporting and Migrating Data](../../01-Basics/03-Exporting%20and%20Migrating%20Data.md) for details.
 
 ## How to Use
 
@@ -79,7 +79,7 @@ Press the **pencil icon** next to the dropdown → inline-edit → confirm with 
 ## Notes
 
 - Slot set changes (add, rename, delete) are saved when **OK** is pressed
-- When a slot is clicked to switch projects, the currently open project is automatically saved and backed up first (when [AutoSave on Application Close](../08-AutoSave on Application Close.md) / [Enable Auto Backup](../09-BackUp/02-Quick Backup/06-Enable Auto Backup.md) are enabled)
+- When a slot is clicked to switch projects, the currently open project is automatically saved and backed up first (when [AutoSave on Application Close](../08-AutoSave%20on%20Application%20Close.md) / [Enable Auto Backup](../09-BackUp/02-Quick%20Backup/06-Enable%20Auto%20Backup.md) are enabled)
 - If a slot's folder is deleted or moved outside the app, clicking that slot shows an error and cannot open the project. Either unregister the slot in settings or pick the correct folder again
 - Deleting a slot set does not affect other projects. If a deleted set was assigned to another project, that project will simply drop the assignment the next time it is opened
 - A single slot set can hold up to **20** slots. There is no limit on how many slot sets can be created
@@ -105,10 +105,10 @@ Steps:
 
 ## Related
 
-- [New Project](../01-New Project.md)
-- [Open Project](../02-Open Project.md)
-- [Close Project](../05-Close Project.md)
-- [Save Project](../06-Save Project.md)
-- [AutoSave on Application Close](../08-AutoSave on Application Close.md)
-- [Enable Auto Backup](../09-BackUp/02-Quick Backup/06-Enable Auto Backup.md)
-- [Exporting and Migrating Data](../../01-Basics/03-Exporting and Migrating Data.md)
+- [New Project](../01-New%20Project.md)
+- [Open Project](../02-Open%20Project.md)
+- [Close Project](../05-Close%20Project.md)
+- [Save Project](../06-Save%20Project.md)
+- [AutoSave on Application Close](../08-AutoSave%20on%20Application%20Close.md)
+- [Enable Auto Backup](../09-BackUp/02-Quick%20Backup/06-Enable%20Auto%20Backup.md)
+- [Exporting and Migrating Data](../../01-Basics/03-Exporting%20and%20Migrating%20Data.md)

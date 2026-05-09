@@ -30,10 +30,10 @@ The spec format is identical to CI's `.Edit(...)`. There is no new syntax to lea
 
 ## Prerequisites
 
-- The plugin must be enabled in the **Programmable Block** tab of [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
+- The plugin must be enabled in the **Programmable Block** tab of [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
 - For LMStudioEdit, GoogleTranslate, and other external service plugins, the same prerequisites apply (LM Studio running, API keys configured, etc.)
 
-> **Important**: Not every Edit plugin is callable from `env.PLUGINEDIT`. Only the plugins listed in the **Programmable Block** tab of [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) — and enabled there — are eligible.
+> **Important**: Not every Edit plugin is callable from `env.PLUGINEDIT`. Only the plugins listed in the **Programmable Block** tab of [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) — and enabled there — are eligible.
 
 ## Plugins That Cannot Be Called From PB
 
@@ -130,4 +130,4 @@ Chunk-aware plugins (e.g., `UseNameAsContent`) automatically receive `env.chunk`
 - [Programmable Block](../README.md)
 - [env.CI](02-env.CI.md)
 - [env.LMEDIT](08-env.LMEDIT.md)
-- [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
+- [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)

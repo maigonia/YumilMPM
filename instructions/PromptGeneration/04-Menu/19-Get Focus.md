@@ -22,8 +22,8 @@ Select **PromptGeneration > Get Focus** from the menu
 
 ## Related
 
-- [Generation](../01-Basics/03-About Prompt Generation.md)
-- [Once Generation](01-Once Generation.md)
-- [Generation On Demand](02-Generation On Demand/README.md)
-- [Timer Generation](03-Timer Generation/README.md)
-- [Generation Queue](05-Generation Queue/README.md)
+- [Generation](../01-Basics/03-About%20Prompt%20Generation.md)
+- [Once Generation](01-Once%20Generation.md)
+- [Generation On Demand](02-Generation%20On%20Demand/README.md)
+- [Timer Generation](03-Timer%20Generation/README.md)
+- [Generation Queue](05-Generation%20Queue/README.md)

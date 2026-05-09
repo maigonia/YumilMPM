@@ -24,6 +24,6 @@ Toggles the [AutoComplete](../../01-Basics/01-Features/01-AutoComplete.md) featu
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
 - [AutoComplete](../../01-Basics/01-Features/01-AutoComplete.md)
-- [AutoComplete Setting](02-AutoComplete Settings - List & Candidate Management.md)
+- [AutoComplete Setting](02-AutoComplete%20Settings%20-%20List%20&%20Candidate%20Management.md)

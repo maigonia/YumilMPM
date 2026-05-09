@@ -32,6 +32,6 @@ Searches for text within the editor. A search bar appears and highlights locatio
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Replace](08-Replace.md)
-- [Selected Text As Search Query](02-Selected Text As Search Query.md)
+- [Selected Text As Search Query](02-Selected%20Text%20As%20Search%20Query.md)

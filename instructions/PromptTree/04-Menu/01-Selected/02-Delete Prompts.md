@@ -16,11 +16,11 @@ Deletes the selected prompt. If the prompt has descendants, all descendants are 
 ## Notes
 - Deletion cannot be undone
 - When deleting a prompt with descendants, the number of descendants is displayed
-- For [Folder Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)s and [File Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)s, only the prompt is deleted and the original files remain (use "Delete Chunk and Files" if you also want to delete the files)
+- For [Folder Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)s and [File Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)s, only the prompt is deleted and the original files remain (use "Delete Chunk and Files" if you also want to delete the files)
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Delete Chunk and Files](03-Delete Chunk and Files.md)
-- [Delete Checked Prompts](../05-Checked/07-Delete Prompts.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Delete Chunk and Files](03-Delete%20Chunk%20and%20Files.md)
+- [Delete Checked Prompts](../05-Checked/07-Delete%20Prompts.md)

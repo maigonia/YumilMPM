@@ -74,7 +74,7 @@ Output:
 
 ## Using with Category Identifier
 
-Can also be used with [Category Identifier](../../02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) Edit syntax:
+Can also be used with [Category Identifier](../../02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) Edit syntax:
 
 ```
 @@@_Category.Edit(CreateYumilParserBlock)_@@@
@@ -83,7 +83,7 @@ Can also be used with [Category Identifier](../../02-How To Write Prompt Content
 ## Notes
 
 - On the ComfyUI side, a single prompt can contain multiple `###_..._###` blocks, and each one is recognized individually
-- The [WD14 Tagger](14-WD14 Tagger.md) dialog also has a "Format for ComfyUI Yumil Parser" checkbox that automatically applies Path and Text conversion
+- The [WD14 Tagger](14-WD14%20Tagger.md) dialog also has a "Format for ComfyUI Yumil Parser" checkbox that automatically applies Path and Text conversion
 - Omitted elements are excluded from the output (empty `.Value()` etc. will not appear)
 
 ## Download
@@ -94,9 +94,9 @@ Yumil Prompt Parser is included in **ComfyUI Yumil MPM**.
 
 ## Related
 
-- [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [WD14 Tagger](14-WD14 Tagger.md)
-- [Add From WD14](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/19-Add from WD14.md)
-- [Category Identifier](../../02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
+- [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [WD14 Tagger](14-WD14%20Tagger.md)
+- [Add From WD14](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/19-Add%20from%20WD14.md)
+- [Category Identifier](../../02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)

@@ -68,7 +68,7 @@ Tags are displayed in order of usage count (most used first).
 3. Ctrl+Enter to confirm, Esc to cancel
 4. Clicking outside (blur) also saves
 
-**Tips**: Writing descriptions helps AI understand what each tag means. When using [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest Tags with AI.md) to get tag suggestions, or when referencing tag information from [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) to have AI organize or create tags, descriptions lead to more accurate results.
+**Tips**: Writing descriptions helps AI understand what each tag means. When using [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest%20Tags%20with%20AI.md) to get tag suggestions, or when referencing tag information from [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) to have AI organize or create tags, descriptions lead to more accurate results.
 
 ### Deleting Tags
 
@@ -110,11 +110,11 @@ When a category is selected in the left pane, the behavior of **Delete** and **M
 - Operation results are shown in the status bar (below the selection/total count)
 - Duplicate tag names are not allowed (case-insensitive)
 - Changes are applied in real-time (no Save button needed)
-- Descriptions can be referenced from [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) via `env.tagDefinitions` / `env.chunk.tagDefinitions` / `env.getCategory("X").tagDefinitions`
+- Descriptions can be referenced from [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) via `env.tagDefinitions` / `env.chunk.tagDefinitions` / `env.getCategory("X").tagDefinitions`
 
 ## Related
 
 - [Tag](../../PromptBrowser/01-Basics/04-Tag.md)
-- [env.globalTags](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/06-env.globalTags.md)
-- [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest Tags with AI.md)
-- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk Suggest Tags with AI.md)
+- [env.globalTags](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/06-env.globalTags.md)
+- [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest%20Tags%20with%20AI.md)
+- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk%20Suggest%20Tags%20with%20AI.md)

@@ -13,8 +13,8 @@ Checks all prompts in the current category.
 
 ## Related
 
-- [Check State](../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [UnCheck All](07-Uncheck All.md)
-- [Check All Leaves](08-Check All Leaves.md)
-- [Collapse Except Checked](13-Collapse Except Checked.md)
+- [Check State](../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [UnCheck All](07-Uncheck%20All.md)
+- [Check All Leaves](08-Check%20All%20Leaves.md)
+- [Collapse Except Checked](13-Collapse%20Except%20Checked.md)

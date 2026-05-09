@@ -2,6 +2,6 @@
 
 ## Contents
 
-- [What is Category Identifier](01-What is Category Identifier.md)
-- [Action Commands](02-Action Commands/)
-- [Recommended Usage](03-Recommended Usage/)
+- [What is Category Identifier](01-What%20is%20Category%20Identifier.md)
+- [Action Commands](02-Action%20Commands/)
+- [Recommended Usage](03-Recommended%20Usage/)

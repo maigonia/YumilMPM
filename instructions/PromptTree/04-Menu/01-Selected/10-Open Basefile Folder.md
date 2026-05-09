@@ -3,7 +3,7 @@
 
 ## When to Use
 - When you want to check the location of the file a prompt was created from
-- When you want to edit the original file of a [Folder Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md) or [File Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
+- When you want to edit the original file of a [Folder Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md) or [File Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
 
 ## What It Does
 Opens the folder containing the base file (or source file) associated with the prompt in Explorer.
@@ -15,11 +15,11 @@ Opens the folder containing the base file (or source file) associated with the p
 
 ## Notes
 - Not available for prompts without file paths (manually created ones)
-- Available for [Folder Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)s and [File Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)s
+- Available for [Folder Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)s and [File Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)s
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Delete Chunk and Files](03-Delete Chunk and Files.md)
-- [Open Data Folder](../../../File/02-Menu/07-Open Data Folder.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Delete Chunk and Files](03-Delete%20Chunk%20and%20Files.md)
+- [Open Data Folder](../../../File/02-Menu/07-Open%20Data%20Folder.md)

@@ -40,8 +40,8 @@ The dialog has a 3-panel layout:
 - Success/failure counts are displayed on completion
 
 ## Notes
-- When calling an AI API within a programmable block, the [API Key Settings](../../../GlobalSettings/04-Menu/09-API Key Settings.md) corresponding to the AI being used is required
-- When using [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md), the server must be running
+- When calling an AI API within a programmable block, the [API Key Settings](../../../GlobalSettings/04-Menu/09-API%20Key%20Settings.md) corresponding to the AI being used is required
+- When using [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md), the server must be running
 - Not available when no prompts are checked
 - Processing runs sequentially, so it takes time when there are many prompts
 - You can select apply/skip individually before batch applying
@@ -51,19 +51,19 @@ The dialog has a 3-panel layout:
 The text entered in the editor is used directly as output.
 
 - The text in the editor is used as-is as the result
-- If a [Programmable Block](../../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) (`@@@_..._@@@`) is included, that portion is replaced with the block's execution result, and the surrounding text remains unchanged
+- If a [Programmable Block](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) (`@@@_..._@@@`) is included, that portion is replaced with the block's execution result, and the surrounding text remains unchanged
 - It also works as plain text without using programmable blocks
 - The final text is split by **commas or newlines**, and each part is recognized as a tag
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
 - [Tag](../../../PromptBrowser/01-Basics/04-Tag.md)
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [Suggest Tags with AI](../01-Selected/08-Suggest Tags with AI.md)
-- [Bulk Suggest Names with AI](06-Bulk Suggest Names with AI.md)
-- [Tag Manager](../../../GlobalSettings/04-Menu/06-Tag Manager.md)
-- [Programmable Block](../../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [Suggest Tags with AI](../01-Selected/08-Suggest%20Tags%20with%20AI.md)
+- [Bulk Suggest Names with AI](06-Bulk%20Suggest%20Names%20with%20AI.md)
+- [Tag Manager](../../../GlobalSettings/04-Menu/06-Tag%20Manager.md)
+- [Programmable Block](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)

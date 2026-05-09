@@ -24,7 +24,7 @@ Changes the name of the selected category.
 
 ## Related
 
-- [Category](../../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Add Root Category](../02-Add Root Category.md)
-- [Add Child Category](01-Add Child Category.md)
-- [Add Brother Category](02-Add Brother Category.md)
+- [Category](../../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Add Root Category](../02-Add%20Root%20Category.md)
+- [Add Child Category](01-Add%20Child%20Category.md)
+- [Add Brother Category](02-Add%20Brother%20Category.md)

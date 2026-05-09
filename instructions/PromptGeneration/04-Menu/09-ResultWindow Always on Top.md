@@ -24,7 +24,7 @@ Configures whether the result window is always displayed on top of other windows
 
 ## Related
 
-- [Result Window](../01-Basics/04-Result Window.md)
-- [Show ResultWindow After Generation](07-Show ResultWindow After Generation.md)
-- [Activate ResultWindow After Generation](08-Activate ResultWindow After Generation.md)
-- [Show Result Window](18-Show Result Window.md)
+- [Result Window](../01-Basics/04-Result%20Window.md)
+- [Show ResultWindow After Generation](07-Show%20ResultWindow%20After%20Generation.md)
+- [Activate ResultWindow After Generation](08-Activate%20ResultWindow%20After%20Generation.md)
+- [Show Result Window](18-Show%20Result%20Window.md)

@@ -47,9 +47,9 @@ You can apply plugin processing to the text content of checked prompts in bulk.
 
 ## Related
 
-- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Favorite List](../02-Glossary/03-Favorite List.md)
-- [Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit Prompt Content with Plugins.md)
-- [Bulk Suggest Names with AI](../../PromptTree/04-Menu/05-Checked/06-Bulk Suggest Names with AI.md)
-- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk Suggest Tags with AI.md)
+- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Favorite List](../02-Glossary/03-Favorite%20List.md)
+- [Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit%20Prompt%20Content%20with%20Plugins.md)
+- [Bulk Suggest Names with AI](../../PromptTree/04-Menu/05-Checked/06-Bulk%20Suggest%20Names%20with%20AI.md)
+- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk%20Suggest%20Tags%20with%20AI.md)

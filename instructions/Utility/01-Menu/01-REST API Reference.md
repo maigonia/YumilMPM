@@ -2,7 +2,7 @@
 
 **REST API Reference**
 
-This is the specification for this app's built-in HTTP API server. AI Auto-Operation ([AI Auto-Operation](08-AI Auto-Operation.md)) calls this API via the MCP protocol, but here all endpoints are exposed for developers and plugin authors who want to call them **directly via HTTP**.
+This is the specification for this app's built-in HTTP API server. AI Auto-Operation ([AI Auto-Operation](08-AI%20Auto-Operation.md)) calls this API via the MCP protocol, but here all endpoints are exposed for developers and plugin authors who want to call them **directly via HTTP**.
 
 > **API Status: Evolving**
 >
@@ -19,7 +19,7 @@ This is the specification for this app's built-in HTTP API server. AI Auto-Opera
 
 You can read and write this app's state from external processes via HTTP requests. The provided functionality covers roughly the same scope as AI Auto-Operation, with about 51 endpoints available.
 
-> **Relationship to MCP**: AI Auto-Operation ([AI Auto-Operation](08-AI Auto-Operation.md)) has a configuration where the MCP server internally calls this REST API. If you use an AI client, going through MCP is convenient, but if you call from your own scripts, direct HTTP is simpler.
+> **Relationship to MCP**: AI Auto-Operation ([AI Auto-Operation](08-AI%20Auto-Operation.md)) has a configuration where the MCP server internally calls this REST API. If you use an AI client, going through MCP is convenient, but if you call from your own scripts, direct HTTP is simpler.
 
 ## API Endpoint Categories
 
@@ -27,12 +27,12 @@ The 51 endpoints are categorized into 6 pages by purpose.
 
 | Category | Count | Main Content | Link |
 |---|---|---|---|
-| Read (READ) | 12 | List, get, and search categories/prompts/tags | [REST API - Read Endpoints](02-REST API - Read Endpoints.md) |
-| Write & Check (WRITE) | 13 | Add/edit prompts, check operations, template settings | [REST API - Write Endpoints](03-REST API - Write Endpoints.md) |
-| Delete (DELETE) | 5 | Delete prompts/categories/tags (dry_run supported) | [REST API - Delete Endpoints](04-REST API - Delete Endpoints.md) |
-| Queue (QUEUE) | 8 | Queue pattern management | [REST API - Queue Endpoints](05-REST API - Queue Endpoints.md) |
-| Generation (GENERATION) | 4 | Classification outline, CI evaluation, generation preview, category structure retrieval | [REST API - Generation Endpoints](06-REST API - Generation Endpoints.md) |
-| Instruction & History | 6 | Help reference, generation history | [REST API - Instruction Endpoints](07-REST API - Instruction Endpoints.md) |
+| Read (READ) | 12 | List, get, and search categories/prompts/tags | [REST API - Read Endpoints](02-REST%20API%20-%20Read%20Endpoints.md) |
+| Write & Check (WRITE) | 13 | Add/edit prompts, check operations, template settings | [REST API - Write Endpoints](03-REST%20API%20-%20Write%20Endpoints.md) |
+| Delete (DELETE) | 5 | Delete prompts/categories/tags (dry_run supported) | [REST API - Delete Endpoints](04-REST%20API%20-%20Delete%20Endpoints.md) |
+| Queue (QUEUE) | 8 | Queue pattern management | [REST API - Queue Endpoints](05-REST%20API%20-%20Queue%20Endpoints.md) |
+| Generation (GENERATION) | 4 | Classification outline, CI evaluation, generation preview, category structure retrieval | [REST API - Generation Endpoints](06-REST%20API%20-%20Generation%20Endpoints.md) |
+| Instruction & History | 6 | Help reference, generation history | [REST API - Instruction Endpoints](07-REST%20API%20-%20Instruction%20Endpoints.md) |
 
 ## Setup
 
@@ -44,7 +44,7 @@ Click PromptGeneration menu > **Generation On Demand**. This starts the HTTP ser
 
 ### Step 2: Check the Port Number and API Token
 
-You can check these in GlobalSettings > **API Server Settings** ([API Server Settings](../../PromptGeneration/04-Menu/02-Generation On Demand/02-API Server Settings.md)).
+You can check these in GlobalSettings > **API Server Settings** ([API Server Settings](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)).
 
 - **Default port**: `19720`
 - **API token**: A 64-character hex random string is auto-generated on first startup. It can also be regenerated from the same screen
@@ -135,7 +135,7 @@ Common error HTTP status codes:
 
 ### Programmable Block Errors
 
-CI evaluation (`evaluate_ci`) and generation preview (`preview_generation`) return Programmable Block runtime errors in a `programmable_errors` array (errors inside [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) are aggregated in this field rather than thrown).
+CI evaluation (`evaluate_ci`) and generation preview (`preview_generation`) return Programmable Block runtime errors in a `programmable_errors` array (errors inside [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) are aggregated in this field rather than thrown).
 
 ```json
 {
@@ -238,7 +238,7 @@ curl -X POST http://127.0.0.1:19720/api/v1/generate \
 
 | Use Case | Recommended |
 |---|---|
-| Operating from MCP-compatible AI like Claude Code | [AI Auto-Operation](08-AI Auto-Operation.md) (via MCP) |
+| Operating from MCP-compatible AI like Claude Code | [AI Auto-Operation](08-AI%20Auto-Operation.md) (via MCP) |
 | Custom scripts / batch processing | Direct REST API call |
 | Operations from other languages (Python / Go etc.) | Direct REST API call |
 | Plugin / extension development | Direct REST API call |
@@ -246,23 +246,23 @@ curl -X POST http://127.0.0.1:19720/api/v1/generate \
 
 ## Tips
 
-- **Data persistence**: This app does not persist in-memory data until [Save Project](../../File/02-Menu/06-Save Project.md). Data submitted via the API is the same — closing the app before saving will lose the data
+- **Data persistence**: This app does not persist in-memory data until [Save Project](../../File/02-Menu/06-Save%20Project.md). Data submitted via the API is the same — closing the app before saving will lose the data
 - **Use dry_run**: `delete_*` endpoints can preview "what will be deleted" with `dry_run: true`
 - **resolve_tags option**: `list_prompts` / `get_prompt` series can return tag IDs as-is with `resolve_tags: false`. Resolve names with `list_tags` if needed to reduce round trips
 - **search_prompts pagination**: Use `limit` (max 500) and `offset` to fetch large numbers of prompts in stages. `count_only: true` lets you fetch just the count first
 
 ## Related
 
-- [AI Auto-Operation](08-AI Auto-Operation.md)
-- [API Server Settings](../../PromptGeneration/04-Menu/02-Generation On Demand/02-API Server Settings.md)
-- [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP Server Settings.md)
-- [On Demand](../../PromptGeneration/04-Menu/02-Generation On Demand/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Save Project](../../File/02-Menu/06-Save Project.md)
-- [REST API - Read Endpoints](02-REST API - Read Endpoints.md)
-- [REST API - Write Endpoints](03-REST API - Write Endpoints.md)
-- [REST API - Delete Endpoints](04-REST API - Delete Endpoints.md)
-- [REST API - Queue Endpoints](05-REST API - Queue Endpoints.md)
-- [REST API - Generation Endpoints](06-REST API - Generation Endpoints.md)
-- [REST API - Instruction Endpoints](07-REST API - Instruction Endpoints.md)
+- [AI Auto-Operation](08-AI%20Auto-Operation.md)
+- [API Server Settings](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)
+- [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP%20Server%20Settings.md)
+- [On Demand](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Save Project](../../File/02-Menu/06-Save%20Project.md)
+- [REST API - Read Endpoints](02-REST%20API%20-%20Read%20Endpoints.md)
+- [REST API - Write Endpoints](03-REST%20API%20-%20Write%20Endpoints.md)
+- [REST API - Delete Endpoints](04-REST%20API%20-%20Delete%20Endpoints.md)
+- [REST API - Queue Endpoints](05-REST%20API%20-%20Queue%20Endpoints.md)
+- [REST API - Generation Endpoints](06-REST%20API%20-%20Generation%20Endpoints.md)
+- [REST API - Instruction Endpoints](07-REST%20API%20-%20Instruction%20Endpoints.md)

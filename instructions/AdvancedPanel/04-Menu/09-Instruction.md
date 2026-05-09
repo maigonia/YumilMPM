@@ -14,4 +14,4 @@ Opens the instruction (this document) for the Advanced Panel.
 
 ## Related
 
-- [Advanced Panel](../01-Basics/07-What Is Advanced Panel.md)
+- [Advanced Panel](../01-Basics/07-What%20Is%20Advanced%20Panel.md)

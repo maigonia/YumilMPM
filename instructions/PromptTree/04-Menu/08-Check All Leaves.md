@@ -14,8 +14,8 @@ Checks all prompts that have no children (leaves). Prompts with children are not
 
 ## Related
 
-- [Check State](../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [Check All](06-Check All.md)
-- [UnCheck All](07-Uncheck All.md)
-- [Leaf Prompts](02-Selected Check Uncheck/05-Leaf Prompts.md)
+- [Check State](../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Check All](06-Check%20All.md)
+- [UnCheck All](07-Uncheck%20All.md)
+- [Leaf Prompts](02-Selected%20Check%20Uncheck/05-Leaf%20Prompts.md)

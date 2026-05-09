@@ -4,7 +4,7 @@
 
 Endpoints for deleting prompts, categories, tags, presets, etc. (5 endpoints). All support the `dry_run` option to preview "what will be deleted" beforehand.
 
-> See [REST API Reference](01-REST API Reference.md) for common specifications (authentication / request format).
+> See [REST API Reference](01-REST%20API%20Reference.md) for common specifications (authentication / request format).
 
 ## Endpoint List
 
@@ -16,7 +16,7 @@ Endpoints for deleting prompts, categories, tags, presets, etc. (5 endpoints). A
 | `delete_tag` | Delete a tag | ✓ |
 | `bulk_delete_prompts` | Bulk delete multiple prompts | ✓ |
 
-> **Persistence note**: Delete operations are in-memory only and not reflected in files until [Save Project](../../File/02-Menu/06-Save Project.md) is performed.
+> **Persistence note**: Delete operations are in-memory only and not reflected in files until [Save Project](../../File/02-Menu/06-Save%20Project.md) is performed.
 
 ---
 
@@ -280,9 +280,9 @@ When tags are removed via `edit_prompt` and `usage_count` becomes 0, unprotected
 
 ## Related
 
-- [REST API Reference](01-REST API Reference.md)
-- [REST API - Read Endpoints](02-REST API - Read Endpoints.md)
-- [REST API - Write Endpoints](03-REST API - Write Endpoints.md)
-- [Save Project](../../File/02-Menu/06-Save Project.md)
+- [REST API Reference](01-REST%20API%20Reference.md)
+- [REST API - Read Endpoints](02-REST%20API%20-%20Read%20Endpoints.md)
+- [REST API - Write Endpoints](03-REST%20API%20-%20Write%20Endpoints.md)
+- [Save Project](../../File/02-Menu/06-Save%20Project.md)
 - [Tag](../../PromptBrowser/01-Basics/04-Tag.md)
-- [Check Preset](../../AdvancedPanel/02-Glossary/02-Check Preset.md)
+- [Check Preset](../../AdvancedPanel/02-Glossary/02-Check%20Preset.md)

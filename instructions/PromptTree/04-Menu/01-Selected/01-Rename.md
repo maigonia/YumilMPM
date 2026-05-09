@@ -21,6 +21,6 @@ Changes the name of the selected prompt. A dialog appears for entering the new n
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Suggest Name with AI](09-Suggest Name with AI.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Suggest Name with AI](09-Suggest%20Name%20with%20AI.md)

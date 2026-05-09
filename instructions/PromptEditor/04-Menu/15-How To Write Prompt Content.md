@@ -40,7 +40,7 @@ Commands can be added to CI to customize behavior.
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
-- [Category Identifier](../02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Programmable Block](../02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
+- [Category Identifier](../02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Programmable Block](../02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)

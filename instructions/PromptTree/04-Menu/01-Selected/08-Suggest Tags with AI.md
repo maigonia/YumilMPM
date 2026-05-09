@@ -40,8 +40,8 @@ Uses AI to automatically suggest tags appropriate for the content of the selecte
 
 ## Notes
 
-- When calling an AI API within a programmable block, the [API Key Settings](../../../GlobalSettings/04-Menu/09-API Key Settings.md) corresponding to the AI being used is required
-- When using [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md), the server must be running
+- When calling an AI API within a programmable block, the [API Key Settings](../../../GlobalSettings/04-Menu/09-API%20Key%20Settings.md) corresponding to the AI being used is required
+- When using [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md), the server must be running
 - The suggested tags can be applied after review
 - Tags are added to existing tags (not overwritten)
 - The last used preset is remembered per category
@@ -52,7 +52,7 @@ The text entered in the editor is used directly as the output.
 
 **Basic behavior:**
 - The text in the editor is used as-is as the result
-- If a [Programmable Block](../../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) (`@@@_..._@@@`) is included, that portion is replaced with the block's execution result, and the surrounding text remains unchanged
+- If a [Programmable Block](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) (`@@@_..._@@@`) is included, that portion is replaced with the block's execution result, and the surrounding text remains unchanged
 - Example: `preceding text` + `@@@_..._@@@` + `following text` → `preceding text` + `block output` + `following text`
 - It also works as plain text without using programmable blocks
 
@@ -106,12 +106,12 @@ _@@@
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
 - [Tag](../../../PromptBrowser/01-Basics/04-Tag.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [Suggest Name with AI](09-Suggest Name with AI.md)
-- [Bulk Suggest Tags with AI](../05-Checked/05-Bulk Suggest Tags with AI.md)
-- [Tag Manager](../../../GlobalSettings/04-Menu/06-Tag Manager.md)
-- [Programmable Block](../../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [Suggest Name with AI](09-Suggest%20Name%20with%20AI.md)
+- [Bulk Suggest Tags with AI](../05-Checked/05-Bulk%20Suggest%20Tags%20with%20AI.md)
+- [Tag Manager](../../../GlobalSettings/04-Menu/06-Tag%20Manager.md)
+- [Programmable Block](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)

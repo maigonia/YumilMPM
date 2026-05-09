@@ -33,9 +33,9 @@ It essentially repeats the same process as **PromptGeneration > Once Generation*
 
 ## Related
 
-- [Generation Modes](../../01-Basics/01-Generation Modes.md)
-- [Set Intervals](02-Set Intervals.md)
+- [Generation Modes](../../01-Basics/01-Generation%20Modes.md)
+- [Set Intervals](02-Set%20Intervals.md)
 - [Stop](../04-Stop.md)
-- [Once Generation](../01-Once Generation.md)
-- [Start On Demand](../02-Generation On Demand/01-Start On Demand.md)
-- [Generation Queue](../05-Generation Queue/README.md)
+- [Once Generation](../01-Once%20Generation.md)
+- [Start On Demand](../02-Generation%20On%20Demand/01-Start%20On%20Demand.md)
+- [Generation Queue](../05-Generation%20Queue/README.md)

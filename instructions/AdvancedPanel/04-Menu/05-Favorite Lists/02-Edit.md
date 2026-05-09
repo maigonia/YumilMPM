@@ -22,6 +22,6 @@ You can change the list name and the prompt ID list it contains.
 
 ## Related
 
-- [Favorite List](../../02-Glossary/03-Favorite List.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
+- [Favorite List](../../02-Glossary/03-Favorite%20List.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)

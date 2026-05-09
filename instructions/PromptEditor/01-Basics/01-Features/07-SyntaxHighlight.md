@@ -15,8 +15,8 @@ Highlight text matching user-defined patterns (strings or regular expressions) i
 
 ## Basic Flow
 
-1. **Enable**: Turn on the feature from the menu → [SyntaxHighlight Enable](../../04-Menu/11-SyntaxHighlight/01-Enable SyntaxHighlight.md)
-2. **Configure**: Create and edit rules → [SyntaxHighlight Setting](../../04-Menu/11-SyntaxHighlight/02-SyntaxHighlight Setting.md)
+1. **Enable**: Turn on the feature from the menu → [SyntaxHighlight Enable](../../04-Menu/11-SyntaxHighlight/01-Enable%20SyntaxHighlight.md)
+2. **Configure**: Create and edit rules → [SyntaxHighlight Setting](../../04-Menu/11-SyntaxHighlight/02-SyntaxHighlight%20Setting.md)
 3. **Verify**: Check the coloring in the editor
 4. **Adjust**: Add or modify rules as needed
 
@@ -24,6 +24,6 @@ For detailed usage and configuration, see the links above.
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
-- [SyntaxHighlight Enable](../../04-Menu/11-SyntaxHighlight/01-Enable SyntaxHighlight.md)
-- [SyntaxHighlight Setting](../../04-Menu/11-SyntaxHighlight/02-SyntaxHighlight Setting.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
+- [SyntaxHighlight Enable](../../04-Menu/11-SyntaxHighlight/01-Enable%20SyntaxHighlight.md)
+- [SyntaxHighlight Setting](../../04-Menu/11-SyntaxHighlight/02-SyntaxHighlight%20Setting.md)

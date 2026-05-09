@@ -41,10 +41,10 @@ Click each tab name to switch tabs. The active tab is highlighted with a blue (C
 
 ## Related
 
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Category Template](../02-Glossary/01-Category Template.md)
-- [Favorite Query](../02-Glossary/04-Favorite Query.md)
-- [Favorite List](../02-Glossary/03-Favorite List.md)
-- [Check Preset](../02-Glossary/02-Check Preset.md)
-- [Global Search](06-Global Search Search All Tab.md)
-- [Show Advanced Panel](../04-Menu/01-Show AdvancedPanel.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Category Template](../02-Glossary/01-Category%20Template.md)
+- [Favorite Query](../02-Glossary/04-Favorite%20Query.md)
+- [Favorite List](../02-Glossary/03-Favorite%20List.md)
+- [Check Preset](../02-Glossary/02-Check%20Preset.md)
+- [Global Search](06-Global%20Search%20Search%20All%20Tab.md)
+- [Show Advanced Panel](../04-Menu/01-Show%20AdvancedPanel.md)

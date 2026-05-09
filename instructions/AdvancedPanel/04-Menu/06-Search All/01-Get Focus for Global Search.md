@@ -24,7 +24,7 @@ In Global Search, you can search for prompts across all categories. Search resul
 
 ## Related
 
-- [Global Search](../../01-Basics/06-Global Search Search All Tab.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Search](../../01-Basics/07-What Is Advanced Panel.md)
-- [Favorite Query](../../02-Glossary/04-Favorite Query.md)
+- [Global Search](../../01-Basics/06-Global%20Search%20Search%20All%20Tab.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Search](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Favorite Query](../../02-Glossary/04-Favorite%20Query.md)

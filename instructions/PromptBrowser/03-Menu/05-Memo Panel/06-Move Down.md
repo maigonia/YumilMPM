@@ -19,5 +19,5 @@ Moves the currently displayed memo one position backward in the memo list.
 ## Related
 
 - [Memo](../../01-Basics/02-Memo.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Move Up Memo](05-Move Up.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Move Up Memo](05-Move%20Up.md)

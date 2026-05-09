@@ -26,8 +26,8 @@ Manually adding from the menu works the same way. A queue pattern for one genera
 ## Related
 
 - [Generation Queue](README.md)
-- [Sequential Pattern](02-Add Sequential Pattern.md)
-- [Loop Pattern](03-Add Loop Pattern.md)
-- [Once Generation](../01-Once Generation.md)
-- [Output Category](../../../CategoryTree/02-Glossary/01-Output Category.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
+- [Sequential Pattern](02-Add%20Sequential%20Pattern.md)
+- [Loop Pattern](03-Add%20Loop%20Pattern.md)
+- [Once Generation](../01-Once%20Generation.md)
+- [Output Category](../../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)

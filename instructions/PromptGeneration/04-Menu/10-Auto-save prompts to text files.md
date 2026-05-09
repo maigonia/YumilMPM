@@ -24,7 +24,7 @@ Configures whether generation results are automatically saved as text files afte
 
 ## Related
 
-- [Open Prompt Folder](06-Open Prompt Folder.md)
-- [Auto-Send Result to Clipboard](11-Auto-Send Result to Clipboard.md)
-- [Once Generation](01-Once Generation.md)
-- [Timer Generation Start](03-Timer Generation/01-Timer Generation Start.md)
+- [Open Prompt Folder](06-Open%20Prompt%20Folder.md)
+- [Auto-Send Result to Clipboard](11-Auto-Send%20Result%20to%20Clipboard.md)
+- [Once Generation](01-Once%20Generation.md)
+- [Timer Generation Start](03-Timer%20Generation/01-Timer%20Generation%20Start.md)

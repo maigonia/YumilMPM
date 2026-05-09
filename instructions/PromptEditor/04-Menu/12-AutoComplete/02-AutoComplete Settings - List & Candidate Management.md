@@ -22,7 +22,7 @@ Manages autocomplete candidate lists. You can create multiple lists and add cust
 - Toggle lists/candidates on/off
 - Clone lists
 
-For CSV import/export, see [AutoComplete Setting - CSV](03-AutoComplete Settings - CSV Features.md).
+For CSV import/export, see [AutoComplete Setting - CSV](03-AutoComplete%20Settings%20-%20CSV%20Features.md).
 
 ## How to Use
 
@@ -123,7 +123,7 @@ Setting icons per list makes it easy to identify the source of candidates during
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
 - [AutoComplete](../../01-Basics/01-Features/01-AutoComplete.md)
-- [AutoComplete Enable](01-Enable AutoComplete.md)
-- [AutoComplete Setting - CSV](03-AutoComplete Settings - CSV Features.md)
+- [AutoComplete Enable](01-Enable%20AutoComplete.md)
+- [AutoComplete Setting - CSV](03-AutoComplete%20Settings%20-%20CSV%20Features.md)

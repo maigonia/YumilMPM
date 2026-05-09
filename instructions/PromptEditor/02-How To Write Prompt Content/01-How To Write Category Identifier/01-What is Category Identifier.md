@@ -63,12 +63,12 @@ Each command has default values that are applied when omitted or when invalid pa
 
 | Command | Role | Example |
 |---------|------|---------|
-| [Target](02-Action Commands/01-Target.md) | How to select target prompts | `.Target(all)` |
-| [Filter](02-Action Commands/02-Filter.md) | Filtering by conditions | `.Filter(tag=main)` |
-| [Pick](02-Action Commands/03-Pick.md) | Selection method and count | `.Pick(random=3)` |
-| [Sort](02-Action Commands/04-Sort.md) | Sorting | `.Sort(name=asc)` |
-| [Join](02-Action Commands/05-Join.md) | Specifying separator | `.Join(, )` |
-| [Edit](02-Action Commands/06-Edit.md) | Text editing/processing | `.Edit(TrimWhitespaceEachLine)` |
+| [Target](02-Action%20Commands/01-Target.md) | How to select target prompts | `.Target(all)` |
+| [Filter](02-Action%20Commands/02-Filter.md) | Filtering by conditions | `.Filter(tag=main)` |
+| [Pick](02-Action%20Commands/03-Pick.md) | Selection method and count | `.Pick(random=3)` |
+| [Sort](02-Action%20Commands/04-Sort.md) | Sorting | `.Sort(name=asc)` |
+| [Join](02-Action%20Commands/05-Join.md) | Specifying separator | `.Join(, )` |
+| [Edit](02-Action%20Commands/06-Edit.md) | Text editing/processing | `.Edit(TrimWhitespaceEachLine)` |
 
 ### Processing Order
 
@@ -114,7 +114,7 @@ All commands have default values and can be omitted.
 
 ### Stacking Commands
 
-[Filter](02-Action Commands/02-Filter.md) and [Edit](02-Action Commands/06-Edit.md) can be used multiple times.
+[Filter](02-Action%20Commands/02-Filter.md) and [Edit](02-Action%20Commands/06-Edit.md) can be used multiple times.
 
 ```
 @@@_Category.Filter(tag=A).Filter(tag=B)_@@@
@@ -163,14 +163,14 @@ All commands have default values and can be omitted.
 ## Related
 
 - [Category Identifier](README.md)
-- [Category Template](../../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Generation](../../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Target](02-Action Commands/01-Target.md)
-- [Filter](02-Action Commands/02-Filter.md)
-- [Pick](02-Action Commands/03-Pick.md)
-- [Sort](02-Action Commands/04-Sort.md)
-- [Join](02-Action Commands/05-Join.md)
-- [Edit](02-Action Commands/06-Edit.md)
-- [Programmable Block](../02-How To Write Programmable Block/README.md)
-- [Output Category](../../../CategoryTree/02-Glossary/01-Output Category.md)
+- [Category Template](../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Generation](../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Target](02-Action%20Commands/01-Target.md)
+- [Filter](02-Action%20Commands/02-Filter.md)
+- [Pick](02-Action%20Commands/03-Pick.md)
+- [Sort](02-Action%20Commands/04-Sort.md)
+- [Join](02-Action%20Commands/05-Join.md)
+- [Edit](02-Action%20Commands/06-Edit.md)
+- [Programmable Block](../02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Output Category](../../../CategoryTree/02-Glossary/01-Output%20Category.md)

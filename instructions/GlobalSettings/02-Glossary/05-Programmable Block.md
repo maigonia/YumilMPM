@@ -13,9 +13,9 @@ Programmable Block scripts are executed inside a [Sandbox](03-Sandbox.md) for se
 
 ## Related
 
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Sandbox Settings](../04-Menu/07-Sandbox Settings.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Sandbox Settings](../04-Menu/07-Sandbox%20Settings.md)
 - [Sandbox](03-Sandbox.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)

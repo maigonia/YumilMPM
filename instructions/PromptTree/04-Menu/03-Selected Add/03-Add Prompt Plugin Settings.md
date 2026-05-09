@@ -71,9 +71,9 @@ Configure which plugins to display in the menu. Unchecked plugins are hidden fro
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
 - [Plugin](01-Plugin/README.md)
-- [Add From File System](01-Plugin/13-Add from File System.md)
-- [Add From LM Studio](01-Plugin/20-Add from LM Studio.md)
-- [Add From WD14](01-Plugin/19-Add from WD14.md)
+- [Add From File System](01-Plugin/13-Add%20from%20File%20System.md)
+- [Add From LM Studio](01-Plugin/20-Add%20from%20LM%20Studio.md)
+- [Add From WD14](01-Plugin/19-Add%20from%20WD14.md)

@@ -17,6 +17,6 @@ A feature for searching for text in the editor or replacing it with different te
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
 - [Find](../../04-Menu/07-Find.md)
 - [Replace](../../04-Menu/08-Replace.md)

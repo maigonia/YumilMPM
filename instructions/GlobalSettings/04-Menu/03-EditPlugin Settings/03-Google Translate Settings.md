@@ -10,11 +10,11 @@
 
 ## What It Does
 
-Configures the **default source / target languages** for the [Google Translate](../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/15-Google Translate.md) plugin and **whether to skip the language picker dialog**.
+Configures the **default source / target languages** for the [Google Translate](../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/15-Google%20Translate.md) plugin and **whether to skip the language picker dialog**.
 
-When skip is enabled, invoking Google Translate in the [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt Editor.md) no longer shows the language picker — translation runs immediately using the saved defaults.
+When skip is enabled, invoking Google Translate in the [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt%20Editor.md) no longer shows the language picker — translation runs immediately using the saved defaults.
 
-> [Rate Limiting](../../02-Glossary/06-Rate Limiting.md) is configured separately, from the gear icon (⚙) on the Google Translate row in [EditPlugin Settings](01-EditPlugin Settings.md).
+> [Rate Limiting](../../02-Glossary/06-Rate%20Limiting.md) is configured separately, from the gear icon (⚙) on the Google Translate row in [EditPlugin Settings](01-EditPlugin%20Settings.md).
 
 ## How to Use
 
@@ -41,21 +41,21 @@ Because this setting is opened from a menu, it is also reachable from the comman
 
 | Context | Effect of default languages / skip |
 | --- | --- |
-| [Edit SelectedText with Plugins](../../../PromptEditor/01-Basics/01-Features/06-Edit SelectedText with Plugins.md) ([PromptEditor](../../../PromptEditor/01-Basics/03-Prompt Editor.md)) | Skip ON bypasses the language picker |
-| [Edit Prompt Content with Plugins](../../../PromptTree/04-Menu/05-Checked/04-Edit Prompt Content with Plugins.md) | Bulk Edit takes per-invocation languages from its preview dialog; this setting has no effect there |
-| [Category Identifier](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) Edit syntax | The language is specified inline (such as `Edit(GoogleTranslate=en)`); this setting has no effect |
-| [Programmable Block](../../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) `env.PLUGINEDIT` | Same as above — the language is specified inline |
+| [Edit SelectedText with Plugins](../../../PromptEditor/01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md) ([PromptEditor](../../../PromptEditor/01-Basics/03-Prompt%20Editor.md)) | Skip ON bypasses the language picker |
+| [Edit Prompt Content with Plugins](../../../PromptTree/04-Menu/05-Checked/04-Edit%20Prompt%20Content%20with%20Plugins.md) | Bulk Edit takes per-invocation languages from its preview dialog; this setting has no effect there |
+| [Category Identifier](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) Edit syntax | The language is specified inline (such as `Edit(GoogleTranslate=en)`); this setting has no effect |
+| [Programmable Block](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) `env.PLUGINEDIT` | Same as above — the language is specified inline |
 
 ## Notes
 
-- "Reset to Defaults" resets only the language settings ([Rate Limiting](../../02-Glossary/06-Rate Limiting.md) settings are left untouched)
+- "Reset to Defaults" resets only the language settings ([Rate Limiting](../../02-Glossary/06-Rate%20Limiting.md) settings are left untouched)
 - Settings are saved when the project is saved
 
 ## Related
 
-- [Google Translate](../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/15-Google Translate.md)
-- [EditPlugin Settings](01-EditPlugin Settings.md)
-- [Rate Limiting](../../02-Glossary/06-Rate Limiting.md)
-- [Edit SelectedText with Plugins](../../../PromptEditor/01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [Edit Prompt Content with Plugins](../../../PromptTree/04-Menu/05-Checked/04-Edit Prompt Content with Plugins.md)
-- [Edit](../../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/06-Edit.md)
+- [Google Translate](../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/15-Google%20Translate.md)
+- [EditPlugin Settings](01-EditPlugin%20Settings.md)
+- [Rate Limiting](../../02-Glossary/06-Rate%20Limiting.md)
+- [Edit SelectedText with Plugins](../../../PromptEditor/01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [Edit Prompt Content with Plugins](../../../PromptTree/04-Menu/05-Checked/04-Edit%20Prompt%20Content%20with%20Plugins.md)
+- [Edit](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/06-Edit.md)

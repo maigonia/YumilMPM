@@ -23,7 +23,7 @@ Configures whether the result window is automatically displayed after prompt gen
 
 ## Related
 
-- [Result Window](../01-Basics/04-Result Window.md)
-- [Show Result Window](18-Show Result Window.md)
-- [Activate ResultWindow After Generation](08-Activate ResultWindow After Generation.md)
-- [Once Generation](01-Once Generation.md)
+- [Result Window](../01-Basics/04-Result%20Window.md)
+- [Show Result Window](18-Show%20Result%20Window.md)
+- [Activate ResultWindow After Generation](08-Activate%20ResultWindow%20After%20Generation.md)
+- [Once Generation](01-Once%20Generation.md)

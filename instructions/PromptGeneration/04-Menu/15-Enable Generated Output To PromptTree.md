@@ -25,7 +25,7 @@ Configures whether generation results are automatically added to the prompt tree
 
 ## Related
 
-- [PromptTree](../../PromptTree/01-Basics/03-Prompt Tree Overview.md)
-- [Add From Generated Output](../../PromptTree/04-Menu/03-Selected Add/02-Add From Generated Output.md)
-- [Once Generation](01-Once Generation.md)
-- [env.OUTPUT](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/09-env.OUTPUT.md)
+- [PromptTree](../../PromptTree/01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add From Generated Output](../../PromptTree/04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md)
+- [Once Generation](01-Once%20Generation.md)
+- [env.OUTPUT](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/09-env.OUTPUT.md)

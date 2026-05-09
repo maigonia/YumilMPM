@@ -21,9 +21,9 @@ Hides the menu bar, trees, browser, etc. and allows working in a small window wi
 
 Window size can be freely changed and is automatically remembered for future sessions.
 
-For detailed usage, see [Compact Mode](../../04-Menu/14-Compact Mode.md).
+For detailed usage, see [Compact Mode](../../04-Menu/14-Compact%20Mode.md).
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
-- [Compact Mode](../../04-Menu/14-Compact Mode.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
+- [Compact Mode](../../04-Menu/14-Compact%20Mode.md)

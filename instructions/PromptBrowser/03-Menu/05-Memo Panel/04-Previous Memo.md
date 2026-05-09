@@ -19,5 +19,5 @@ Displays the previous memo.
 ## Related
 
 - [Memo](../../01-Basics/02-Memo.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Next Memo](03-Next Memo.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Next Memo](03-Next%20Memo.md)

@@ -25,6 +25,6 @@ Select **File > Open Data Folder**
 
 ## Related
 
-- [Project](../01-Basics/01-File Menu Basics.md)
+- [Project](../01-Basics/01-File%20Menu%20Basics.md)
 - [BackUp](09-BackUp/README.md)
-- [Open Backup Folder](09-BackUp/02-Quick Backup/02-Open Backup Folder.md)
+- [Open Backup Folder](09-BackUp/02-Quick%20Backup/02-Open%20Backup%20Folder.md)

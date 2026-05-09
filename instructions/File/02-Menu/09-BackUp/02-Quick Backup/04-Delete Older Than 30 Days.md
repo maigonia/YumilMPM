@@ -21,14 +21,14 @@ Batch-deletes backup files that are more than 30 days old from their creation da
 - **This operation cannot be undone**
 
 ## Tips
-- Combine with [Keep Only Last 30 Backups](05-Keep Only Last 30 Backups.md) for more effective backup management
+- Combine with [Keep Only Last 30 Backups](05-Keep%20Only%20Last%2030%20Backups.md) for more effective backup management
 - Regular cleanup helps make good use of storage
 
 ## Related
 
 - [BackUp](../README.md)
-- [Keep Only Last 30 Backups](05-Keep Only Last 30 Backups.md)
-- [Create Backup](01-Create Backup Quick Backup.md)
-- [Enable Auto Backup](06-Enable Auto Backup.md)
-- [Backup Folder Settings](03-Backup Folder Settings.md)
-- [Open Backup Folder](02-Open Backup Folder.md)
+- [Keep Only Last 30 Backups](05-Keep%20Only%20Last%2030%20Backups.md)
+- [Create Backup](01-Create%20Backup%20Quick%20Backup.md)
+- [Enable Auto Backup](06-Enable%20Auto%20Backup.md)
+- [Backup Folder Settings](03-Backup%20Folder%20Settings.md)
+- [Open Backup Folder](02-Open%20Backup%20Folder.md)

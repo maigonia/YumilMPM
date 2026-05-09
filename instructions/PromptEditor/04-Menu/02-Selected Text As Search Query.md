@@ -35,8 +35,8 @@ Uses the text currently selected in the editor to send it directly to the Prompt
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
-- [PromptTree](../../PromptTree/01-Basics/03-Prompt Tree Overview.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
+- [PromptTree](../../PromptTree/01-Basics/03-Prompt%20Tree%20Overview.md)
 - [Find](07-Find.md)
-- [Search Panel](../../PromptTree/01-Basics/04-Panel/02-Search Panel Operations.md)
-- [As Search Query](02-Selected Text As Search Query.md)
+- [Search Panel](../../PromptTree/01-Basics/04-Panel/02-Search%20Panel%20Operations.md)
+- [As Search Query](02-Selected%20Text%20As%20Search%20Query.md)

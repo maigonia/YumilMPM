@@ -4,9 +4,9 @@
 
 Generation-related read-system endpoints for retrieving category structure, evaluating CI expressions, generation preview, etc. (4 endpoints).
 
-> See [REST API Reference](01-REST API Reference.md) for common specifications (authentication / request format).
+> See [REST API Reference](01-REST%20API%20Reference.md) for common specifications (authentication / request format).
 >
-> Actual generation is performed via a separate endpoint `POST /api/v1/generate` (see "Complete Request/Response Examples" in [REST API Reference](01-REST API Reference.md)).
+> Actual generation is performed via a separate endpoint `POST /api/v1/generate` (see "Complete Request/Response Examples" in [REST API Reference](01-REST%20API%20Reference.md)).
 
 ## Endpoint List
 
@@ -166,7 +166,7 @@ When Programmable Block errors occur:
 **Errors**:
 - `CI expression must not be wrapped with @@@_..._@@@. Pass the bare expression, e.g. "Quality.Target(allLeaves).Pick(random=2)". The @@@_..._@@@ syntax is only for simple template substitution in prompt bodies.`
 
-> **Important**: Pass the CI expression **without wrapping in `@@@_..._@@@`**. See [CI Expression](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) for details.
+> **Important**: Pass the CI expression **without wrapping in `@@@_..._@@@`**. See [CI Expression](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) for details.
 
 ---
 
@@ -240,19 +240,19 @@ Use `preview_generation` for development/debugging and `/generate` for productio
 
 ### Handling Programmable Block Errors
 
-When `programmable_errors` is included in the `evaluate_ci` / `preview_generation` response, a Programmable Block ([Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)) built-in (`env.SIMILARITY` / `env.LMEDIT` / `env.CI`, etc.) failed due to invalid input or an internal error. Generation itself continues, but it's a sign of unintended behavior. Each error message is prefixed with the prompt location in `[CategoryName/PromptPath]` form.
+When `programmable_errors` is included in the `evaluate_ci` / `preview_generation` response, a Programmable Block ([Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)) built-in (`env.SIMILARITY` / `env.LMEDIT` / `env.CI`, etc.) failed due to invalid input or an internal error. Generation itself continues, but it's a sign of unintended behavior. Each error message is prefixed with the prompt location in `[CategoryName/PromptPath]` form.
 
 The `SIMILARITY` function returns `NaN` and pushes a message to `programmable_errors` on invalid input. Inside PB code, detect it with `isNaN()` (the NaN value itself is not included in the final output — it is only used for comparisons or branching inside the PB).
 
 ## Related
 
-- [REST API Reference](01-REST API Reference.md)
-- [REST API - Read Endpoints](02-REST API - Read Endpoints.md)
-- [REST API - Queue Endpoints](05-REST API - Queue Endpoints.md)
-- [CI Expression](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Target](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/01-Target.md)
-- [Pick](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/03-Pick.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
+- [REST API Reference](01-REST%20API%20Reference.md)
+- [REST API - Read Endpoints](02-REST%20API%20-%20Read%20Endpoints.md)
+- [REST API - Queue Endpoints](05-REST%20API%20-%20Queue%20Endpoints.md)
+- [CI Expression](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Target](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/01-Target.md)
+- [Pick](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/03-Pick.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)

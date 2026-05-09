@@ -1,6 +1,6 @@
 # Custom Plugin Samples
 
-A collection of working, complete example plugins for [Custom Plugin](02-Custom Plugins.md) development. Each example focuses on a different feature set.
+A collection of working, complete example plugins for [Custom Plugin](02-Custom%20Plugins.md) development. Each example focuses on a different feature set.
 
 | Sample | Features covered |
 | --- | --- |
@@ -11,7 +11,7 @@ A collection of working, complete example plugins for [Custom Plugin](02-Custom 
 
 ## AI Rewrite (Gemini)
 
-A typical AI integration plugin that rewrites text using the Google Gemini API. Uses both `network` and `secret` permissions; the API key is managed safely through [API Key Settings](../04-Menu/09-API Key Settings.md).
+A typical AI integration plugin that rewrites text using the Google Gemini API. Uses both `network` and `secret` permissions; the API key is managed safely through [API Key Settings](../04-Menu/09-API%20Key%20Settings.md).
 
 ```js
 export default {
@@ -76,8 +76,8 @@ async function edit(text, settings) {
 
 ### Highlights
 
-- Declare `permissions: ["network"]` and grant Network Access in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) before use
-- Declaring `secrets: ["gemini"]` makes a "gemini" row appear automatically in [API Key Settings](../04-Menu/09-API Key Settings.md) where you store the API key
+- Declare `permissions: ["network"]` and grant Network Access in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) before use
+- Declaring `secrets: ["gemini"]` makes a "gemini" row appear automatically in [API Key Settings](../04-Menu/09-API%20Key%20Settings.md) where you store the API key
 - `group: "Advanced"` collapses temperature / max-tokens into a tidier dialog
 - API errors are surfaced via `throw new Error(...)` (toast) instead of silently returning the original text
 - The fields do **not** declare `contexts`, so the same field set is shown in all three dialogs (standalone settings, editor pre-run, bulk-edit pre-run). Unlike action-style plugins such as Snapshot Manager, values like model name and instruction are settings you configure once and reuse, so showing the same fields in every context is the natural choice
@@ -195,19 +195,19 @@ async function edit(text, settings) {
 
 ### Highlights
 
-- Declares `permissions: ["file"]`. The user must grant File Access in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) before it can run
+- Declares `permissions: ["file"]`. The user must grant File Access in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) before it can run
 - Exercises six file APIs in one plugin: `writeFile`, `readFile`, `fileExists`, `deleteFile`, `listFiles`, plus the `pluginDataDir` property
 - Paths are written as relative paths (`snapshots/foo.txt`), so they automatically resolve under `{projectFolder}/settings/plugin_data/edit/PromptSnapshotManager/snapshots/`. All plugin data is consolidated into the same tree as built-in plugin settings, so uninstalling a plugin is just deleting one folder
-- The `help` field provides a Markdown help dialog reachable from the help icon in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
+- The `help` field provides a Markdown help dialog reachable from the help icon in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
 - A `select` field with `options: [{ label, value }]` switches between the four modes
 - `context: ["PromptEditor"]` makes the plugin appear only in the PromptEditor tab — intentionally not exposed to bulk edit
 - The fields declare `contexts: ["editor"]` to hide them from the standalone settings dialog. Action-style plugins have no reason to cache settings, so it's enough to ask for values in the dialog that opens right before execution
 
 ## Context Filter Demo
 
-The settings dialog opens in three different forms (see the "contexts" section of [Custom Plugin](02-Custom Plugins.md)):
+The settings dialog opens in three different forms (see the "contexts" section of [Custom Plugin](02-Custom%20Plugins.md)):
 
-- `settings` — the standalone settings dialog opened from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
+- `settings` — the standalone settings dialog opened from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
 - `editor` — the dialog shown right before running in the editor
 - `batch` — the dialog shown right before running in bulk edit
 
@@ -416,7 +416,7 @@ async function edit(text, settings) {
 
 ### How to Try It
 
-1. Open [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) and turn the `DropzoneTest` **file permission OFF**, then open its dialog
+1. Open [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) and turn the `DropzoneTest` **file permission OFF**, then open its dialog
    - All three dropzones appear greyed out with the "Enable file permission..." message
    - Drops have no effect
 2. Turn the file permission **ON** and reopen the dialog
@@ -441,6 +441,6 @@ async function edit(text, settings) {
 
 ## Related
 
-- [Custom Plugin](02-Custom Plugins.md)
-- [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [API Key Settings](../04-Menu/09-API Key Settings.md)
+- [Custom Plugin](02-Custom%20Plugins.md)
+- [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [API Key Settings](../04-Menu/09-API%20Key%20Settings.md)

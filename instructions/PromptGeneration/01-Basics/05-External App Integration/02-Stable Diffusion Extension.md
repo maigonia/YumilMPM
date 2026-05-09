@@ -16,7 +16,7 @@ When generating images in Stable Diffusion WebUI's txt2img / img2img, it automat
 2. Open the txt2img or img2img tab in WebUI
 3. Open the "**External Prompt Requester (API)**" accordion
 4. Check "**Enable External Prompt Request**"
-5. Enter the [Output Category Name](../../../CategoryTree/02-Glossary/01-Output Category.md)s from **CategoryTree** in Positive / Negative Prompt Category
+5. Enter the [Output Category Name](../../../CategoryTree/02-Glossary/01-Output%20Category.md)s from **CategoryTree** in Positive / Negative Prompt Category
 6. Execute **Generation On Demand > Start On Demand** in this app to start the server
 7. Execute image generation with the WebUI Generate button
 
@@ -42,8 +42,8 @@ Settings can also be changed and saved in the WebUI's **Settings** page (Externa
 
 ## Related
 
-- [Start On Demand](../../04-Menu/02-Generation On Demand/01-Start On Demand.md)
-- [API Server Settings](../../04-Menu/02-Generation On Demand/02-API Server Settings.md)
-- [ComfyUI Extension](01-ComfyUI Extension.md)
-- [Generation Modes](../01-Generation Modes.md)
-- [Once Generation](../../04-Menu/01-Once Generation.md)
+- [Start On Demand](../../04-Menu/02-Generation%20On%20Demand/01-Start%20On%20Demand.md)
+- [API Server Settings](../../04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)
+- [ComfyUI Extension](01-ComfyUI%20Extension.md)
+- [Generation Modes](../01-Generation%20Modes.md)
+- [Once Generation](../../04-Menu/01-Once%20Generation.md)

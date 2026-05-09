@@ -214,6 +214,6 @@ Example:
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
 - [SyntaxHighlight](../../01-Basics/01-Features/07-SyntaxHighlight.md)
-- [SyntaxHighlight Enable](01-Enable SyntaxHighlight.md)
+- [SyntaxHighlight Enable](01-Enable%20SyntaxHighlight.md)

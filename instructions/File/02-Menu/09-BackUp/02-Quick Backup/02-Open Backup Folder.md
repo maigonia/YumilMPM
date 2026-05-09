@@ -26,10 +26,10 @@ Select **File > BackUp > Quick Backup > Open Backup Folder**
 ## Related
 
 - [BackUp](../README.md)
-- [Create Backup](01-Create Backup Quick Backup.md)
-- [Full Backup](../01-Full Backup.md)
-- [Enable Auto Backup](06-Enable Auto Backup.md)
-- [Restore From Backup](07-Restore From Backup.md)
-- [Open Data Folder](../../07-Open Data Folder.md)
-- [Delete Older Than 30 Days](04-Delete Older Than 30 Days.md)
-- [Keep Only Last 30 Backups](05-Keep Only Last 30 Backups.md)
+- [Create Backup](01-Create%20Backup%20Quick%20Backup.md)
+- [Full Backup](../01-Full%20Backup.md)
+- [Enable Auto Backup](06-Enable%20Auto%20Backup.md)
+- [Restore From Backup](07-Restore%20From%20Backup.md)
+- [Open Data Folder](../../07-Open%20Data%20Folder.md)
+- [Delete Older Than 30 Days](04-Delete%20Older%20Than%2030%20Days.md)
+- [Keep Only Last 30 Backups](05-Keep%20Only%20Last%2030%20Backups.md)

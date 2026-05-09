@@ -43,8 +43,8 @@ Enter CategoryTree category names in each field to get the generation results fr
 
 ## Related
 
-- [Start On Demand](../../04-Menu/02-Generation On Demand/01-Start On Demand.md)
-- [API Server Settings](../../04-Menu/02-Generation On Demand/02-API Server Settings.md)
-- [Stable Diffusion Extension](02-Stable Diffusion Extension.md)
-- [Generation Modes](../01-Generation Modes.md)
-- [Once Generation](../../04-Menu/01-Once Generation.md)
+- [Start On Demand](../../04-Menu/02-Generation%20On%20Demand/01-Start%20On%20Demand.md)
+- [API Server Settings](../../04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)
+- [Stable Diffusion Extension](02-Stable%20Diffusion%20Extension.md)
+- [Generation Modes](../01-Generation%20Modes.md)
+- [Once Generation](../../04-Menu/01-Once%20Generation.md)

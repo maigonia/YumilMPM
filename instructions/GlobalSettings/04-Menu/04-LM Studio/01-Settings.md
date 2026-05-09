@@ -2,12 +2,12 @@
 **LM Studio Settings**
 
 ## When to Use
-- When you want to prepare settings before using [LM Studio](../../02-Glossary/01-LM Studio.md) for AI text processing
+- When you want to prepare settings before using [LM Studio](../../02-Glossary/01-LM%20Studio.md) for AI text processing
 - When you want to save frequently used AI instructions as templates
 - When you want to adjust AI response parameters (presets)
 
 ## What It Does
-Manages templates and presets used for integration with [LM Studio](../../02-Glossary/01-LM Studio.md). When opened from GlobalSettings, two tabs are displayed: **Templates** and **Settings**.
+Manages templates and presets used for integration with [LM Studio](../../02-Glossary/01-LM%20Studio.md). When opened from GlobalSettings, two tabs are displayed: **Templates** and **Settings**.
 
 ## Templates Tab
 
@@ -72,13 +72,13 @@ When you change a value in the Settings tab, it is applied to the next execution
 
 ## Related
 
-- [LM Studio](../../02-Glossary/01-LM Studio.md)
-- [LM Studio Edit](../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/13-LMStudio Edit.md)
-- [LM Studio Unload Model](02-Unload Model.md)
-- [Add From LM Studio](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/20-Add from LM Studio.md)
-- [Suggest Name with AI](../../../PromptTree/04-Menu/01-Selected/09-Suggest Name with AI.md)
-- [Suggest Tags with AI](../../../PromptTree/04-Menu/01-Selected/08-Suggest Tags with AI.md)
-- [Bulk Suggest Names with AI](../../../PromptTree/04-Menu/05-Checked/06-Bulk Suggest Names with AI.md)
-- [Bulk Suggest Tags with AI](../../../PromptTree/04-Menu/05-Checked/05-Bulk Suggest Tags with AI.md)
-- [env.LMEDIT](../../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/08-env.LMEDIT.md)
-- [Initial Setup](../../03-Tips/01-Recommended Initial Settings.md)
+- [LM Studio](../../02-Glossary/01-LM%20Studio.md)
+- [LM Studio Edit](../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/13-LMStudio%20Edit.md)
+- [LM Studio Unload Model](02-Unload%20Model.md)
+- [Add From LM Studio](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/20-Add%20from%20LM%20Studio.md)
+- [Suggest Name with AI](../../../PromptTree/04-Menu/01-Selected/09-Suggest%20Name%20with%20AI.md)
+- [Suggest Tags with AI](../../../PromptTree/04-Menu/01-Selected/08-Suggest%20Tags%20with%20AI.md)
+- [Bulk Suggest Names with AI](../../../PromptTree/04-Menu/05-Checked/06-Bulk%20Suggest%20Names%20with%20AI.md)
+- [Bulk Suggest Tags with AI](../../../PromptTree/04-Menu/05-Checked/05-Bulk%20Suggest%20Tags%20with%20AI.md)
+- [env.LMEDIT](../../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/08-env.LMEDIT.md)
+- [Initial Setup](../../03-Tips/01-Recommended%20Initial%20Settings.md)

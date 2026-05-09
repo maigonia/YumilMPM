@@ -133,7 +133,7 @@ blue eyes,Blue eyes,eyes,,Text
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
 - [AutoComplete](../../01-Basics/01-Features/01-AutoComplete.md)
-- [AutoComplete Enable](01-Enable AutoComplete.md)
-- [AutoComplete Setting - List](02-AutoComplete Settings - List & Candidate Management.md)
+- [AutoComplete Enable](01-Enable%20AutoComplete.md)
+- [AutoComplete Setting - List](02-AutoComplete%20Settings%20-%20List%20&%20Candidate%20Management.md)

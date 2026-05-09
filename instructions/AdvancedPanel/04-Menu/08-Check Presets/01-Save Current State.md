@@ -25,7 +25,7 @@ Saved presets can be restored with a single click, making it convenient for swit
 
 ## Related
 
-- [Check Preset](../../02-Glossary/02-Check Preset.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Output Category](../../../CategoryTree/02-Glossary/01-Output Category.md)
+- [Check Preset](../../02-Glossary/02-Check%20Preset.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Output Category](../../../CategoryTree/02-Glossary/01-Output%20Category.md)

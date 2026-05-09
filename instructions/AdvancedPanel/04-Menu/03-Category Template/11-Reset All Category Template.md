@@ -20,7 +20,7 @@ Resets all category template settings (Target, Filter, Pick, Sort, Join, Edit, F
 
 ## Related
 
-- [Category Template](../../02-Glossary/01-Category Template.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Reset Current Category Template](10-Reset Current Category Template.md)
-- [Show All Category Template](09-Show All Category Template.md)
+- [Category Template](../../02-Glossary/01-Category%20Template.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Reset Current Category Template](10-Reset%20Current%20Category%20Template.md)
+- [Show All Category Template](09-Show%20All%20Category%20Template.md)

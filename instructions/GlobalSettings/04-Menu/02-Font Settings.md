@@ -35,4 +35,4 @@ Configurable panels:
 
 ## Related
 
-- [PromptEditor](../../PromptEditor/01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../../PromptEditor/01-Basics/03-Prompt%20Editor.md)

@@ -52,7 +52,7 @@ Each result shows the following:
 
 ## Related
 
-- [Global Search](06-Global Search Search All Tab.md)
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Favorite Query](../02-Glossary/04-Favorite Query.md)
-- [Search](07-What Is Advanced Panel.md)
+- [Global Search](06-Global%20Search%20Search%20All%20Tab.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Favorite Query](../02-Glossary/04-Favorite%20Query.md)
+- [Search](07-What%20Is%20Advanced%20Panel.md)

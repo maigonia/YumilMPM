@@ -60,12 +60,12 @@ Controls the tree display state.
 
 ## Related
 
-- [Check State](../01-Concepts/01-Understanding Check State.md)
-- [Hierarchy](../01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [Check All](../../04-Menu/06-Check All.md)
-- [UnCheck All](../../04-Menu/07-Uncheck All.md)
-- [Check All Leaves](../../04-Menu/08-Check All Leaves.md)
-- [Expand All](../../../CategoryTree/03-Menu/03-Expand All.md)
-- [Collapse All](../../../CategoryTree/03-Menu/04-Collapse All.md)
-- [Collapse Except Checked](../../04-Menu/13-Collapse Except Checked.md)
+- [Check State](../01-Concepts/01-Understanding%20Check%20State.md)
+- [Hierarchy](../01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [Check All](../../04-Menu/06-Check%20All.md)
+- [UnCheck All](../../04-Menu/07-Uncheck%20All.md)
+- [Check All Leaves](../../04-Menu/08-Check%20All%20Leaves.md)
+- [Expand All](../../../CategoryTree/03-Menu/03-Expand%20All.md)
+- [Collapse All](../../../CategoryTree/03-Menu/04-Collapse%20All.md)
+- [Collapse Except Checked](../../04-Menu/13-Collapse%20Except%20Checked.md)

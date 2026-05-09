@@ -10,8 +10,8 @@ Each prompt is displayed with the following elements:
 
 - **Checkbox**: Whether to include in generation processing
 - **Expand/Collapse**: Only shown when there are children (▶ collapsed, ▼ expanded)
-- **Icon**: Indicates the prompt type (see [Prompt](../01-Concepts/03-What Is a Prompt.md) for details)
-- **Output destination mark**: Green ↓ icon (when set as output destination with [Add From Generated Output](../../04-Menu/03-Selected Add/02-Add From Generated Output.md))
+- **Icon**: Indicates the prompt type (see [Prompt](../01-Concepts/03-What%20Is%20a%20Prompt.md) for details)
+- **Output destination mark**: Green ↓ icon (when set as output destination with [Add From Generated Output](../../04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md))
 - **Name**: The prompt's identifying name
 
 ## Mouse Operations
@@ -66,7 +66,7 @@ The selected prompt has:
 
 ### Output Destination Node
 
-Nodes set as output destinations with [Add From Generated Output](../../04-Menu/03-Selected Add/02-Add From Generated Output.md) have:
+Nodes set as output destinations with [Add From Generated Output](../../04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md) have:
 - Light green background
 - Green border on the left side
 - Green ↓ icon displayed
@@ -95,9 +95,9 @@ The menu displayed by right-clicking includes the following operations:
 
 ## Related
 
-- [Prompt](../01-Concepts/03-What Is a Prompt.md)
-- [Check State](../01-Concepts/01-Understanding Check State.md)
-- [Hierarchy](../01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt Editor.md)
-- [PromptBrowser](../../../PromptBrowser/01-Basics/03-Prompt Browser.md)
+- [Prompt](../01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Check State](../01-Concepts/01-Understanding%20Check%20State.md)
+- [Hierarchy](../01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt%20Editor.md)
+- [PromptBrowser](../../../PromptBrowser/01-Basics/03-Prompt%20Browser.md)

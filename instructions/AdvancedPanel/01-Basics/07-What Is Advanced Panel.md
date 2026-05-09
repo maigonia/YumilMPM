@@ -4,10 +4,10 @@ The Advanced Panel is an additional panel for more efficient prompt management.
 
 It's not needed for normal prompt creation and editing, but it's useful in situations like these:
 
-- Want fine-grained control over which prompts are selected during generation → [Category Template](../02-Glossary/01-Category Template.md)
-- Want to save frequently used search criteria or prompt combinations → [Favorite Query](../02-Glossary/04-Favorite Query.md) / [Favorite List](../02-Glossary/03-Favorite List.md)
+- Want fine-grained control over which prompts are selected during generation → [Category Template](../02-Glossary/01-Category%20Template.md)
+- Want to save frequently used search criteria or prompt combinations → [Favorite Query](../02-Glossary/04-Favorite%20Query.md) / [Favorite List](../02-Glossary/03-Favorite%20List.md)
 - Want to search across the entire project → Global Search
-- Want to save and switch check states entirely → [Check Preset](../02-Glossary/02-Check Preset.md)
+- Want to save and switch check states entirely → [Check Preset](../02-Glossary/02-Check%20Preset.md)
 
 ## Two Scopes
 
@@ -36,12 +36,12 @@ Check **AdvancedPanel > Show AdvancedPanel** in the menu to display the panel be
 
 ## Related
 
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Category Template](../02-Glossary/01-Category Template.md)
-- [Favorite Query](../02-Glossary/04-Favorite Query.md)
-- [Favorite List](../02-Glossary/03-Favorite List.md)
-- [Check Preset](../02-Glossary/02-Check Preset.md)
-- [Final Edit](../02-Glossary/05-Final Edit.md)
-- [Global Search](06-Global Search Search All Tab.md)
-- [Show Advanced Panel](../04-Menu/01-Show AdvancedPanel.md)
-- [Structure](../../PromptTree/01-Basics/04-Panel/03-PromptTree Panel Structure.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Category Template](../02-Glossary/01-Category%20Template.md)
+- [Favorite Query](../02-Glossary/04-Favorite%20Query.md)
+- [Favorite List](../02-Glossary/03-Favorite%20List.md)
+- [Check Preset](../02-Glossary/02-Check%20Preset.md)
+- [Final Edit](../02-Glossary/05-Final%20Edit.md)
+- [Global Search](06-Global%20Search%20Search%20All%20Tab.md)
+- [Show Advanced Panel](../04-Menu/01-Show%20AdvancedPanel.md)
+- [Structure](../../PromptTree/01-Basics/04-Panel/03-PromptTree%20Panel%20Structure.md)

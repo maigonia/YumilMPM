@@ -29,13 +29,13 @@ Copies the entire project folder to a specified location. All data is included:
 
 ## Tips
 - It is recommended to take a full backup before and after important milestones
-- For a lightweight backup, use [Create Backup](02-Quick Backup/01-Create Backup Quick Backup.md) instead
+- For a lightweight backup, use [Create Backup](02-Quick%20Backup/01-Create%20Backup%20Quick%20Backup.md) instead
 
 ## Related
 
 - [BackUp](README.md)
-- [Project](../../01-Basics/01-File Menu Basics.md)
-- [Create Backup](02-Quick Backup/01-Create Backup Quick Backup.md)
-- [Enable Auto Backup](02-Quick Backup/06-Enable Auto Backup.md)
-- [Restore From Backup](02-Quick Backup/07-Restore From Backup.md)
-- [Open Backup Folder](02-Quick Backup/02-Open Backup Folder.md)
+- [Project](../../01-Basics/01-File%20Menu%20Basics.md)
+- [Create Backup](02-Quick%20Backup/01-Create%20Backup%20Quick%20Backup.md)
+- [Enable Auto Backup](02-Quick%20Backup/06-Enable%20Auto%20Backup.md)
+- [Restore From Backup](02-Quick%20Backup/07-Restore%20From%20Backup.md)
+- [Open Backup Folder](02-Quick%20Backup/02-Open%20Backup%20Folder.md)

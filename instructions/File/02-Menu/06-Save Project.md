@@ -7,8 +7,8 @@
 
 ## What It Does
 Saves all data of the current project to disk. Main data includes:
-- [Category](../../AdvancedPanel/01-Basics/01-Category Template Tab.md) tree structure
-- [Prompt](../../PromptTree/01-Basics/01-Concepts/03-What Is a Prompt.md) (chunk) data for each category
+- [Category](../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md) tree structure
+- [Prompt](../../PromptTree/01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md) (chunk) data for each category
 - Check state for each prompt
 - Per-category settings
 
@@ -28,8 +28,8 @@ Select **File > Save Project** (or shortcut `Ctrl+S`)
 
 ## Related
 
-- [Project](../01-Basics/01-File Menu Basics.md)
-- [AutoSave on Application Close](08-AutoSave on Application Close.md)
-- [Close Project](05-Close Project.md)
-- [Create Backup](09-BackUp/02-Quick Backup/01-Create Backup Quick Backup.md)
-- [Full Backup](09-BackUp/01-Full Backup.md)
+- [Project](../01-Basics/01-File%20Menu%20Basics.md)
+- [AutoSave on Application Close](08-AutoSave%20on%20Application%20Close.md)
+- [Close Project](05-Close%20Project.md)
+- [Create Backup](09-BackUp/02-Quick%20Backup/01-Create%20Backup%20Quick%20Backup.md)
+- [Full Backup](09-BackUp/01-Full%20Backup.md)

@@ -1,8 +1,8 @@
-# Yumil MPM — User Documentation
+# Yumil MPM - User Documentation
 
 In-app help content for [Yumil MPM](https://github.com/maigonia/YumilMPM), exported as browsable Markdown.
 
-This documentation is generated from the application source. For the canonical experience use the in-app instruction window (Help → Instruction or `Alt+click` on a menu item).
+This documentation is generated from the application source. For the canonical experience use the in-app instruction window (Help > Instruction or `Alt+click` on a menu item).
 
 ## Sections
 
@@ -17,6 +17,6 @@ This documentation is generated from the application source. For the canonical e
 | [AdvancedPanel](AdvancedPanel/) | Category templates, favorites, presets, global search |
 | [GlobalSettings](GlobalSettings/) | Global app settings and plugin configuration |
 | [Utility](Utility/) | Utility tools (REST API, AI auto-operation, integrity check) |
-| [InstructionPortal](InstructionPortal/) | Help portal — links and navigation guides |
+| [InstructionPortal](InstructionPortal/) | Help portal, links, and navigation guides |
 | [Tutorial](Tutorial/) | Beginner / Intermediate / Advanced step-by-step tutorials |
 | [FAQ](FAQ/) | Frequently asked questions and known issues |

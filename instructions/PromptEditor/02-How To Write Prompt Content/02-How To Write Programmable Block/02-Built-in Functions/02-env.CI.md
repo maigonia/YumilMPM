@@ -46,7 +46,7 @@ _@@@
 
 ## Using Action Commands
 
-Action commands available in [Category Identifier](../../01-How To Write Category Identifier/README.md) can be written directly.
+Action commands available in [Category Identifier](../../01-How%20To%20Write%20Category%20Identifier/README.md) can be written directly.
 
 ```javascript
 @@@_
@@ -149,18 +149,18 @@ When CI expressions contain `\n`, `\t`, etc., using `String.raw` is recommended.
 ## Notes
 
 - **Async function**: `await` is always required
-- Executes the same processing as regular [Category Identifier](../../01-How To Write Category Identifier/README.md)
+- Executes the same processing as regular [Category Identifier](../../01-How%20To%20Write%20Category%20Identifier/README.md)
 - Use ToArray when you want to access data before joining
 
 ## Related
 
 - [Programmable Block](../README.md)
-- [Category Identifier](../../01-How To Write Category Identifier/README.md)
+- [Category Identifier](../../01-How%20To%20Write%20Category%20Identifier/README.md)
 - [env.OUTPUT](09-env.OUTPUT.md)
 - [env.chunk](01-env.chunk.md)
-- [Target](../../01-How To Write Category Identifier/02-Action Commands/01-Target.md)
-- [Filter](../../01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
-- [Pick](../../01-How To Write Category Identifier/02-Action Commands/03-Pick.md)
-- [Sort](../../01-How To Write Category Identifier/02-Action Commands/04-Sort.md)
-- [Join](../../01-How To Write Category Identifier/02-Action Commands/05-Join.md)
-- [Edit](../../01-How To Write Category Identifier/02-Action Commands/06-Edit.md)
+- [Target](../../01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/01-Target.md)
+- [Filter](../../01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
+- [Pick](../../01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/03-Pick.md)
+- [Sort](../../01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/04-Sort.md)
+- [Join](../../01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/05-Join.md)
+- [Edit](../../01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/06-Edit.md)

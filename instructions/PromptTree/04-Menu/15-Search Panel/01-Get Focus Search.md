@@ -13,6 +13,6 @@ Moves focus to the search box in the search panel.
 
 ## Related
 
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Search Panel](../../01-Basics/04-Panel/02-Search Panel Operations.md)
-- [Search](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Search Panel](../../01-Basics/04-Panel/02-Search%20Panel%20Operations.md)
+- [Search](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md)

@@ -20,6 +20,6 @@ Extracts metadata embedded in image files and displays it in a dialog. You can c
 ## Related
 
 - [Image](../../01-Basics/01-Image.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Add Image](02-Add Image.md)
-- [WD14 Tagger](../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/14-WD14 Tagger.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Add Image](02-Add%20Image.md)
+- [WD14 Tagger](../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/14-WD14%20Tagger.md)

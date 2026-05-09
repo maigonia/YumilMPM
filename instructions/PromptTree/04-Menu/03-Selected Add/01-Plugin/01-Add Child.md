@@ -25,10 +25,10 @@ Adds one empty child prompt under the selected prompt.
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add Root Group](../../09-Add Root Group.md)
-- [Add Sibling](04-Add Sibling.md)
-- [Add Child Group](02-Add Child Group.md)
-- [Add Clone](05-Add Clone.md)
-- [Add with Custom Name](03-Add with Custom Name.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add Root Group](../../09-Add%20Root%20Group.md)
+- [Add Sibling](04-Add%20Sibling.md)
+- [Add Child Group](02-Add%20Child%20Group.md)
+- [Add Clone](05-Add%20Clone.md)
+- [Add with Custom Name](03-Add%20with%20Custom%20Name.md)

@@ -18,12 +18,12 @@ Toggles the check state of the currently selected prompt itself. Checked items a
 
 ## Related
 
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Child Prompts](02-Child Prompts.md)
-- [Sibling Prompts](03-Sibling Prompts.md)
-- [Descendants Prompts](04-Descendants Prompts.md)
-- [Leaf Prompts](05-Leaf Prompts.md)
-- [Check All](../06-Check All.md)
-- [UnCheck All](../07-Uncheck All.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Child Prompts](02-Child%20Prompts.md)
+- [Sibling Prompts](03-Sibling%20Prompts.md)
+- [Descendants Prompts](04-Descendants%20Prompts.md)
+- [Leaf Prompts](05-Leaf%20Prompts.md)
+- [Check All](../06-Check%20All.md)
+- [UnCheck All](../07-Uncheck%20All.md)

@@ -80,8 +80,8 @@ To download models that require login (NSFW, early access, etc.), a Civitai API 
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [API Key Settings](../../../../GlobalSettings/04-Menu/09-API Key Settings.md)
-- [URL Whitelist Manager](../../../../GlobalSettings/04-Menu/05-URL Whitelist Manager.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [API Key Settings](../../../../GlobalSettings/04-Menu/09-API%20Key%20Settings.md)
+- [URL Whitelist Manager](../../../../GlobalSettings/04-Menu/05-URL%20Whitelist%20Manager.md)
 - [Image](../../../../PromptBrowser/01-Basics/01-Image.md)

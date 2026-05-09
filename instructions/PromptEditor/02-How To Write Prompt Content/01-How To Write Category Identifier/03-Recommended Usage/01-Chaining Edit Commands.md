@@ -1,6 +1,6 @@
 # Chaining Edit Commands
 
-The [Edit](../02-Action Commands/06-Edit.md) command can be stacked to apply multiple editing processes in sequence.
+The [Edit](../02-Action%20Commands/06-Edit.md) command can be stacked to apply multiple editing processes in sequence.
 
 ## Basic Chaining
 
@@ -13,7 +13,7 @@ The [Edit](../02-Action Commands/06-Edit.md) command can be stacked to apply mul
 
 ## Chaining LM Studio (Advanced)
 
-Using [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md) in sequence enables multi-stage AI processing.
+Using [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md) in sequence enables multi-stage AI processing.
 
 ### Summarize then Translate
 
@@ -50,25 +50,25 @@ Using [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md) in seq
 ## Notes
 
 - Chaining LM calls increases API calls, so processing time will be longer
-- Presets must be created in advance in [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
+- Presets must be created in advance in [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
 
 ## Batch Processing Recommendation
 
-If chaining LM calls results in long processing times, batch processing using [Timer Generation](../../../../PromptGeneration/04-Menu/03-Timer Generation/README.md) and [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected Add/02-Add From Generated Output.md) is recommended.
+If chaining LM calls results in long processing times, batch processing using [Timer Generation](../../../../PromptGeneration/04-Menu/03-Timer%20Generation/README.md) and [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md) is recommended.
 
-1. Set up a capture target prompt with [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected Add/02-Add From Generated Output.md)
-2. Start automatic generation with [Timer Generation](../../../../PromptGeneration/04-Menu/03-Timer Generation/README.md)
+1. Set up a capture target prompt with [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md)
+2. Start automatic generation with [Timer Generation](../../../../PromptGeneration/04-Menu/03-Timer%20Generation/README.md)
 3. Generated results are automatically accumulated as child prompts
-4. Use later with [Generation On Demand](../../../../PromptGeneration/04-Menu/02-Generation On Demand/README.md)
+4. Use later with [Generation On Demand](../../../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/README.md)
 
 This allows you to run time-consuming LM processing in advance and stock the results.
 
 ## Related
 
-- [Edit](../02-Action Commands/06-Edit.md)
+- [Edit](../02-Action%20Commands/06-Edit.md)
 - [Category Identifier](../README.md)
-- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [Timer Generation Start](../../../../PromptGeneration/04-Menu/03-Timer Generation/01-Timer Generation Start.md)
-- [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected Add/02-Add From Generated Output.md)
-- [Plugin](../../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
+- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [Timer Generation Start](../../../../PromptGeneration/04-Menu/03-Timer%20Generation/01-Timer%20Generation%20Start.md)
+- [Add From Generated Output](../../../../PromptTree/04-Menu/03-Selected%20Add/02-Add%20From%20Generated%20Output.md)
+- [Plugin](../../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)

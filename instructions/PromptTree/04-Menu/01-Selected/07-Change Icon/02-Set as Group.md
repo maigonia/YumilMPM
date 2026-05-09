@@ -13,13 +13,13 @@ Sets the selected prompt as a group (folder icon). Groups are displayed with a g
 2. Select **PromptTree > Selected > Change Icon > Set as Group** from the menu
 
 ## Notes
-- Cannot be used on [Folder Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)s or [File Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)s
+- Cannot be used on [Folder Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)s or [File Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)s
 - The prompt's content is preserved even after setting as group
 - This is a visual icon change for organization and has no functional difference
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Hierarchy](../../../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Set As Normal Prompt](01-Set as Normal Prompt.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Hierarchy](../../../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Set As Normal Prompt](01-Set%20as%20Normal%20Prompt.md)

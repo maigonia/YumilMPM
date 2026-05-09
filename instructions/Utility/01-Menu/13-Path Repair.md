@@ -54,6 +54,6 @@ Always create a backup before using this feature.
 
 ## Related
 
-- [Data Integrity Check](12-Run Data Integrity Check.md)
-- [Project](../../File/01-Basics/01-File Menu Basics.md)
+- [Data Integrity Check](12-Run%20Data%20Integrity%20Check.md)
+- [Project](../../File/01-Basics/01-File%20Menu%20Basics.md)
 - [BackUp](../../File/02-Menu/09-BackUp/README.md)

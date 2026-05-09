@@ -30,16 +30,16 @@ Favorite Query has two scopes.
 - **Left-click**: Execute search
 - **Right-click**: Edit, delete, duplicate, reorder
 
-## Can Be Set as a Parameter for [CategoryIdentifer](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)'s [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md) Command.
+## Can Be Set as a Parameter for [CategoryIdentifer](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)'s [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md) Command.
 
 (Example) @@@_Backgrounds.Filter(favoritequery=indoors)_@@@
 
 ## Related
 
-- [Favorite Queriesタブ](../01-Basics/05-Favorite Queries Tab.md)
-- [Favorite List](03-Favorite List.md)
-- [Advanced Panel](../01-Basics/07-What Is Advanced Panel.md)
-- [Search](../01-Basics/07-What Is Advanced Panel.md)
-- [Global Search](../01-Basics/06-Global Search Search All Tab.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
+- [Favorite Queriesタブ](../01-Basics/05-Favorite%20Queries%20Tab.md)
+- [Favorite List](03-Favorite%20List.md)
+- [Advanced Panel](../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Search](../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Global Search](../01-Basics/06-Global%20Search%20Search%20All%20Tab.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)

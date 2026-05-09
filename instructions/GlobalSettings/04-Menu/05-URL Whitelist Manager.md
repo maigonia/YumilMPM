@@ -60,6 +60,6 @@ Manage domains in a 3-column table:
 
 ## Related
 
-- [Add From Civitai URL](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/12-Add from Civitai URL.md)
-- [API Key Settings](09-API Key Settings.md)
-- [Initial Setup](../03-Tips/01-Recommended Initial Settings.md)
+- [Add From Civitai URL](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/12-Add%20from%20Civitai%20URL.md)
+- [API Key Settings](09-API%20Key%20Settings.md)
+- [Initial Setup](../03-Tips/01-Recommended%20Initial%20Settings.md)

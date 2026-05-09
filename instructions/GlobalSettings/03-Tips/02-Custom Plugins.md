@@ -4,13 +4,13 @@
 
 - When you want to add custom text transformation features
 - When you want to integrate with external AI services (Gemini, OpenAI, Claude, etc.)
-- When you need functionality not available in existing [Plugin](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)s
+- When you need functionality not available in existing [Plugin](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)s
 
 ## What Are Custom Plugins
 
-Custom plugins are JavaScript files (.js) created by users. Place them in the `plugins/edit/` directory of the data folder — or in an immediate subfolder (one level deep) — and they will be automatically loaded at app startup and available as [Plugin](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)s.
+Custom plugins are JavaScript files (.js) created by users. Place them in the `plugins/edit/` directory of the data folder — or in an immediate subfolder (one level deep) — and they will be automatically loaded at app startup and available as [Plugin](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)s.
 
-Unlike [Programmable Edit](../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/18-Programmable Edit.md), which is for quick scripting within a project, custom plugins are complete tools with schema-based settings dialogs, usable across all projects, and distributable as `.js` files.
+Unlike [Programmable Edit](../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/18-Programmable%20Edit.md), which is for quick scripting within a project, custom plugins are complete tools with schema-based settings dialogs, usable across all projects, and distributable as `.js` files.
 
 ## Plugin File Structure
 
@@ -45,7 +45,7 @@ function edit(text, settings) {
 | `context` | - | Available contexts. All contexts when omitted |
 | `permissions` | - | Required permissions (any of `["network", "secret", "file"]`) |
 | `secrets` | - | Secret service names to use |
-| `rateLimit` | - | [Rate Limiting](../02-Glossary/06-Rate Limiting.md) config applied to `env.FETCH` calls (see below) |
+| `rateLimit` | - | [Rate Limiting](../02-Glossary/06-Rate%20Limiting.md) config applied to `env.FETCH` calls (see below) |
 | `settings` | - | Settings dialog schema |
 | `appVersion` | - | MPM version when plugin was created (e.g., `"2.1.0"`) |
 | `createdAt` | - | Date when plugin was created (e.g., `"2026-03-29"`) |
@@ -57,9 +57,9 @@ A custom plugin can be invoked from **three different places** inside the app. T
 
 | `context` value | Where it is used |
 | --- | --- |
-| `"PromptEditor"` | When the user selects text in the prompt editor and runs the plugin ([Edit SelectedText with Plugins](../../PromptEditor/01-Basics/01-Features/06-Edit SelectedText with Plugins.md)) |
-| `"CategoryTemplate"` | As part of the [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md) processing pipeline |
-| `"CheckedChunks"` | Bulk editing of checked prompts ([Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit Prompt Content with Plugins.md)) |
+| `"PromptEditor"` | When the user selects text in the prompt editor and runs the plugin ([Edit SelectedText with Plugins](../../PromptEditor/01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)) |
+| `"CategoryTemplate"` | As part of the [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md) processing pipeline |
+| `"CheckedChunks"` | Bulk editing of checked prompts ([Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit%20Prompt%20Content%20with%20Plugins.md)) |
 
 ```js
 // Available only in a specific place
@@ -81,7 +81,7 @@ A custom plugin can have its **own dedicated settings dialog**. This is useful w
 
 The nice part is that you do *not* have to build the dialog UI yourself in HTML or React. You simply declare the input fields you want as a list (a schema) in the `settings` field, and the app reads it and assembles the dialog automatically. Whatever values the user enters in the dialog are passed as the **second argument `settings`** to your `edit(text, settings)` function — so just read them and branch on them.
 
-The dialog can be opened anytime from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md). (Some plugins can also auto-open it right before execution — see `contexts` below.)
+The dialog can be opened anytime from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md). (Some plugins can also auto-open it right before execution — see `contexts` below.)
 
 ```js
 settings: [
@@ -186,9 +186,9 @@ The settings dialog opens in three different contexts. Use `contexts` to make a 
 
 | Value | Which dialog |
 | --- | --- |
-| `"settings"` | The standalone settings dialog opened from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) (caches values only — does not run the plugin) |
-| `"editor"` | The dialog shown right before running [Edit SelectedText with Plugins](../../PromptEditor/01-Basics/01-Features/06-Edit SelectedText with Plugins.md) in the editor |
-| `"batch"` | The dialog shown right before running [Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit Prompt Content with Plugins.md) for bulk edits |
+| `"settings"` | The standalone settings dialog opened from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) (caches values only — does not run the plugin) |
+| `"editor"` | The dialog shown right before running [Edit SelectedText with Plugins](../../PromptEditor/01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md) in the editor |
+| `"batch"` | The dialog shown right before running [Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit%20Prompt%20Content%20with%20Plugins.md) for bulk edits |
 
 ```js
 // Action-style plugin whose settings change every run:
@@ -224,7 +224,7 @@ Group fields together:
 
 ## Writing Help
 
-Add Markdown-formatted text to the `help` field, and a help icon will appear next to the plugin name in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md). Click it to open a help dialog.
+Add Markdown-formatted text to the `help` field, and a help icon will appear next to the plugin name in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md). Click it to open a help dialog.
 
 ```js
 export default {
@@ -252,7 +252,7 @@ Supports basic Markdown syntax including headings, lists, tables, links, and cod
 
 ### env.FETCH
 
-Send HTTP requests to external servers or local servers. Requires declaring `permissions: ["network"]` in metadata and enabling Network Access in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md).
+Send HTTP requests to external servers or local servers. Requires declaring `permissions: ["network"]` in metadata and enabling Network Access in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md).
 
 ```js
 // External server (HTTPS)
@@ -306,19 +306,19 @@ if (!apiKey) {
 }
 ```
 
-Register API keys in advance at **GlobalSettings > [API Key Settings](../04-Menu/09-API Key Settings.md)**. When a plugin declares `secrets`, the service name automatically appears in API Key Settings.
+Register API keys in advance at **GlobalSettings > [API Key Settings](../04-Menu/09-API%20Key%20Settings.md)**. When a plugin declares `secrets`, the service name automatically appears in API Key Settings.
 
 ### Rate Limiting
 
-When a plugin declares `permissions: ["network"]` or its own `metadata.rateLimit`, [Rate Limiting](../02-Glossary/06-Rate Limiting.md) is applied to its `env.FETCH` calls. If too many requests happen in a short window, requests beyond the limit are rejected immediately (fail-fast).
+When a plugin declares `permissions: ["network"]` or its own `metadata.rateLimit`, [Rate Limiting](../02-Glossary/06-Rate%20Limiting.md) is applied to its `env.FETCH` calls. If too many requests happen in a short window, requests beyond the limit are rejected immediately (fail-fast).
 
 #### Resolution Order
 
-1. **User override** — values configured from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
+1. **User override** — values configured from the gear icon in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
 2. **`metadata.rateLimit`** — values declared by the plugin author
 3. **App default** — applied to plugins that declare `network` permission but no `metadata.rateLimit` (`delayMs: 1000`, `maxRequests: 30`, `windowMinutes: 1`)
 
-Plugins that declare neither `network` permission nor `metadata.rateLimit` are not rate-limited, and the gear icon does not appear for them in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md).
+Plugins that declare neither `network` permission nor `metadata.rateLimit` are not rate-limited, and the gear icon does not appear for them in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md).
 
 #### Declaring `metadata.rateLimit`
 
@@ -343,14 +343,14 @@ Validation rules:
 | `maxRequests` | Non-negative finite number |
 | `windowMinutes` | Finite number >= 1 |
 
-Invalid values cause a load-time error, which is shown at the top of [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md).
+Invalid values cause a load-time error, which is shown at the top of [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md).
 
 #### Behavior on Limit Exceeded
 
 When `env.FETCH` is rejected by rate limiting, an Error is thrown inside the plugin. **Do not catch it — let it bubble up.** The host then handles it in a context-appropriate way:
 
-- Interactive contexts ([Edit SelectedText with Plugins](../../PromptEditor/01-Basics/01-Features/06-Edit SelectedText with Plugins.md), [Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit Prompt Content with Plugins.md)) — a modal dialog displays a countdown of remaining seconds and auto-retries when it reaches 0. The user can pick Cancel to abort, or **Force Reset** to clear the limiter's history and retry immediately
-- Automatic consecutive execution ([Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) `.Edit()`, `env.PLUGINEDIT`) — the marker `[Plugin rate limited — retry in Ns]` is embedded in the output text (Force Reset cannot reach this path, so runaway-script protection is preserved)
+- Interactive contexts ([Edit SelectedText with Plugins](../../PromptEditor/01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md), [Edit Prompt Content with Plugins](../../PromptTree/04-Menu/05-Checked/04-Edit%20Prompt%20Content%20with%20Plugins.md)) — a modal dialog displays a countdown of remaining seconds and auto-retries when it reaches 0. The user can pick Cancel to abort, or **Force Reset** to clear the limiter's history and retry immediately
+- Automatic consecutive execution ([Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) `.Edit()`, `env.PLUGINEDIT`) — the marker `[Plugin rate limited — retry in Ns]` is embedded in the output text (Force Reset cannot reach this path, so runaway-script protection is preserved)
 
 ```js
 async function edit(text, settings) {
@@ -367,7 +367,7 @@ When a single `edit()` call issues multiple `env.FETCH` requests in a burst, the
 
 ## File Access
 
-Declare `permissions: ["file"]` in metadata and grant File Access in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) to read and write any file on the local filesystem. This is as powerful as `network` — only grant it to plugins you trust.
+Declare `permissions: ["file"]` in metadata and grant File Access in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) to read and write any file on the local filesystem. This is as powerful as `network` — only grant it to plugins you trust.
 
 ### Storage Location Rule
 
@@ -447,7 +447,7 @@ The example above uses relative paths, so files are saved under `{projectFolder}
 
 ## Permissions
 
-Custom plugin permissions are managed individually in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md).
+Custom plugin permissions are managed individually in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md).
 
 | Permission | Description |
 | --- | --- |
@@ -461,13 +461,13 @@ Permissions are disabled by default. Only permissions declared in plugin metadat
 
 ### Automatic Reset on File Changes
 
-When a plugin file's contents are modified, its permissions are automatically reset and the plugin is disabled. This is detected both at app startup and when reloading plugins. To use the plugin again after changes, you must re-grant permissions and enable the checkbox in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md).
+When a plugin file's contents are modified, its permissions are automatically reset and the plugin is disabled. This is detected both at app startup and when reloading plugins. To use the plugin again after changes, you must re-grant permissions and enable the checkbox in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md).
 
 ## Plugin Management
 
 ### Adding Plugins
 
-1. Click "Open Plugin Folder" in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) dialog
+1. Click "Open Plugin Folder" in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) dialog
 2. Place `.js` files in the folder
 3. Click "Reload Plugins"
 
@@ -489,11 +489,11 @@ Deleting the folder uninstalls the whole set in one step. Loading is limited to 
 
 ### Hot Reload
 
-Reload plugins without restarting the app using the "Reload Plugins" button in [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md). File additions, changes, and deletions are all reflected. Plugins with changed file contents will have their permissions reset and be disabled.
+Reload plugins without restarting the app using the "Reload Plugins" button in [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md). File additions, changes, and deletions are all reflected. Plugins with changed file contents will have their permissions reset and be disabled.
 
 ### Error Checking
 
-Plugins that failed to load show error information at the top of the [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md) dialog.
+Plugins that failed to load show error information at the top of the [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md) dialog.
 
 ### Runtime Error Notification
 
@@ -513,16 +513,16 @@ if (!apiKey) {
 
 ## Full Example
 
-Working complete plugin examples are collected in [Custom Plugin Samples](03-Custom Plugin Samples.md). Each example focuses on a different feature set — AI integration (Gemini), file API + per-context dialog filtering (Snapshot Manager), and so on.
+Working complete plugin examples are collected in [Custom Plugin Samples](03-Custom%20Plugin%20Samples.md). Each example focuses on a different feature set — AI integration (Gemini), file API + per-context dialog filtering (Snapshot Manager), and so on.
 
 ## Related
 
-- [Custom Plugin Samples](03-Custom Plugin Samples.md)
-- [Plugin](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [API Key Settings](../04-Menu/09-API Key Settings.md)
-- [Rate Limiting](../02-Glossary/06-Rate Limiting.md)
+- [Custom Plugin Samples](03-Custom%20Plugin%20Samples.md)
+- [Plugin](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [API Key Settings](../04-Menu/09-API%20Key%20Settings.md)
+- [Rate Limiting](../02-Glossary/06-Rate%20Limiting.md)
 - [Sandbox](../02-Glossary/03-Sandbox.md)
-- [Programmable Edit](../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/18-Programmable Edit.md)
-- [Copy Dropped Images](../04-Menu/12-Copy dropped images to Images folder.md)
-- [Initial Setup](01-Recommended Initial Settings.md)
+- [Programmable Edit](../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/18-Programmable%20Edit.md)
+- [Copy Dropped Images](../04-Menu/12-Copy%20dropped%20images%20to%20Images%20folder.md)
+- [Initial Setup](01-Recommended%20Initial%20Settings.md)

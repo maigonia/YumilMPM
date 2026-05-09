@@ -19,10 +19,10 @@ Adds an image from the clipboard to the prompt.
 - A warning about lost metadata is displayed on first use
 - Clipboard images do not contain EXIF or other metadata, so the metadata extraction feature cannot be used
 - Pasted images are copied into the project's `Images` folder (saved in `YYYYMMDD_NNNN` format subfolders, auto-numbered as `img_001`, `img_002`, ...)
-- Unlike [Add Image](02-Add Image.md), pasting always copies the image — it never stores a path reference
+- Unlike [Add Image](02-Add%20Image.md), pasting always copies the image — it never stores a path reference
 
 ## Related
 
 - [Image](../../01-Basics/01-Image.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Add Image](02-Add Image.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Add Image](02-Add%20Image.md)

@@ -24,7 +24,7 @@ Opens the window that displays prompt generation results. If results have been g
 
 ## Related
 
-- [Result Window](../01-Basics/04-Result Window.md)
-- [Show ResultWindow After Generation](07-Show ResultWindow After Generation.md)
-- [Activate ResultWindow After Generation](08-Activate ResultWindow After Generation.md)
-- [Once Generation](01-Once Generation.md)
+- [Result Window](../01-Basics/04-Result%20Window.md)
+- [Show ResultWindow After Generation](07-Show%20ResultWindow%20After%20Generation.md)
+- [Activate ResultWindow After Generation](08-Activate%20ResultWindow%20After%20Generation.md)
+- [Once Generation](01-Once%20Generation.md)

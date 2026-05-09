@@ -19,5 +19,5 @@ Moves keyboard focus to the tag panel's input field. After focusing, you can imm
 ## Related
 
 - [Tag](../../01-Basics/04-Tag.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Tag Manager](../../../GlobalSettings/04-Menu/06-Tag Manager.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Tag Manager](../../../GlobalSettings/04-Menu/06-Tag%20Manager.md)

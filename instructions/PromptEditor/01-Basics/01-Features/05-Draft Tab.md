@@ -31,7 +31,7 @@ Provides a Draft tab separate from the normal Editor tab where you can freely wr
 
 ## Combining with Direct Generation
 
-The Draft tab is convenient when combined with [Direct Generation](04-Direct Generation.md).
+The Draft tab is convenient when combined with [Direct Generation](04-Direct%20Generation.md).
 Direct Generation sends the text displayed in the current tab directly to the generation result.
 
 1. Freely draft templates in the Draft tab
@@ -49,5 +49,5 @@ In Direct Generation, Category Identifiers can be used, but Programmable Blocks 
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
-- [Direct Generation](04-Direct Generation.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
+- [Direct Generation](04-Direct%20Generation.md)

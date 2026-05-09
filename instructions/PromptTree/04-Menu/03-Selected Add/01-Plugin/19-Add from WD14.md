@@ -69,7 +69,7 @@ Extracted tag categories:
 ### Exclude Tags Preset
 
 - **Default**: None (no filtering)
-- Select an [Exclude Tags](../../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/17-Exclude Tags.md) preset to apply filtering to the extracted tags
+- Select an [Exclude Tags](../../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/17-Exclude%20Tags.md) preset to apply filtering to the extracted tags
 - Presets have an Exclude mode and a Keep Only (keep only specified tags) mode
 - You can add/edit presets from the gear icon (⚙) next to the label
 
@@ -132,14 +132,14 @@ Progress is displayed during download. Once downloaded, it is automatically load
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
 - [Tag](../../../../PromptBrowser/01-Basics/04-Tag.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [WD14 Tagger](../../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/14-WD14 Tagger.md)
-- [WD14 Tagger Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/04-WD14 Tagger.md)
-- [Exclude Tags](../../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/17-Exclude Tags.md)
-- [Exclude Tags Presets](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/02-Exclude Tags.md)
-- [Create Yumil Parser Block](../../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/16-Create Yumil Parser Block.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [WD14 Tagger](../../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/14-WD14%20Tagger.md)
+- [WD14 Tagger Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/04-WD14%20Tagger.md)
+- [Exclude Tags](../../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/17-Exclude%20Tags.md)
+- [Exclude Tags Presets](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/02-Exclude%20Tags.md)
+- [Create Yumil Parser Block](../../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/16-Create%20Yumil%20Parser%20Block.md)
 - [Image](../../../../PromptBrowser/01-Basics/01-Image.md)
-- [Copy Dropped Images](../../../../GlobalSettings/04-Menu/12-Copy dropped images to Images folder.md)
+- [Copy Dropped Images](../../../../GlobalSettings/04-Menu/12-Copy%20dropped%20images%20to%20Images%20folder.md)
 - [Plugin](README.md)

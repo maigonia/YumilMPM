@@ -23,6 +23,6 @@ In the Favorite Queries tab, you can click saved search criteria (favorite queri
 
 ## Related
 
-- [Favorite Query](../../02-Glossary/04-Favorite Query.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Search](../../01-Basics/07-What Is Advanced Panel.md)
+- [Favorite Query](../../02-Glossary/04-Favorite%20Query.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Search](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)

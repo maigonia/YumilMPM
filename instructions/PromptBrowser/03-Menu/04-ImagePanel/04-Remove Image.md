@@ -21,6 +21,6 @@ Removes the currently displayed image from the prompt. A confirmation dialog is 
 ## Related
 
 - [Image](../../01-Basics/01-Image.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Add Image](02-Add Image.md)
-- [Paste Image From Clipboard](03-Paste Image From Clipboard.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Add Image](02-Add%20Image.md)
+- [Paste Image From Clipboard](03-Paste%20Image%20From%20Clipboard.md)

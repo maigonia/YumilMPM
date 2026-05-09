@@ -18,7 +18,7 @@ Moves the selected prompt one position down within the same hierarchy level.
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Hierarchy](../../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Move Up](../../../CategoryTree/03-Menu/01-Selected Category/05-Move Up.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Hierarchy](../../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Move Up](../../../CategoryTree/03-Menu/01-Selected%20Category/05-Move%20Up.md)

@@ -105,11 +105,11 @@ While the search box has focus:
 
 ## Related
 
-- [Prompt](../01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [Search Panel](../04-Panel/02-Search Panel Operations.md)
-- [Favorite Query](../../../AdvancedPanel/02-Glossary/04-Favorite Query.md)
-- [Global Search](../../../AdvancedPanel/01-Basics/06-Global Search Search All Tab.md)
-- [Check Filtered Results](../../04-Menu/15-Search Panel/02-Check Filtered Results.md)
-- [Uncheck Filtered Results](../../04-Menu/15-Search Panel/03-Uncheck Filtered Results.md)
-- [Check Filtered Leaves](../../04-Menu/15-Search Panel/04-Check Filtered Leaves.md)
+- [Prompt](../01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [Search Panel](../04-Panel/02-Search%20Panel%20Operations.md)
+- [Favorite Query](../../../AdvancedPanel/02-Glossary/04-Favorite%20Query.md)
+- [Global Search](../../../AdvancedPanel/01-Basics/06-Global%20Search%20Search%20All%20Tab.md)
+- [Check Filtered Results](../../04-Menu/15-Search%20Panel/02-Check%20Filtered%20Results.md)
+- [Uncheck Filtered Results](../../04-Menu/15-Search%20Panel/03-Uncheck%20Filtered%20Results.md)
+- [Check Filtered Leaves](../../04-Menu/15-Search%20Panel/04-Check%20Filtered%20Leaves.md)

@@ -16,4 +16,4 @@ Select **CategoryTree > Get Focus**
 
 ## Related
 
-- [Category](../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
+- [Category](../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)

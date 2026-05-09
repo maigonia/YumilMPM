@@ -103,6 +103,6 @@ _@@@
 ## Related
 
 - [Programmable Block](../README.md)
-- [Generation](../../../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Generation Queue](../../../../PromptGeneration/04-Menu/05-Generation Queue/README.md)
-- [Once Generation](../../../../PromptGeneration/04-Menu/01-Once Generation.md)
+- [Generation](../../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Generation Queue](../../../../PromptGeneration/04-Menu/05-Generation%20Queue/README.md)
+- [Once Generation](../../../../PromptGeneration/04-Menu/01-Once%20Generation.md)

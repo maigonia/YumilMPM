@@ -72,8 +72,8 @@ After cutting and pasting prompts, a dialog asks whether to delete the original 
 
 ## Related
 
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Delete Prompts](../01-Selected/02-Delete Prompts.md)
-- [Delete Chunk and Files](../01-Selected/03-Delete Chunk and Files.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Delete Prompts](../01-Selected/02-Delete%20Prompts.md)
+- [Delete Chunk and Files](../01-Selected/03-Delete%20Chunk%20and%20Files.md)

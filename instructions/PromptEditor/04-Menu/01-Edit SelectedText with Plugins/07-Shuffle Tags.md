@@ -76,19 +76,19 @@ Randomly reorders comma-separated tags to create variation in image generation r
 
 - The shuffle algorithm is Fisher-Yates (Durstenfeld), producing a uniform distribution
 - Because `//` comment lines and blank lines act as anchors, shuffling can be applied while keeping headers or section dividers in place
-- Also available in [Category Identifier](../../02-How To Write Prompt Content/01-How To Write Category Identifier/README.md) Edit syntax:
+- Also available in [Category Identifier](../../02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md) Edit syntax:
   ```
   @@@_CategoryName.Edit(ShuffleTags)_@@@
   ```
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [Remove Duplicate Tags](06-Remove Duplicate Tags.md)
-- [Sort Lines Alphabetically](08-Sort Lines Alphabetically.md)
-- [Create Dynamic Prompts from Lines](03-Create Dynamic Prompts from Lines.md)
-- [Category Identifier](../../02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [Remove Duplicate Tags](06-Remove%20Duplicate%20Tags.md)
+- [Sort Lines Alphabetically](08-Sort%20Lines%20Alphabetically.md)
+- [Create Dynamic Prompts from Lines](03-Create%20Dynamic%20Prompts%20from%20Lines.md)
+- [Category Identifier](../../02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
 - [Tag](../../../PromptBrowser/01-Basics/04-Tag.md)

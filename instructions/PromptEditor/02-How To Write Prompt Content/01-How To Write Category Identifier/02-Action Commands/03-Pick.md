@@ -210,10 +210,10 @@ Processing order:
 ## Related
 
 - [Category Identifier](../README.md)
-- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
 - [Target](01-Target.md)
 - [Filter](02-Filter.md)
 - [Sort](04-Sort.md)
 - [Join](05-Join.md)
 - [Edit](06-Edit.md)
-- [env.SEED](../../02-How To Write Programmable Block/02-Built-in Functions/12-env.SEED.md)
+- [env.SEED](../../02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/12-env.SEED.md)

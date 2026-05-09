@@ -34,7 +34,7 @@ The main area that displays prompts in a hierarchical structure.
 - Scroll to view the entire tree
 - Displays "No results found" when there are no search results
 
-See "[Tree Area](04-Tree Area Operations.md)" for details.
+See "[Tree Area](04-Tree%20Area%20Operations.md)" for details.
 
 ### 3. Control Bar
 
@@ -45,7 +45,7 @@ Buttons for check operations and expand/collapse are color-coded.
 - **Green Group**: Jump to checked nodes
 - **Orange Group**: Expand/collapse operations
 
-See "[Control Area](01-Control Bar Operations.md)" for details.
+See "[Control Area](01-Control%20Bar%20Operations.md)" for details.
 
 ### 4. Search Panel
 
@@ -56,7 +56,7 @@ Area for searching and filtering prompts.
 - Date filter
 - Check operations on filter results
 
-See "[Search Panel](02-Search Panel Operations.md)" for details.
+See "[Search Panel](02-Search%20Panel%20Operations.md)" for details.
 
 ## Getting Focus
 
@@ -67,7 +67,7 @@ To move keyboard focus to the prompt tree:
 
 ## Related
 
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [Tree Area](04-Tree Area Operations.md)
-- [Control Area](01-Control Bar Operations.md)
-- [Search Panel](02-Search Panel Operations.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [Tree Area](04-Tree%20Area%20Operations.md)
+- [Control Area](01-Control%20Bar%20Operations.md)
+- [Search Panel](02-Search%20Panel%20Operations.md)

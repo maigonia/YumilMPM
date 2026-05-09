@@ -92,10 +92,10 @@ Multiple filters can be combined. Only nodes meeting all conditions are displaye
 
 ## Related
 
-- [Search](../../../AdvancedPanel/01-Basics/07-What Is Advanced Panel.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [Favorite Query](../../../AdvancedPanel/02-Glossary/04-Favorite Query.md)
-- [Check Filtered Results](../../04-Menu/15-Search Panel/02-Check Filtered Results.md)
-- [Uncheck Filtered Results](../../04-Menu/15-Search Panel/03-Uncheck Filtered Results.md)
-- [Check Filtered Leaves](../../04-Menu/15-Search Panel/04-Check Filtered Leaves.md)
-- [Selecting](../02-Operations/04-Selecting Generation Targets.md)
+- [Search](../../../AdvancedPanel/01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [Favorite Query](../../../AdvancedPanel/02-Glossary/04-Favorite%20Query.md)
+- [Check Filtered Results](../../04-Menu/15-Search%20Panel/02-Check%20Filtered%20Results.md)
+- [Uncheck Filtered Results](../../04-Menu/15-Search%20Panel/03-Uncheck%20Filtered%20Results.md)
+- [Check Filtered Leaves](../../04-Menu/15-Search%20Panel/04-Check%20Filtered%20Leaves.md)
+- [Selecting](../02-Operations/04-Selecting%20Generation%20Targets.md)

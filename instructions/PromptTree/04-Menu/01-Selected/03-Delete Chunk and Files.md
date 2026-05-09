@@ -2,7 +2,7 @@
 **Delete Chunk and Files**
 
 ## When to Use
-- When you want to delete a [Folder Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md) or [File Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md) along with its original files
+- When you want to delete a [Folder Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md) or [File Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md) along with its original files
 - When you want to delete a prompt together with associated files (images, memos)
 
 ## What It Does
@@ -27,7 +27,7 @@ Files available for deletion:
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Delete Prompts](02-Delete Prompts.md)
-- [Open basefile folder](10-Open Basefile Folder.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Delete Prompts](02-Delete%20Prompts.md)
+- [Open basefile folder](10-Open%20Basefile%20Folder.md)

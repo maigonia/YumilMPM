@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Target action, as the first step of a [Category Identifier](../README.md), specifies which prompts (chunks) on the prompt tree to target. It filters based on [Check State](../../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md) and selection state.
+The Target action, as the first step of a [Category Identifier](../README.md), specifies which prompts (chunks) on the prompt tree to target. It filters based on [Check State](../../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md) and selection state.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ When the parameter is omitted, `checked` is used by default.
 
 ### Basic Parameters
 
-- **checked** (default): Gets chunks with [Check State](../../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md) checked
+- **checked** (default): Gets chunks with [Check State](../../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md) checked
 - **unchecked**: Gets unchecked chunks
 - **all**: Gets all chunks (regardless of check state)
 - **selected**: Gets the currently selected chunk on the prompt tree
@@ -89,8 +89,8 @@ When the parameter is omitted, `checked` is used by default.
 ## Related
 
 - [Category Identifier](../README.md)
-- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Check State](../../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
+- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Check State](../../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
 - [Filter](02-Filter.md)
 - [Pick](03-Pick.md)
 - [Sort](04-Sort.md)

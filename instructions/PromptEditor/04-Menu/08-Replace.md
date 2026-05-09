@@ -32,6 +32,6 @@ Searches for text in the editor and replaces it with different text. You can rep
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Find](07-Find.md)
-- [Replace Text Plugin](01-Edit SelectedText with Plugins/12-Replace Text.md)
+- [Replace Text Plugin](01-Edit%20SelectedText%20with%20Plugins/12-Replace%20Text.md)

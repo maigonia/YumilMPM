@@ -23,8 +23,8 @@ Adds an empty prompt at the same level (sibling) as the selected prompt.
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add Root Group](../../09-Add Root Group.md)
-- [Add Child](01-Add Child.md)
-- [Add Child Group](02-Add Child Group.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add Root Group](../../09-Add%20Root%20Group.md)
+- [Add Child](01-Add%20Child.md)
+- [Add Child Group](02-Add%20Child%20Group.md)

@@ -21,5 +21,5 @@ Displays the previous image.
 ## Related
 
 - [Image](../../01-Basics/01-Image.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Next Image](05-Next Image.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Next Image](05-Next%20Image.md)

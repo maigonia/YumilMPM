@@ -24,4 +24,4 @@ Moves keyboard focus to the prompt editor. This allows you to start typing immed
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)

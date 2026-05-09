@@ -2,9 +2,9 @@
 
 **REST API - Queue Endpoints**
 
-Endpoints for [Queue Pattern](../../PromptGeneration/04-Menu/05-Generation Queue/README.md) (queue pattern) operations (8 endpoints). Manages 3 types of patterns: Standard / Sequential / Loop.
+Endpoints for [Queue Pattern](../../PromptGeneration/04-Menu/05-Generation%20Queue/README.md) (queue pattern) operations (8 endpoints). Manages 3 types of patterns: Standard / Sequential / Loop.
 
-> See [REST API Reference](01-REST API Reference.md) for common specifications (authentication / request format).
+> See [REST API Reference](01-REST%20API%20Reference.md) for common specifications (authentication / request format).
 
 ## Endpoint List
 
@@ -408,10 +408,10 @@ await api({
 
 ## Related
 
-- [REST API Reference](01-REST API Reference.md)
-- [REST API - Generation Endpoints](06-REST API - Generation Endpoints.md)
-- [Queue Pattern](../../PromptGeneration/04-Menu/05-Generation Queue/README.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Standard Pattern](../../PromptGeneration/04-Menu/05-Generation Queue/01-Add Standard Pattern.md)
-- [Sequential Pattern](../../PromptGeneration/04-Menu/05-Generation Queue/02-Add Sequential Pattern.md)
-- [Loop Pattern](../../PromptGeneration/04-Menu/05-Generation Queue/03-Add Loop Pattern.md)
+- [REST API Reference](01-REST%20API%20Reference.md)
+- [REST API - Generation Endpoints](06-REST%20API%20-%20Generation%20Endpoints.md)
+- [Queue Pattern](../../PromptGeneration/04-Menu/05-Generation%20Queue/README.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Standard Pattern](../../PromptGeneration/04-Menu/05-Generation%20Queue/01-Add%20Standard%20Pattern.md)
+- [Sequential Pattern](../../PromptGeneration/04-Menu/05-Generation%20Queue/02-Add%20Sequential%20Pattern.md)
+- [Loop Pattern](../../PromptGeneration/04-Menu/05-Generation%20Queue/03-Add%20Loop%20Pattern.md)

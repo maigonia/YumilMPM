@@ -34,6 +34,6 @@ Can be toggled from **PromptEditor > AutoComplete > Enable**.
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
-- [AutoComplete Enable](../../04-Menu/12-AutoComplete/01-Enable AutoComplete.md)
-- [AutoComplete Setting](../../04-Menu/12-AutoComplete/02-AutoComplete Settings - List & Candidate Management.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
+- [AutoComplete Enable](../../04-Menu/12-AutoComplete/01-Enable%20AutoComplete.md)
+- [AutoComplete Setting](../../04-Menu/12-AutoComplete/02-AutoComplete%20Settings%20-%20List%20&%20Candidate%20Management.md)

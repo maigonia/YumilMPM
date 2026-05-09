@@ -26,13 +26,13 @@ Integration with LM Studio involves two configuration concepts:
 
 ## Related
 
-- [LM Studio Settings](../04-Menu/04-LM Studio/01-Settings.md)
-- [LM Studio Edit](../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/13-LMStudio Edit.md)
-- [Add From LM Studio](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/20-Add from LM Studio.md)
-- [env.LMEDIT](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/08-env.LMEDIT.md)
-- [Suggest Name with AI](../../PromptTree/04-Menu/01-Selected/09-Suggest Name with AI.md)
-- [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest Tags with AI.md)
-- [Bulk Suggest Names with AI](../../PromptTree/04-Menu/05-Checked/06-Bulk Suggest Names with AI.md)
-- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk Suggest Tags with AI.md)
-- [Plugin](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
+- [LM Studio Settings](../04-Menu/04-LM%20Studio/01-Settings.md)
+- [LM Studio Edit](../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/13-LMStudio%20Edit.md)
+- [Add From LM Studio](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/20-Add%20from%20LM%20Studio.md)
+- [env.LMEDIT](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/08-env.LMEDIT.md)
+- [Suggest Name with AI](../../PromptTree/04-Menu/01-Selected/09-Suggest%20Name%20with%20AI.md)
+- [Suggest Tags with AI](../../PromptTree/04-Menu/01-Selected/08-Suggest%20Tags%20with%20AI.md)
+- [Bulk Suggest Names with AI](../../PromptTree/04-Menu/05-Checked/06-Bulk%20Suggest%20Names%20with%20AI.md)
+- [Bulk Suggest Tags with AI](../../PromptTree/04-Menu/05-Checked/05-Bulk%20Suggest%20Tags%20with%20AI.md)
+- [Plugin](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)

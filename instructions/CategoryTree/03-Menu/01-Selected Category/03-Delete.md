@@ -24,9 +24,9 @@ Deletes the selected category.
 
 ## Related
 
-- [Category](../../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Prompt](../../../PromptTree/01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Add Root Category](../02-Add Root Category.md)
-- [Add Child Category](01-Add Child Category.md)
-- [Add Brother Category](02-Add Brother Category.md)
-- [PromptTree](../../../PromptTree/01-Basics/03-Prompt Tree Overview.md)
+- [Category](../../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Prompt](../../../PromptTree/01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Add Root Category](../02-Add%20Root%20Category.md)
+- [Add Child Category](01-Add%20Child%20Category.md)
+- [Add Brother Category](02-Add%20Brother%20Category.md)
+- [PromptTree](../../../PromptTree/01-Basics/03-Prompt%20Tree%20Overview.md)

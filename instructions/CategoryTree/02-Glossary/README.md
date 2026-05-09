@@ -2,4 +2,4 @@
 
 ## Contents
 
-- [Output Category](01-Output Category.md)
+- [Output Category](01-Output%20Category.md)

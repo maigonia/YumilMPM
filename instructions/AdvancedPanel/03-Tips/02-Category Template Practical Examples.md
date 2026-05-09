@@ -1,6 +1,6 @@
 # Category Template Practical Examples
 
-Here are common configuration patterns for [Category Template](../02-Glossary/01-Category Template.md).
+Here are common configuration patterns for [Category Template](../02-Glossary/01-Category%20Template.md).
 
 ## Example 1: Pick 3 Random from Checked, Join with Comma
 
@@ -71,13 +71,13 @@ Target(allleaves).Filter(icon=File).Pick(date=last_7days, random=3).Sort(date=de
 
 ## Related
 
-- [Category Template](../02-Glossary/01-Category Template.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Target](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/01-Target.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
-- [Pick](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/03-Pick.md)
-- [Sort](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/04-Sort.md)
-- [Join](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/05-Join.md)
-- [Edit](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/06-Edit.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Generation Rules](../../PromptTree/03-Tips/02-Changing Generation Rules.md)
+- [Category Template](../02-Glossary/01-Category%20Template.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Target](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/01-Target.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
+- [Pick](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/03-Pick.md)
+- [Sort](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/04-Sort.md)
+- [Join](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/05-Join.md)
+- [Edit](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/06-Edit.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Generation Rules](../../PromptTree/03-Tips/02-Changing%20Generation%20Rules.md)

@@ -21,6 +21,6 @@ Switches the display mode of the prompt browser.
 
 ## Related
 
-- [PromptBrowser](../01-Basics/03-Prompt Browser.md)
-- [Show/Hide PromptBrowser](01-Show Hide.md)
-- [Full Screen](04-ImagePanel/01-Full Screen Image.md)
+- [PromptBrowser](../01-Basics/03-Prompt%20Browser.md)
+- [Show/Hide PromptBrowser](01-Show%20Hide.md)
+- [Full Screen](04-ImagePanel/01-Full%20Screen%20Image.md)

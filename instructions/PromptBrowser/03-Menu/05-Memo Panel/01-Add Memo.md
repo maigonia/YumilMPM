@@ -25,5 +25,5 @@ Adds a new memo to the prompt. After adding, focus moves to the new memo.
 ## Related
 
 - [Memo](../../01-Basics/02-Memo.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Remove Memo](02-Remove Memo.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Remove Memo](02-Remove%20Memo.md)

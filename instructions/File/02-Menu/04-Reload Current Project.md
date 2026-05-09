@@ -19,7 +19,7 @@ Reloads the currently open project from disk. All data in memory is cleared and 
 
 ## Notes
 - Choosing "Reload without Saving" will **lose all unsaved changes**
-- If "Save and Reload" is chosen and [Enable Auto Backup](09-BackUp/02-Quick Backup/06-Enable Auto Backup.md) is on, a backup is also created automatically after saving
+- If "Save and Reload" is chosen and [Enable Auto Backup](09-BackUp/02-Quick%20Backup/06-Enable%20Auto%20Backup.md) is on, a backup is also created automatically after saving
 - After reloading, the following settings are also reloaded:
   - Font settings
   - Editor keybinding settings
@@ -27,7 +27,7 @@ Reloads the currently open project from disk. All data in memory is cleared and 
 
 ## Related
 
-- [Project](../01-Basics/01-File Menu Basics.md)
-- [Open Project](02-Open Project.md)
-- [Save Project](06-Save Project.md)
-- [Enable Auto Backup](09-BackUp/02-Quick Backup/06-Enable Auto Backup.md)
+- [Project](../01-Basics/01-File%20Menu%20Basics.md)
+- [Open Project](02-Open%20Project.md)
+- [Save Project](06-Save%20Project.md)
+- [Enable Auto Backup](09-BackUp/02-Quick%20Backup/06-Enable%20Auto%20Backup.md)

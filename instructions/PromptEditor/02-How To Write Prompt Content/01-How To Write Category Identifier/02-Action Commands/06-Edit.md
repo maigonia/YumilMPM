@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Edit action applies an [Edit Plugin](../../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md) to the text joined by [Join](05-Join.md). It enables text formatting, duplicate removal, format conversion, and more.
+The Edit action applies an [Edit Plugin](../../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md) to the text joined by [Join](05-Join.md). It enables text formatting, duplicate removal, format conversion, and more.
 
 ## Syntax
 
@@ -120,9 +120,9 @@ Outputs the chunk name instead of the chunk content.
 
 ### LMStudioEdit
 
-Performs AI editing using [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)'s local LLM.
+Performs AI editing using [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)'s local LLM.
 
-**Note**: Presets and templates must be created in advance in [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md).
+**Note**: Presets and templates must be created in advance in [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md).
 
 #### Template Specification (1 argument)
 
@@ -170,7 +170,7 @@ Specify the language code after `=` (en, ja, fr, de, es, ko, zh-CN, etc.).
 
 #### Rate Limiting
 
-Using GoogleTranslate across multiple categories causes consecutive requests. When [Rate Limiting](../../../../GlobalSettings/02-Glossary/06-Rate Limiting.md) is exceeded, the request is rejected immediately and a marker `[Plugin rate limited — retry in Ns]` is embedded in the output text (default: 3000ms delay, 20 requests/5 minutes). Settings can be changed from the gear icon in **Global Settings > EditPlugin Settings**.
+Using GoogleTranslate across multiple categories causes consecutive requests. When [Rate Limiting](../../../../GlobalSettings/02-Glossary/06-Rate%20Limiting.md) is exceeded, the request is rejected immediately and a marker `[Plugin rate limited — retry in Ns]` is embedded in the output text (default: 3000ms delay, 20 requests/5 minutes). Settings can be changed from the gear icon in **Global Settings > EditPlugin Settings**.
 
 ## Multiple Plugins
 
@@ -209,21 +209,21 @@ To apply multiple Edit plugins, stack Edit commands. Like [Filter](02-Filter.md)
 - **Comment removal**: Comments after `//` are automatically removed
 - **Case insensitive**: Plugin names are case insensitive (`trimwhitespace` = `TrimWhitespaceEachLine`)
 - **Invalid plugin names**: Unrecognized names output a warning and are skipped
-- **Plugin enablement required**: `.Edit(pluginName)` can only invoke plugins enabled in the **Category Identifier / CT** tab of [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md). This applies even when CI is called from inside [Programmable Block](../../02-How To Write Programmable Block/README.md) via `env.CI("Cat.Edit(...)")` — CI always consults the CT tab, never the PB tab
-- **Direct call from Programmable Block**: The same spec string can be passed to [env.PLUGINEDIT](../../02-How To Write Programmable Block/02-Built-in Functions/17-env.PLUGINEDIT.md) (example: `env.PLUGINEDIT(text, "LM=default, please summarize")`). However, `env.PLUGINEDIT` consults the **Programmable Block** tab — independent from the CT tab
+- **Plugin enablement required**: `.Edit(pluginName)` can only invoke plugins enabled in the **Category Identifier / CT** tab of [EditPlugin Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md). This applies even when CI is called from inside [Programmable Block](../../02-How%20To%20Write%20Programmable%20Block/README.md) via `env.CI("Cat.Edit(...)")` — CI always consults the CT tab, never the PB tab
+- **Direct call from Programmable Block**: The same spec string can be passed to [env.PLUGINEDIT](../../02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/17-env.PLUGINEDIT.md) (example: `env.PLUGINEDIT(text, "LM=default, please summarize")`). However, `env.PLUGINEDIT` consults the **Programmable Block** tab — independent from the CT tab
 
 ## Related
 
 - [Category Identifier](../README.md)
-- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
 - [Target](01-Target.md)
 - [Filter](02-Filter.md)
 - [Pick](03-Pick.md)
 - [Sort](04-Sort.md)
 - [Join](05-Join.md)
-- [Plugin](../../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [Rate Limiting](../../../../GlobalSettings/02-Glossary/06-Rate Limiting.md)
-- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [env.PLUGINEDIT](../../02-How To Write Programmable Block/02-Built-in Functions/17-env.PLUGINEDIT.md)
+- [Plugin](../../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [Rate Limiting](../../../../GlobalSettings/02-Glossary/06-Rate%20Limiting.md)
+- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [env.PLUGINEDIT](../../02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/17-env.PLUGINEDIT.md)

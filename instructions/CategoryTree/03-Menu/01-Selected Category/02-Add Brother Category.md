@@ -24,8 +24,8 @@ Adds a new category at the same level (under the same parent) as the selected ca
 
 ## Related
 
-- [Category](../../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Add Root Category](../02-Add Root Category.md)
-- [Add Child Category](01-Add Child Category.md)
+- [Category](../../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Add Root Category](../02-Add%20Root%20Category.md)
+- [Add Child Category](01-Add%20Child%20Category.md)
 - [Rename](04-Rename.md)
 - [Delete](03-Delete.md)

@@ -56,7 +56,7 @@ You can expand only the parts you need to display.
 
 ### Check Operations
 
-Operate from right-click → **Selected: Check/Uncheck** or from the [Control Bar](../04-Panel/01-Control Bar Operations.md).
+Operate from right-click → **Selected: Check/Uncheck** or from the [Control Bar](../04-Panel/01-Control%20Bar%20Operations.md).
 
 - **Child Prompts**: Direct children only
 - **Sibling Prompts**: Siblings (children of the same parent)
@@ -87,11 +87,11 @@ See [TreePath](../../02-Glossary/01-TreePath.md) for details.
 
 ## Related
 
-- [Prompt](03-What Is a Prompt.md)
-- [Hierarchy](02-Understanding Hierarchy.md)
+- [Prompt](03-What%20Is%20a%20Prompt.md)
+- [Hierarchy](02-Understanding%20Hierarchy.md)
 - [TreePath](../../02-Glossary/01-TreePath.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [Move Up](../../../CategoryTree/03-Menu/01-Selected Category/05-Move Up.md)
-- [Move Down](../../../CategoryTree/03-Menu/01-Selected Category/06-Move Down.md)
-- [Expand All](../../../CategoryTree/03-Menu/03-Expand All.md)
-- [Collapse All](../../../CategoryTree/03-Menu/04-Collapse All.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [Move Up](../../../CategoryTree/03-Menu/01-Selected%20Category/05-Move%20Up.md)
+- [Move Down](../../../CategoryTree/03-Menu/01-Selected%20Category/06-Move%20Down.md)
+- [Expand All](../../../CategoryTree/03-Menu/03-Expand%20All.md)
+- [Collapse All](../../../CategoryTree/03-Menu/04-Collapse%20All.md)

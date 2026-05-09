@@ -17,6 +17,6 @@ Selects the prompt immediately after the currently selected prompt in the tree.
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Select Previous Prompt](14-Select Previous Prompt.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Select Previous Prompt](14-Select%20Previous%20Prompt.md)

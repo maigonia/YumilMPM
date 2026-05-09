@@ -54,13 +54,13 @@ Registers multiple queues and advances to the next queue with each generation. W
 - Generation 2 → Execute queue 2
 - Generation 3 → Execute queue 3 → Complete
 
-See [Sequential Pattern](../04-Menu/05-Generation Queue/02-Add Sequential Pattern.md) for details.
+See [Sequential Pattern](../04-Menu/05-Generation%20Queue/02-Add%20Sequential%20Pattern.md) for details.
 
 ### Loop Pattern
 
 Registers multiple queues and repeats from the beginning after all are executed. You can specify a loop count or shuffle the order each cycle.
 
-See [Loop Pattern](../04-Menu/05-Generation Queue/03-Add Loop Pattern.md) for details.
+See [Loop Pattern](../04-Menu/05-Generation%20Queue/03-Add%20Loop%20Pattern.md) for details.
 
 ## Creating Queue Patterns
 
@@ -96,11 +96,11 @@ Created queue patterns can be saved to files and reused. Save with the "Save" bu
 
 ## Related
 
-- [Generation](03-About Prompt Generation.md)
-- [Standard Pattern](../04-Menu/05-Generation Queue/01-Add Standard Pattern.md)
-- [Sequential Pattern](../04-Menu/05-Generation Queue/02-Add Sequential Pattern.md)
-- [Loop Pattern](../04-Menu/05-Generation Queue/03-Add Loop Pattern.md)
-- [Conditional Pattern](../04-Menu/05-Generation Queue/04-Add Conditional Pattern.md)
-- [All Patterns Pattern](../04-Menu/05-Generation Queue/05-Add AllPatterns Pattern.md)
-- [Once Generation](../04-Menu/01-Once Generation.md)
-- [Timer Generation Start](../04-Menu/03-Timer Generation/01-Timer Generation Start.md)
+- [Generation](03-About%20Prompt%20Generation.md)
+- [Standard Pattern](../04-Menu/05-Generation%20Queue/01-Add%20Standard%20Pattern.md)
+- [Sequential Pattern](../04-Menu/05-Generation%20Queue/02-Add%20Sequential%20Pattern.md)
+- [Loop Pattern](../04-Menu/05-Generation%20Queue/03-Add%20Loop%20Pattern.md)
+- [Conditional Pattern](../04-Menu/05-Generation%20Queue/04-Add%20Conditional%20Pattern.md)
+- [All Patterns Pattern](../04-Menu/05-Generation%20Queue/05-Add%20AllPatterns%20Pattern.md)
+- [Once Generation](../04-Menu/01-Once%20Generation.md)
+- [Timer Generation Start](../04-Menu/03-Timer%20Generation/01-Timer%20Generation%20Start.md)

@@ -28,5 +28,5 @@ Re-applies edits that were cancelled with "Undo". Executing multiple times resto
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Undo](09-Undo.md)

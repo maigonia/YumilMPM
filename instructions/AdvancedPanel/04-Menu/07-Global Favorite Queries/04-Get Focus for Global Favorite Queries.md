@@ -23,6 +23,6 @@ In the Global Favorite Queries tab, you can click saved global search criteria t
 
 ## Related
 
-- [Favorite Query](../../02-Glossary/04-Favorite Query.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Global Search](../../01-Basics/06-Global Search Search All Tab.md)
+- [Favorite Query](../../02-Glossary/04-Favorite%20Query.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Global Search](../../01-Basics/06-Global%20Search%20Search%20All%20Tab.md)

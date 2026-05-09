@@ -23,6 +23,6 @@ The Checked tab shows a list of prompts that are currently checked in this categ
 
 ## Related
 
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Favorite List](../../02-Glossary/03-Favorite List.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Favorite List](../../02-Glossary/03-Favorite%20List.md)

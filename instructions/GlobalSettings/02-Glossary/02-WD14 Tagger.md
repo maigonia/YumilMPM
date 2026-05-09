@@ -17,11 +17,11 @@ This uses [SmilingWolf/wd-eva02-large-tagger-v3](https://huggingface.co/SmilingW
 
 ## Related
 
-- [WD14 Tagger Settings](../04-Menu/03-EditPlugin Settings/04-WD14 Tagger.md)
-- [WD14 Tagger Plugin](../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/14-WD14 Tagger.md)
-- [Add From WD14](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/19-Add from WD14.md)
-- [env.WD14](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/14-env.WD14.md)
-- [Extract MetaData From Image](../../PromptBrowser/03-Menu/04-ImagePanel/09-Extract MetaData From Image.md)
+- [WD14 Tagger Settings](../04-Menu/03-EditPlugin%20Settings/04-WD14%20Tagger.md)
+- [WD14 Tagger Plugin](../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/14-WD14%20Tagger.md)
+- [Add From WD14](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/19-Add%20from%20WD14.md)
+- [env.WD14](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/14-env.WD14.md)
+- [Extract MetaData From Image](../../PromptBrowser/03-Menu/04-ImagePanel/09-Extract%20MetaData%20From%20Image.md)
 - [Tag](../../PromptBrowser/01-Basics/04-Tag.md)
 - [Image](../../PromptBrowser/01-Basics/01-Image.md)
-- [Plugin](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
+- [Plugin](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)

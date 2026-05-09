@@ -14,7 +14,7 @@ Generates a prompt once and outputs it as a file to the Prompt folder (if enable
 
 ## Processing
 
-Based on the [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md) of the selected category, [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)s and [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)s within the template are replaced with actual values, and the completed prompt is output.
+Based on the [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md) of the selected category, [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)s and [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)s within the template are replaced with actual values, and the completed prompt is output.
 
 ## How to Use
 
@@ -39,18 +39,18 @@ Generated prompts are output to the following depending on settings:
 
 ## Related
 
-- [Generation](../01-Basics/03-About Prompt Generation.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md)
-- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Result Window](../01-Basics/04-Result Window.md)
+- [Generation](../01-Basics/03-About%20Prompt%20Generation.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Result Window](../01-Basics/04-Result%20Window.md)
 - [Stop](04-Stop.md)
-- [Timer Generation Start](03-Timer Generation/01-Timer Generation Start.md)
-- [Start On Demand](02-Generation On Demand/01-Start On Demand.md)
-- [Final Edit](../../AdvancedPanel/02-Glossary/05-Final Edit.md)
-- [Show ResultWindow After Generation](07-Show ResultWindow After Generation.md)
-- [Auto-Send Result to Clipboard](11-Auto-Send Result to Clipboard.md)
-- [Auto-save prompts to text files](10-Auto-save prompts to text files.md)
-- [Generation Rules](../../PromptTree/03-Tips/02-Changing Generation Rules.md)
+- [Timer Generation Start](03-Timer%20Generation/01-Timer%20Generation%20Start.md)
+- [Start On Demand](02-Generation%20On%20Demand/01-Start%20On%20Demand.md)
+- [Final Edit](../../AdvancedPanel/02-Glossary/05-Final%20Edit.md)
+- [Show ResultWindow After Generation](07-Show%20ResultWindow%20After%20Generation.md)
+- [Auto-Send Result to Clipboard](11-Auto-Send%20Result%20to%20Clipboard.md)
+- [Auto-save prompts to text files](10-Auto-save%20prompts%20to%20text%20files.md)
+- [Generation Rules](../../PromptTree/03-Tips/02-Changing%20Generation%20Rules.md)

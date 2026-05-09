@@ -2,7 +2,7 @@
 
 ## Overview
 
-This explains how to select prompts to include in [Generation](../../../PromptGeneration/01-Basics/03-About Prompt Generation.md) using [Check State](../01-Concepts/01-Understanding Check State.md).
+This explains how to select prompts to include in [Generation](../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md) using [Check State](../01-Concepts/01-Understanding%20Check%20State.md).
 
 Use different check strategies depending on your purpose.
 
@@ -35,7 +35,7 @@ Click a checkbox to toggle on/off.
 
 ### Check Using Hierarchy
 
-Specify ranges based on the selected prompt. Operate from right-click → **Selected: Check/Uncheck** or from the [Control Bar](../04-Panel/01-Control Bar Operations.md).
+Specify ranges based on the selected prompt. Operate from right-click → **Selected: Check/Uncheck** or from the [Control Bar](../04-Panel/01-Control%20Bar%20Operations.md).
 
 - **Child Prompts**: Direct children (toggle one level below only)
 - **Sibling Prompts**: Siblings (batch toggle same level)
@@ -91,7 +91,7 @@ Batch save check state across all categories.
 
 ## Navigation Between Checked Nodes
 
-Navigate while reviewing checked prompts. Operate from menu **PromptTree > Goto Checked Above/Below** or from the [Control Bar](../04-Panel/01-Control Bar Operations.md).
+Navigate while reviewing checked prompts. Operate from menu **PromptTree > Goto Checked Above/Below** or from the [Control Bar](../04-Panel/01-Control%20Bar%20Operations.md).
 
 - **Goto Checked Above**: To the nearest checked item above
 - **Goto Checked Below**: To the nearest checked item below
@@ -104,14 +104,14 @@ Use **PromptTree > Collapse Except Checked** to collapse everything except paths
 
 ## Related
 
-- [Check State](../01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [Check All](../../04-Menu/06-Check All.md)
-- [UnCheck All](../../04-Menu/07-Uncheck All.md)
-- [Check All Leaves](../../04-Menu/08-Check All Leaves.md)
-- [Child Prompts](../../04-Menu/02-Selected Check Uncheck/02-Child Prompts.md)
-- [Sibling Prompts](../../04-Menu/02-Selected Check Uncheck/03-Sibling Prompts.md)
-- [Leaf Prompts](../../04-Menu/02-Selected Check Uncheck/05-Leaf Prompts.md)
-- [Descendants Prompts](../../04-Menu/02-Selected Check Uncheck/04-Descendants Prompts.md)
-- [Search Panel](../04-Panel/02-Search Panel Operations.md)
-- [Favorite List](../../../AdvancedPanel/02-Glossary/03-Favorite List.md)
+- [Check State](../01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [Check All](../../04-Menu/06-Check%20All.md)
+- [UnCheck All](../../04-Menu/07-Uncheck%20All.md)
+- [Check All Leaves](../../04-Menu/08-Check%20All%20Leaves.md)
+- [Child Prompts](../../04-Menu/02-Selected%20Check%20Uncheck/02-Child%20Prompts.md)
+- [Sibling Prompts](../../04-Menu/02-Selected%20Check%20Uncheck/03-Sibling%20Prompts.md)
+- [Leaf Prompts](../../04-Menu/02-Selected%20Check%20Uncheck/05-Leaf%20Prompts.md)
+- [Descendants Prompts](../../04-Menu/02-Selected%20Check%20Uncheck/04-Descendants%20Prompts.md)
+- [Search Panel](../04-Panel/02-Search%20Panel%20Operations.md)
+- [Favorite List](../../../AdvancedPanel/02-Glossary/03-Favorite%20List.md)

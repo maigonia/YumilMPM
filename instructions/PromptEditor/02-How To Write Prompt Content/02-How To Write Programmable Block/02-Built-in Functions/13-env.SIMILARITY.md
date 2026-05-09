@@ -90,4 +90,4 @@ _@@@
 
 - [Programmable Block](../README.md)
 - [env.EMBED](03-env.EMBED.md)
-- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
+- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)

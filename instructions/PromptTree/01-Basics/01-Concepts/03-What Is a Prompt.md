@@ -4,7 +4,7 @@
 
 A prompt (chunk) is the smallest unit of text material used for AI image generation.
 
-It is managed within a tree, and prompts selected with [Check State](01-Understanding Check State.md) are combined to [Generation](../../../PromptGeneration/01-Basics/03-About Prompt Generation.md) the final prompt.
+It is managed within a tree, and prompts selected with [Check State](01-Understanding%20Check%20State.md) are combined to [Generation](../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md) the final prompt.
 
 ## Prompt Components
 
@@ -69,9 +69,9 @@ Normal prompts and group prompts can have their type (icon) changed later.
 
 ## Related
 
-- [Prompt](03-What Is a Prompt.md)
-- [Check State](01-Understanding Check State.md)
-- [Hierarchy](02-Understanding Hierarchy.md)
-- [PromptTree](../03-Prompt Tree Overview.md)
-- [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt Editor.md)
-- [PromptBrowser](../../../PromptBrowser/01-Basics/03-Prompt Browser.md)
+- [Prompt](03-What%20Is%20a%20Prompt.md)
+- [Check State](01-Understanding%20Check%20State.md)
+- [Hierarchy](02-Understanding%20Hierarchy.md)
+- [PromptTree](../03-Prompt%20Tree%20Overview.md)
+- [PromptEditor](../../../PromptEditor/01-Basics/03-Prompt%20Editor.md)
+- [PromptBrowser](../../../PromptBrowser/01-Basics/03-Prompt%20Browser.md)

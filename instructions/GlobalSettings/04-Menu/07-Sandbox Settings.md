@@ -2,11 +2,11 @@
 **Sandbox Settings**
 
 ## When to Use
-- When you want to change the memory limit for [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
+- When you want to change the memory limit for [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
 - When you encounter memory shortage errors during script execution
 
 ## What It Does
-Configures the memory limit for [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md) (custom JavaScript execution environment).
+Configures the memory limit for [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md) (custom JavaScript execution environment).
 
 ## Settings
 
@@ -36,6 +36,6 @@ Configures the memory limit for [Programmable Block](../../PromptEditor/02-How T
 
 ## Related
 
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
 - [Sandbox](../02-Glossary/03-Sandbox.md)
-- [Initial Setup](../03-Tips/01-Recommended Initial Settings.md)
+- [Initial Setup](../03-Tips/01-Recommended%20Initial%20Settings.md)

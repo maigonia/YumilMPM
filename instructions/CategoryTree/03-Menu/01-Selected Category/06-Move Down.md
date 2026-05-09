@@ -18,6 +18,6 @@ Select **CategoryTree > Selected Category > Move Down**
 
 ## Related
 
-- [Category](../../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Hierarchy](../../../PromptTree/01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [Move Up](05-Move Up.md)
+- [Category](../../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Hierarchy](../../../PromptTree/01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [Move Up](05-Move%20Up.md)

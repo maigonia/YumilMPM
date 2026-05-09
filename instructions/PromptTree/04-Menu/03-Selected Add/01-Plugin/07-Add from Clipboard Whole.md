@@ -25,7 +25,7 @@ Adds the entire clipboard text as a single child prompt.
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add From Clipboard](06-Add from Clipboard Lines.md)
-- [Add From Clipboard Tags](08-Add from Clipboard Tags.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add From Clipboard](06-Add%20from%20Clipboard%20Lines.md)
+- [Add From Clipboard Tags](08-Add%20from%20Clipboard%20Tags.md)

@@ -134,5 +134,5 @@ This mechanism preserves window placement for each mode when switching.
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [AutoComplete](../01-Basics/01-Features/01-AutoComplete.md)

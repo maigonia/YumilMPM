@@ -19,4 +19,4 @@ You can also toggle it from the command palette with `settings: Enable Dark Disp
 
 ## Related
 
-- [Always On Top](11-Always On Top.md)
+- [Always On Top](11-Always%20On%20Top.md)

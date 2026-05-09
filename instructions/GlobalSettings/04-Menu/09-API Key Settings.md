@@ -34,6 +34,6 @@ Configured services show a green checkmark and "Configured" label.
 
 ## Related
 
-- [Add From Civitai URL](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/12-Add from Civitai URL.md)
-- [URL Whitelist Manager](05-URL Whitelist Manager.md)
-- [Initial Setup](../03-Tips/01-Recommended Initial Settings.md)
+- [Add From Civitai URL](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/12-Add%20from%20Civitai%20URL.md)
+- [URL Whitelist Manager](05-URL%20Whitelist%20Manager.md)
+- [Initial Setup](../03-Tips/01-Recommended%20Initial%20Settings.md)

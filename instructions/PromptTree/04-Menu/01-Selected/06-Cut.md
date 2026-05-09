@@ -20,8 +20,8 @@ Cuts the selected prompt and saves it to the clipboard. The original prompt is d
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
 - [Copy](../../../PromptEditor/04-Menu/04-Copy.md)
 - [Paste](../../../PromptEditor/04-Menu/06-Paste.md)
-- [Move under Selected](../05-Checked/02-Move under Selected.md)
+- [Move under Selected](../05-Checked/02-Move%20under%20Selected.md)

@@ -19,5 +19,5 @@ Moves the currently displayed image one position forward in the image list.
 ## Related
 
 - [Image](../../01-Basics/01-Image.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Move Down Image](08-Move Down.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Move Down Image](08-Move%20Down.md)

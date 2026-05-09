@@ -53,6 +53,6 @@ Selecting Custom lets tools be toggled on/off per category.
 
 ## Related
 
-- [AI Auto-Operation](../../Utility/01-Menu/08-AI Auto-Operation.md)
-- [On Demand](../../PromptGeneration/04-Menu/02-Generation On Demand/README.md)
-- [API Server Settings](../../PromptGeneration/04-Menu/02-Generation On Demand/02-API Server Settings.md)
+- [AI Auto-Operation](../../Utility/01-Menu/08-AI%20Auto-Operation.md)
+- [On Demand](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/README.md)
+- [API Server Settings](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/02-API%20Server%20Settings.md)

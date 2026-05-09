@@ -20,5 +20,5 @@ Displays the next image.
 ## Related
 
 - [Image](../../01-Basics/01-Image.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Before Image](06-Before Image.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Before Image](06-Before%20Image.md)

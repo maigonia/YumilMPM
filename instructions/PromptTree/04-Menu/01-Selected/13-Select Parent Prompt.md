@@ -17,8 +17,8 @@ Selects the parent prompt of the currently selected prompt.
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Hierarchy](../../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Select Previous Prompt](14-Select Previous Prompt.md)
-- [Select Next Prompt](15-Select Next Prompt.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Hierarchy](../../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Select Previous Prompt](14-Select%20Previous%20Prompt.md)
+- [Select Next Prompt](15-Select%20Next%20Prompt.md)

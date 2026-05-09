@@ -21,6 +21,6 @@ You can change the preset name and description.
 
 ## Related
 
-- [Check Preset](../../02-Glossary/02-Check Preset.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
+- [Check Preset](../../02-Glossary/02-Check%20Preset.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)

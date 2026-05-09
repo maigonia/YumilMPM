@@ -42,7 +42,7 @@ The root must be an array, and each entry has the following fields:
 
 ## Related
 
-- [Add From Text File](09-Add from Text File Lines.md)
-- [Add From File System](13-Add from File System.md)
+- [Add From Text File](09-Add%20from%20Text%20File%20Lines.md)
+- [Add From File System](13-Add%20from%20File%20System.md)
 - [Plugin](README.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)

@@ -18,8 +18,8 @@ Checks all prompts displayed in the current search results.
 
 ## Related
 
-- [Check State](../../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
-- [Search Panel](../../01-Basics/04-Panel/02-Search Panel Operations.md)
-- [Uncheck Filtered Results](03-Uncheck Filtered Results.md)
-- [Check Filtered Leaves](04-Check Filtered Leaves.md)
+- [Check State](../../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Search Panel](../../01-Basics/04-Panel/02-Search%20Panel%20Operations.md)
+- [Uncheck Filtered Results](03-Uncheck%20Filtered%20Results.md)
+- [Check Filtered Leaves](04-Check%20Filtered%20Leaves.md)

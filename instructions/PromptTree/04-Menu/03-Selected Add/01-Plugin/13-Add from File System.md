@@ -54,15 +54,15 @@ For each base file, the following information is collected:
 
 Detailed explanations of each setting are available on the following pages:
 
-- [Add from File System - Content Extraction](15-Add from File System - Content Extraction.md) — Content extraction, processing, and formatting
-- [Add from File System - FileSet Type](14-Add from File System - FileSet Type.md) — File grouping methods
-- [Add from File System - Preset Management](17-Add from File System - Preset Management.md) — Saving and reusing settings
-- [Add from File System - Processing Options](16-Add from File System - Processing Options.md) — Import behavior control
+- [Add from File System - Content Extraction](15-Add%20from%20File%20System%20-%20Content%20Extraction.md) — Content extraction, processing, and formatting
+- [Add from File System - FileSet Type](14-Add%20from%20File%20System%20-%20FileSet%20Type.md) — File grouping methods
+- [Add from File System - Preset Management](17-Add%20from%20File%20System%20-%20Preset%20Management.md) — Saving and reusing settings
+- [Add from File System - Processing Options](16-Add%20from%20File%20System%20-%20Processing%20Options.md) — Import behavior control
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [Add from File System (Quick)](18-Add from File System Quick.md)
-- [Add From Text File](09-Add from Text File Lines.md)
-- [AddPromptPlugin Settings](../03-Add Prompt Plugin Settings.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add from File System (Quick)](18-Add%20from%20File%20System%20Quick.md)
+- [Add From Text File](09-Add%20from%20Text%20File%20Lines.md)
+- [AddPromptPlugin Settings](../03-Add%20Prompt%20Plugin%20Settings.md)

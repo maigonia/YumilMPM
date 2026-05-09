@@ -48,7 +48,7 @@ The following commands are always enabled and cannot be disabled:
 - **Redo** (Ctrl+Y): Redo
 - **Select All** (Ctrl+A): Select All
 
-Note: **[Command Palette](../01-Basics/01-Features/02-Command Palette.md)** (F1) is always enabled and not configurable.
+Note: **[Command Palette](../01-Basics/01-Features/02-Command%20Palette.md)** (F1) is always enabled and not configurable.
 
 ### Default Disabled Commands
 
@@ -67,6 +67,6 @@ All commands other than the above (Multi-Cursor, Line Operations, Folding, Forma
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
-- [Shortcuts](../01-Basics/04-Keyboard Shortcuts.md)
-- [Command Palette](../01-Basics/01-Features/02-Command Palette.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
+- [Shortcuts](../01-Basics/04-Keyboard%20Shortcuts.md)
+- [Command Palette](../01-Basics/01-Features/02-Command%20Palette.md)

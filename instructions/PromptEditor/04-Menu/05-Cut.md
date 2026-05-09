@@ -24,7 +24,7 @@ Copies the text selected in the editor to the clipboard and removes it from the 
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Copy](04-Copy.md)
 - [Paste](06-Paste.md)
-- [Select All](03-Select All.md)
+- [Select All](03-Select%20All.md)

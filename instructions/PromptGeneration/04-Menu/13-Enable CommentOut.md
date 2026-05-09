@@ -23,7 +23,7 @@ Configures whether comments (lines starting with `//`, etc.) are included in gen
 
 ## Related
 
-- [PromptEditor](../../PromptEditor/01-Basics/03-Prompt Editor.md)
-- [Once Generation](01-Once Generation.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [PromptEditor](../../PromptEditor/01-Basics/03-Prompt%20Editor.md)
+- [Once Generation](01-Once%20Generation.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
 - [SyntaxHighlight](../../PromptEditor/01-Basics/01-Features/07-SyntaxHighlight.md)

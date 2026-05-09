@@ -9,7 +9,7 @@
 
 ## What It Does
 
-Uses [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)'s AI model to automatically generate prompts.
+Uses [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)'s AI model to automatically generate prompts.
 
 ## How to Use
 
@@ -62,7 +62,7 @@ When enabled, the image file path is added to the beginning of each generated pr
 
 ### Format for ComfyUI MPM Parser
 
-When enabled, the output is converted to `###_Path(filepath).Text(AI-generated content)_###` format. This is the same format used by [Create Yumil Parser Block](../../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/16-Create Yumil Parser Block.md), compatible with ComfyUI's Yumil Prompt Parser node. Enabling this automatically turns on "Include file path in output".
+When enabled, the output is converted to `###_Path(filepath).Text(AI-generated content)_###` format. This is the same format used by [Create Yumil Parser Block](../../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/16-Create%20Yumil%20Parser%20Block.md), compatible with ComfyUI's Yumil Prompt Parser node. Enabling this automatically turns on "Include file path in output".
 
 ## Created Prompt Content
 
@@ -76,10 +76,10 @@ When enabled, the output is converted to `###_Path(filepath).Text(AI-generated c
 
 ## Related
 
-- [Prompt](../../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../../01-Basics/03-Prompt Tree Overview.md)
-- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
+- [Prompt](../../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
 - [Plugin](README.md)
-- [Copy Dropped Images](../../../../GlobalSettings/04-Menu/12-Copy dropped images to Images folder.md)
-- [Create Yumil Parser Block](../../../../PromptEditor/04-Menu/01-Edit SelectedText with Plugins/16-Create Yumil Parser Block.md)
+- [Copy Dropped Images](../../../../GlobalSettings/04-Menu/12-Copy%20dropped%20images%20to%20Images%20folder.md)
+- [Create Yumil Parser Block](../../../../PromptEditor/04-Menu/01-Edit%20SelectedText%20with%20Plugins/16-Create%20Yumil%20Parser%20Block.md)

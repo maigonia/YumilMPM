@@ -2,7 +2,7 @@
 **Show/Hide**
 
 ## When to Use
-- When you want to view and edit [Image](../01-Basics/01-Image.md), [Memo](../01-Basics/02-Memo.md), and [Tag](../01-Basics/04-Tag.md) attached to a [Prompt](../../PromptTree/01-Basics/01-Concepts/03-What Is a Prompt.md)
+- When you want to view and edit [Image](../01-Basics/01-Image.md), [Memo](../01-Basics/02-Memo.md), and [Tag](../01-Basics/04-Tag.md) attached to a [Prompt](../../PromptTree/01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
 - When you want to close the prompt browser to expand the editor area
 
 ## What It Does
@@ -18,9 +18,9 @@ Toggles the visibility of the prompt browser panel.
 
 ## Related
 
-- [PromptBrowser](../01-Basics/03-Prompt Browser.md)
+- [PromptBrowser](../01-Basics/03-Prompt%20Browser.md)
 - [Image](../01-Basics/01-Image.md)
 - [Memo](../01-Basics/02-Memo.md)
 - [Tag](../01-Basics/04-Tag.md)
-- [Float Panel](02-Float Panel.md)
-- [Full Screen](04-ImagePanel/01-Full Screen Image.md)
+- [Float Panel](02-Float%20Panel.md)
+- [Full Screen](04-ImagePanel/01-Full%20Screen%20Image.md)

@@ -12,7 +12,7 @@ await env.WD14(imagePath, presetName);
 | Argument | Type | Required | Description |
 |----------|------|----------|-------------|
 | `imagePath` | string | Yes | Absolute path to the image file |
-| `presetName` | string | | [Exclude Tags](../../../04-Menu/01-Edit SelectedText with Plugins/17-Exclude Tags.md) preset name. No filtering when omitted |
+| `presetName` | string | | [Exclude Tags](../../../04-Menu/01-Edit%20SelectedText%20with%20Plugins/17-Exclude%20Tags.md) preset name. No filtering when omitted |
 
 **Return value**: `Promise<string>` - Comma-separated tag string
 
@@ -38,7 +38,7 @@ The WD14 model is automatically downloaded on first use.
 
 ## Tag Inference Settings
 
-Settings can be changed in [GlobalSettings > WD14 Tagger Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/04-WD14 Tagger.md).
+Settings can be changed in [GlobalSettings > WD14 Tagger Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/04-WD14%20Tagger.md).
 
 | Setting | Default | Description |
 |---------|---------|-------------|
@@ -126,10 +126,10 @@ Returns an empty string `""` in the following cases:
 ## Related
 
 - [Programmable Block](../README.md)
-- [WD14 Tagger](../../../04-Menu/01-Edit SelectedText with Plugins/14-WD14 Tagger.md)
-- [WD14 Tagger Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/04-WD14 Tagger.md)
-- [Exclude Tags](../../../04-Menu/01-Edit SelectedText with Plugins/17-Exclude Tags.md)
-- [Exclude Tags Presets](../../../../GlobalSettings/04-Menu/03-EditPlugin Settings/02-Exclude Tags.md)
+- [WD14 Tagger](../../../04-Menu/01-Edit%20SelectedText%20with%20Plugins/14-WD14%20Tagger.md)
+- [WD14 Tagger Settings](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/04-WD14%20Tagger.md)
+- [Exclude Tags](../../../04-Menu/01-Edit%20SelectedText%20with%20Plugins/17-Exclude%20Tags.md)
+- [Exclude Tags Presets](../../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/02-Exclude%20Tags.md)
 - [Image](../../../../PromptBrowser/01-Basics/01-Image.md)
 - [Tag](../../../../PromptBrowser/01-Basics/04-Tag.md)
 - [env.chunk](01-env.chunk.md)

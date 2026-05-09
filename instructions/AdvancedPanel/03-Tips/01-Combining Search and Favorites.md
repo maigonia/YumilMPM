@@ -1,6 +1,6 @@
 # Combining Search and Favorites
 
-Here are some ways to efficiently search for prompts by combining [Favorite Query](../02-Glossary/04-Favorite Query.md) and Global Search.
+Here are some ways to efficiently search for prompts by combining [Favorite Query](../02-Glossary/04-Favorite%20Query.md) and Global Search.
 
 ## Save Frequently Used Searches as Favorites
 
@@ -38,9 +38,9 @@ Using Global Search's date filter, you can quickly find recently added or modifi
 
 ## Related
 
-- [Favorite Query](../02-Glossary/04-Favorite Query.md)
-- [Search](../01-Basics/07-What Is Advanced Panel.md)
-- [Global Search](../01-Basics/06-Global Search Search All Tab.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
+- [Favorite Query](../02-Glossary/04-Favorite%20Query.md)
+- [Search](../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Global Search](../01-Basics/06-Global%20Search%20Search%20All%20Tab.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
 - [TreePath](../../PromptTree/02-Glossary/01-TreePath.md)
 - [Tag](../../PromptBrowser/01-Basics/04-Tag.md)

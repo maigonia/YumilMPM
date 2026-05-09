@@ -50,7 +50,7 @@ A setting is at the bottom of the pattern editor.
 | Top to Bottom (default)     | Executes from the top of the list  |
 | Bottom to Top               | Executes from the bottom of the list |
 
-When all queues are consumed, the pattern is automatically removed from the Queue Pattern List. If you want to repeat execution, use [Loop Pattern](03-Add Loop Pattern.md).
+When all queues are consumed, the pattern is automatically removed from the Queue Pattern List. If you want to repeat execution, use [Loop Pattern](03-Add%20Loop%20Pattern.md).
 
 ### Save and Load
 
@@ -81,8 +81,8 @@ Progress (progress bar, current queue name) is displayed below the dropdown duri
 ## Related
 
 - [Generation Queue](README.md)
-- [Standard Pattern](01-Add Standard Pattern.md)
-- [Loop Pattern](03-Add Loop Pattern.md)
-- [Once Generation](../01-Once Generation.md)
-- [Output Category](../../../CategoryTree/02-Glossary/01-Output Category.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
+- [Standard Pattern](01-Add%20Standard%20Pattern.md)
+- [Loop Pattern](03-Add%20Loop%20Pattern.md)
+- [Once Generation](../01-Once%20Generation.md)
+- [Output Category](../../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)

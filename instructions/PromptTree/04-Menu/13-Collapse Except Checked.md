@@ -16,8 +16,8 @@ Collapses everything except the paths leading to checked prompts.
 
 ## Related
 
-- [Check State](../01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Hierarchy](../01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [Expand All](../../CategoryTree/03-Menu/03-Expand All.md)
-- [Collapse All](../../CategoryTree/03-Menu/04-Collapse All.md)
+- [Check State](../01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Hierarchy](../01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Expand All](../../CategoryTree/03-Menu/03-Expand%20All.md)
+- [Collapse All](../../CategoryTree/03-Menu/04-Collapse%20All.md)

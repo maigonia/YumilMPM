@@ -1,7 +1,7 @@
 # Sandbox
 
 ## What Is It
-A sandbox is an isolated environment for safely executing custom scripts from [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md).
+A sandbox is an isolated environment for safely executing custom scripts from [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md).
 
 Scripts run inside the sandbox, so they cannot affect the app itself or the system.
 
@@ -14,5 +14,5 @@ The sandbox has a configurable memory limit. This prevents scripts from consumin
 
 ## Related
 
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Sandbox Settings](../04-Menu/07-Sandbox Settings.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Sandbox Settings](../04-Menu/07-Sandbox%20Settings.md)

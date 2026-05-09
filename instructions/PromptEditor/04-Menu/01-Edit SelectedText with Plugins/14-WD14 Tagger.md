@@ -24,7 +24,7 @@ Extracts tags from an image using the WD14 Tagger and inserts them into the edit
 | **General Threshold** | Detection threshold for general tags. Adjust with the slider. Lower values detect more tags; higher values keep only high-confidence tags |
 | **Character Threshold** | Detection threshold for character tags. Adjusts character recognition accuracy |
 | **Max Tags** | Maximum number of tags to extract. Leave as "No limit" for unlimited extraction |
-| **Exclude Tags Preset** | Select an [Exclude Tags](17-Exclude Tags.md) preset to apply filtering to extracted tags. "None" returns all tags without filtering. The gear icon (⚙) next to the label opens preset management for adding/editing presets |
+| **Exclude Tags Preset** | Select an [Exclude Tags](17-Exclude%20Tags.md) preset to apply filtering to extracted tags. "None" returns all tags without filtering. The gear icon (⚙) next to the label opens preset management for adding/editing presets |
 | **Reset** | The Reset button at the top right resets all settings to default values |
 
 ### Image (Image Selection)
@@ -63,13 +63,13 @@ Click **OK** to apply the results to the editor.
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [WD14 Tagger Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/04-WD14 Tagger.md)
-- [Exclude Tags](17-Exclude Tags.md)
-- [Exclude Tags Presets](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/02-Exclude Tags.md)
-- [Create Yumil Parser Block](16-Create Yumil Parser Block.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [WD14 Tagger Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/04-WD14%20Tagger.md)
+- [Exclude Tags](17-Exclude%20Tags.md)
+- [Exclude Tags Presets](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/02-Exclude%20Tags.md)
+- [Create Yumil Parser Block](16-Create%20Yumil%20Parser%20Block.md)
 - [Image](../../../PromptBrowser/01-Basics/01-Image.md)
 - [Tag](../../../PromptBrowser/01-Basics/04-Tag.md)

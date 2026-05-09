@@ -24,5 +24,5 @@ In Category Template, you can manage per-category generation template settings (
 
 ## Related
 
-- [Category Template](../../02-Glossary/01-Category Template.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
+- [Category Template](../../02-Glossary/01-Category%20Template.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)

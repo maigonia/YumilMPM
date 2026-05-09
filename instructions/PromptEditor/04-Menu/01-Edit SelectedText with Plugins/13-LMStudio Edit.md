@@ -81,7 +81,7 @@ When you change a value in the Settings tab, it is applied to the next execution
 ## Prerequisites
 
 - LM Studio must be running with the API server enabled
-- Presets must be configured in [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
+- Presets must be configured in [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
 
 ## Notes
 
@@ -91,11 +91,11 @@ When you change a value in the Settings tab, it is applied to the next execution
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM Studio.md)
-- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [Create Yumil Parser Block](16-Create Yumil Parser Block.md)
-- [env.LMEDIT](../../02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/08-env.LMEDIT.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [LM Studio](../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)
+- [LM Studio Settings](../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [Create Yumil Parser Block](16-Create%20Yumil%20Parser%20Block.md)
+- [env.LMEDIT](../../02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/08-env.LMEDIT.md)

@@ -24,6 +24,6 @@ Inserts clipboard content at the cursor position in the editor. If text is selec
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Copy](04-Copy.md)
 - [Cut](05-Cut.md)

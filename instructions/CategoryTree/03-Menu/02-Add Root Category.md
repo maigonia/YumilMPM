@@ -24,8 +24,8 @@ Adds a new category at the top level (root level) of the category tree.
 
 ## Related
 
-- [Category](../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Add Child Category](01-Selected Category/01-Add Child Category.md)
-- [Add Brother Category](01-Selected Category/02-Add Brother Category.md)
-- [Rename](01-Selected Category/04-Rename.md)
-- [Delete](01-Selected Category/03-Delete.md)
+- [Category](../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Add Child Category](01-Selected%20Category/01-Add%20Child%20Category.md)
+- [Add Brother Category](01-Selected%20Category/02-Add%20Brother%20Category.md)
+- [Rename](01-Selected%20Category/04-Rename.md)
+- [Delete](01-Selected%20Category/03-Delete.md)

@@ -1,6 +1,6 @@
 # Favorite Queries Tab
 
-A tab for managing [FavoriteQuery](../02-Glossary/04-Favorite Query.md)s.
+A tab for managing [FavoriteQuery](../02-Glossary/04-Favorite%20Query.md)s.
 This allows you to save search criteria and re-execute them with a single click. Available in both Category scope and Global scope.
 
 ## When Is It Useful
@@ -57,8 +57,8 @@ Right-click a query in the list to display the management menu.
 
 ## Related
 
-- [Favorite Query](../02-Glossary/04-Favorite Query.md)
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Search](07-What Is Advanced Panel.md)
-- [Global Search](06-Global Search Search All Tab.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
+- [Favorite Query](../02-Glossary/04-Favorite%20Query.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Search](07-What%20Is%20Advanced%20Panel.md)
+- [Global Search](06-Global%20Search%20Search%20All%20Tab.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)

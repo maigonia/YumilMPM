@@ -90,10 +90,10 @@ Clicking the "Drop Image Here" button in the toolbar opens a dialog explaining t
 
 ## Related
 
-- [Generation](03-About Prompt Generation.md)
-- [Once Generation](../04-Menu/01-Once Generation.md)
-- [Show Result Window](../04-Menu/18-Show Result Window.md)
-- [Show ResultWindow After Generation](../04-Menu/07-Show ResultWindow After Generation.md)
-- [Activate ResultWindow After Generation](../04-Menu/08-Activate ResultWindow After Generation.md)
-- [Auto-Send Result to Clipboard](../04-Menu/11-Auto-Send Result to Clipboard.md)
-- [Auto-save prompts to text files](../04-Menu/10-Auto-save prompts to text files.md)
+- [Generation](03-About%20Prompt%20Generation.md)
+- [Once Generation](../04-Menu/01-Once%20Generation.md)
+- [Show Result Window](../04-Menu/18-Show%20Result%20Window.md)
+- [Show ResultWindow After Generation](../04-Menu/07-Show%20ResultWindow%20After%20Generation.md)
+- [Activate ResultWindow After Generation](../04-Menu/08-Activate%20ResultWindow%20After%20Generation.md)
+- [Auto-Send Result to Clipboard](../04-Menu/11-Auto-Send%20Result%20to%20Clipboard.md)
+- [Auto-save prompts to text files](../04-Menu/10-Auto-save%20prompts%20to%20text%20files.md)

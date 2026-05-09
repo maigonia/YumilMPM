@@ -4,7 +4,7 @@
 
 Write-system endpoints for adding/editing prompts, check operations, template settings, preset application, etc. (13 endpoints).
 
-> See [REST API Reference](01-REST API Reference.md) for common specifications (authentication / request format). Data persistence requires [Save Project](../../File/02-Menu/06-Save Project.md).
+> See [REST API Reference](01-REST%20API%20Reference.md) for common specifications (authentication / request format). Data persistence requires [Save Project](../../File/02-Menu/06-Save%20Project.md).
 
 ## Endpoint List
 
@@ -309,7 +309,7 @@ Write-system endpoints for adding/editing prompts, check operations, template se
 
 ## set_category_template
 
-- **Purpose**: Update the category's template generation settings ([Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md))
+- **Purpose**: Update the category's template generation settings ([Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md))
 - **Parameters**:
 
 | Name | Type | Required | Description |
@@ -545,12 +545,12 @@ If prompts have been deleted since the preset was saved, additional fields are i
 
 ## Related
 
-- [REST API Reference](01-REST API Reference.md)
-- [REST API - Read Endpoints](02-REST API - Read Endpoints.md)
-- [REST API - Delete Endpoints](04-REST API - Delete Endpoints.md)
-- [Save Project](../../File/02-Menu/06-Save Project.md)
+- [REST API Reference](01-REST%20API%20Reference.md)
+- [REST API - Read Endpoints](02-REST%20API%20-%20Read%20Endpoints.md)
+- [REST API - Delete Endpoints](04-REST%20API%20-%20Delete%20Endpoints.md)
+- [Save Project](../../File/02-Menu/06-Save%20Project.md)
 - [Tag](../../PromptBrowser/01-Basics/04-Tag.md)
-- [Check Preset](../../AdvancedPanel/02-Glossary/02-Check Preset.md)
-- [Favorite List](../../AdvancedPanel/02-Glossary/03-Favorite List.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Final Edit](../../AdvancedPanel/02-Glossary/05-Final Edit.md)
+- [Check Preset](../../AdvancedPanel/02-Glossary/02-Check%20Preset.md)
+- [Favorite List](../../AdvancedPanel/02-Glossary/03-Favorite%20List.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Final Edit](../../AdvancedPanel/02-Glossary/05-Final%20Edit.md)

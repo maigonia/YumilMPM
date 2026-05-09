@@ -33,8 +33,8 @@ smile
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [Remove Duplicate Lines](05-Remove Duplicate Lines.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [Remove Duplicate Lines](05-Remove%20Duplicate%20Lines.md)

@@ -26,13 +26,13 @@ Specify a folder, and all text files in the folder will be added as child prompt
 
 ## For More Complex Import Configurations
 
-If your folder and file structure is already defined, you can use [Add from File System](../04-Menu/03-Selected Add/01-Plugin/13-Add from File System.md) for more flexible imports. It allows you to import folder hierarchies directly as tree structures and specify processing methods for each file type.
+If your folder and file structure is already defined, you can use [Add from File System](../04-Menu/03-Selected%20Add/01-Plugin/13-Add%20from%20File%20System.md) for more flexible imports. It allows you to import folder hierarchies directly as tree structures and specify processing methods for each file type.
 
 Frequently used settings can be saved as presets, making it easy to reuse the same import configuration repeatedly.
 
 ## For Importing an Entire Tree Structure (For Technical Users)
 
-If you can generate JSON files with scripts or external tools, [Add from JSON File](../04-Menu/03-Selected Add/01-Plugin/11-Add from JSON File.md) is available. A single file with nested `children` can import the tree structure, tags, memos, and image paths all at once.
+If you can generate JSON files with scripts or external tools, [Add from JSON File](../04-Menu/03-Selected%20Add/01-Plugin/11-Add%20from%20JSON%20File.md) is available. A single file with nested `children` can import the tree structure, tags, memos, and image paths all at once.
 
 This is useful when you want to programmatically shape large numbers of prompts before importing, or when automating exports from other tools.
 
@@ -44,9 +44,9 @@ This is useful when you want to programmatically shape large numbers of prompts 
 
 ## Related
 
-- [Add Plugin](../04-Menu/03-Selected Add/03-Add Prompt Plugin Settings.md)
-- [Add from Text File (Whole)](../04-Menu/03-Selected Add/01-Plugin/10-Add from Text File Whole.md)
-- [Add from File System](../04-Menu/03-Selected Add/01-Plugin/13-Add from File System.md)
-- [Add from File System - Preset Management](../04-Menu/03-Selected Add/01-Plugin/17-Add from File System - Preset Management.md)
-- [Add from JSON File](../04-Menu/03-Selected Add/01-Plugin/11-Add from JSON File.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
+- [Add Plugin](../04-Menu/03-Selected%20Add/03-Add%20Prompt%20Plugin%20Settings.md)
+- [Add from Text File (Whole)](../04-Menu/03-Selected%20Add/01-Plugin/10-Add%20from%20Text%20File%20Whole.md)
+- [Add from File System](../04-Menu/03-Selected%20Add/01-Plugin/13-Add%20from%20File%20System.md)
+- [Add from File System - Preset Management](../04-Menu/03-Selected%20Add/01-Plugin/17-Add%20from%20File%20System%20-%20Preset%20Management.md)
+- [Add from JSON File](../04-Menu/03-Selected%20Add/01-Plugin/11-Add%20from%20JSON%20File.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)

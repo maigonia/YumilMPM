@@ -4,7 +4,7 @@
 
 Endpoints dedicated to data retrieval and search (12 endpoints). Do not modify state.
 
-> See [REST API Reference](01-REST API Reference.md) for common specifications (authentication / request format / error format).
+> See [REST API Reference](01-REST%20API%20Reference.md) for common specifications (authentication / request format / error format).
 
 ## Endpoint List
 
@@ -492,11 +492,11 @@ When `count_only=true`:
 
 ## Related
 
-- [REST API Reference](01-REST API Reference.md)
-- [REST API - Write Endpoints](03-REST API - Write Endpoints.md)
-- [REST API - Delete Endpoints](04-REST API - Delete Endpoints.md)
-- [REST API - Generation Endpoints](06-REST API - Generation Endpoints.md)
+- [REST API Reference](01-REST%20API%20Reference.md)
+- [REST API - Write Endpoints](03-REST%20API%20-%20Write%20Endpoints.md)
+- [REST API - Delete Endpoints](04-REST%20API%20-%20Delete%20Endpoints.md)
+- [REST API - Generation Endpoints](06-REST%20API%20-%20Generation%20Endpoints.md)
 - [Tag](../../PromptBrowser/01-Basics/04-Tag.md)
-- [Check Preset](../../AdvancedPanel/02-Glossary/02-Check Preset.md)
-- [Favorite List](../../AdvancedPanel/02-Glossary/03-Favorite List.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [Check Preset](../../AdvancedPanel/02-Glossary/02-Check%20Preset.md)
+- [Favorite List](../../AdvancedPanel/02-Glossary/03-Favorite%20List.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)

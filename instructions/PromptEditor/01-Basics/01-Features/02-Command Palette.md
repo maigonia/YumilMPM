@@ -35,5 +35,5 @@ Entering a category name in the input field narrows down to commands in that cat
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
-- [Shortcuts](../04-Keyboard Shortcuts.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
+- [Shortcuts](../04-Keyboard%20Shortcuts.md)

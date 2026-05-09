@@ -26,9 +26,9 @@ Adds a new child category under the selected category. The added child category 
 
 ## Related
 
-- [Category](../../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Hierarchy](../../../PromptTree/01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [Add Root Category](../02-Add Root Category.md)
-- [Add Brother Category](02-Add Brother Category.md)
+- [Category](../../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Hierarchy](../../../PromptTree/01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [Add Root Category](../02-Add%20Root%20Category.md)
+- [Add Brother Category](02-Add%20Brother%20Category.md)
 - [Rename](04-Rename.md)
 - [Delete](03-Delete.md)

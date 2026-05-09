@@ -58,7 +58,7 @@ Filters by tags assigned to chunks. If a chunk has multiple tags, it matches if 
 
 ### treePath - Filter by Hierarchy Path
 
-Filters by [TreePath](../../../../PromptTree/02-Glossary/01-TreePath.md) (path/hierarchy on the [PromptTree](../../../../PromptTree/01-Basics/03-Prompt Tree Overview.md)).
+Filters by [TreePath](../../../../PromptTree/02-Glossary/01-TreePath.md) (path/hierarchy on the [PromptTree](../../../../PromptTree/01-Basics/03-Prompt%20Tree%20Overview.md)).
 
 ```
 @@@_Character.Filter(treePath=Characters/Main)_@@@
@@ -76,7 +76,7 @@ Adding `/**` at the end of the path gets all descendant chunks under that path.
 
 ### favoriteList - Filter by Favorite List
 
-Filters by chunks included in a [Favorite List](../../../../AdvancedPanel/02-Glossary/03-Favorite List.md). Searches by partial match on the list name.
+Filters by chunks included in a [Favorite List](../../../../AdvancedPanel/02-Glossary/03-Favorite%20List.md). Searches by partial match on the list name.
 
 ```
 @@@_Character.Filter(favoriteList=main characters)_@@@
@@ -85,7 +85,7 @@ Filters by chunks included in a [Favorite List](../../../../AdvancedPanel/02-Glo
 
 ### favoriteQuery - Filter by Favorite Query
 
-Filters by search results from a [Favorite Query](../../../../AdvancedPanel/02-Glossary/04-Favorite Query.md). Searches by partial match on the query name.
+Filters by search results from a [Favorite Query](../../../../AdvancedPanel/02-Glossary/04-Favorite%20Query.md). Searches by partial match on the query name.
 
 ```
 @@@_Character.Filter(favoriteQuery=frequently used)_@@@
@@ -194,7 +194,7 @@ Chaining multiple Filters creates AND conditions.
 ## Related
 
 - [Category Identifier](../README.md)
-- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
 - [Target](01-Target.md)
 - [Pick](03-Pick.md)
 - [Sort](04-Sort.md)
@@ -202,5 +202,5 @@ Chaining multiple Filters creates AND conditions.
 - [Edit](06-Edit.md)
 - [TreePath](../../../../PromptTree/02-Glossary/01-TreePath.md)
 - [Tag](../../../../PromptBrowser/01-Basics/04-Tag.md)
-- [Favorite Query](../../../../AdvancedPanel/02-Glossary/04-Favorite Query.md)
-- [Copy TreePath](../../../../PromptTree/04-Menu/04-Selected Copy Info/03-TreePath.md)
+- [Favorite Query](../../../../AdvancedPanel/02-Glossary/04-Favorite%20Query.md)
+- [Copy TreePath](../../../../PromptTree/04-Menu/04-Selected%20Copy%20Info/03-TreePath.md)

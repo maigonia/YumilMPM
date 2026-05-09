@@ -26,8 +26,8 @@ Content is auto-saved when focus is lost.
 ## Related
 
 - [Memo](02-Memo.md)
-- [PromptBrowser](03-Prompt Browser.md)
-- [Add Memo](../03-Menu/05-Memo Panel/01-Add Memo.md)
-- [Remove Memo](../03-Menu/05-Memo Panel/02-Remove Memo.md)
-- [Next Memo](../03-Menu/05-Memo Panel/03-Next Memo.md)
-- [Previous Memo](../03-Menu/05-Memo Panel/04-Previous Memo.md)
+- [PromptBrowser](03-Prompt%20Browser.md)
+- [Add Memo](../03-Menu/05-Memo%20Panel/01-Add%20Memo.md)
+- [Remove Memo](../03-Menu/05-Memo%20Panel/02-Remove%20Memo.md)
+- [Next Memo](../03-Menu/05-Memo%20Panel/03-Next%20Memo.md)
+- [Previous Memo](../03-Menu/05-Memo%20Panel/04-Previous%20Memo.md)

@@ -50,6 +50,6 @@ Each item displays the following information:
 
 ## Related
 
-- [Path Repair](13-Path Repair.md)
-- [Project](../../File/01-Basics/01-File Menu Basics.md)
+- [Path Repair](13-Path%20Repair.md)
+- [Project](../../File/01-Basics/01-File%20Menu%20Basics.md)
 - [BackUp](../../File/02-Menu/09-BackUp/README.md)

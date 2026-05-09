@@ -34,17 +34,17 @@ On first use, an explanation dialog about backed up items is displayed.
 - If a custom backup folder is configured, backups are saved there
 
 ## Tips
-- For a complete backup, use [Full Backup](../01-Full Backup.md) instead
-- [Enable Auto Backup](06-Enable Auto Backup.md) creates this format of backup when the app closes
-- Clean up old backups with [Delete Older Than 30 Days](04-Delete Older Than 30 Days.md) or [Keep Only Last 30 Backups](05-Keep Only Last 30 Backups.md)
+- For a complete backup, use [Full Backup](../01-Full%20Backup.md) instead
+- [Enable Auto Backup](06-Enable%20Auto%20Backup.md) creates this format of backup when the app closes
+- Clean up old backups with [Delete Older Than 30 Days](04-Delete%20Older%20Than%2030%20Days.md) or [Keep Only Last 30 Backups](05-Keep%20Only%20Last%2030%20Backups.md)
 
 ## Related
 
 - [BackUp](../README.md)
-- [Full Backup](../01-Full Backup.md)
-- [Enable Auto Backup](06-Enable Auto Backup.md)
-- [Restore From Backup](07-Restore From Backup.md)
-- [Open Backup Folder](02-Open Backup Folder.md)
-- [Backup Folder Settings](03-Backup Folder Settings.md)
-- [Delete Older Than 30 Days](04-Delete Older Than 30 Days.md)
-- [Keep Only Last 30 Backups](05-Keep Only Last 30 Backups.md)
+- [Full Backup](../01-Full%20Backup.md)
+- [Enable Auto Backup](06-Enable%20Auto%20Backup.md)
+- [Restore From Backup](07-Restore%20From%20Backup.md)
+- [Open Backup Folder](02-Open%20Backup%20Folder.md)
+- [Backup Folder Settings](03-Backup%20Folder%20Settings.md)
+- [Delete Older Than 30 Days](04-Delete%20Older%20Than%2030%20Days.md)
+- [Keep Only Last 30 Backups](05-Keep%20Only%20Last%2030%20Backups.md)

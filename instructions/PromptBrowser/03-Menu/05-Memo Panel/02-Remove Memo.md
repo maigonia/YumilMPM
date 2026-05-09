@@ -19,5 +19,5 @@ Deletes the currently displayed memo. A confirmation dialog is shown.
 ## Related
 
 - [Memo](../../01-Basics/02-Memo.md)
-- [PromptBrowser](../../01-Basics/03-Prompt Browser.md)
-- [Add Memo](01-Add Memo.md)
+- [PromptBrowser](../../01-Basics/03-Prompt%20Browser.md)
+- [Add Memo](01-Add%20Memo.md)

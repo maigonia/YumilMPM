@@ -83,10 +83,10 @@ AdvancedPanel > Category tab > Final Edit checkbox
 
 ## Related
 
-- [Category Templateタブ](../01-Basics/01-Category Template Tab.md)
-- [Category Template](01-Category Template.md)
-- [Advanced Panel](../01-Basics/07-What Is Advanced Panel.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Edit](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/06-Edit.md)
-- [Plugin](../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
+- [Category Templateタブ](../01-Basics/01-Category%20Template%20Tab.md)
+- [Category Template](01-Category%20Template.md)
+- [Advanced Panel](../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Edit](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/06-Edit.md)
+- [Plugin](../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)

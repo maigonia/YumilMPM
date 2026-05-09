@@ -24,11 +24,11 @@ Uses the content written in the editor directly as a template and immediately ex
 - Can be used in both the Editor tab and Draft tab
 - The editor content becomes the template as-is
 - Category Identifiers like `@@@_CategoryName_@@@` are resolved normally
-- Programmable Blocks can also be used, but [env.chunk](../../02-How To Write Prompt Content/02-How To Write Programmable Block/02-Built-in Functions/01-env.chunk.md) cannot retrieve chunk information (because Direct Generation is not tied to a specific chunk)
+- Programmable Blocks can also be used, but [env.chunk](../../02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/02-Built-in%20Functions/01-env.chunk.md) cannot retrieve chunk information (because Direct Generation is not tied to a specific chunk)
 
 ## Related
 
-- [PromptEditor](../03-Prompt Editor.md)
-- [Draft Tab](05-Draft Tab.md)
-- [Once Generation](../../../PromptGeneration/04-Menu/01-Once Generation.md)
-- [Generation](../../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
+- [PromptEditor](../03-Prompt%20Editor.md)
+- [Draft Tab](05-Draft%20Tab.md)
+- [Once Generation](../../../PromptGeneration/04-Menu/01-Once%20Generation.md)
+- [Generation](../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)

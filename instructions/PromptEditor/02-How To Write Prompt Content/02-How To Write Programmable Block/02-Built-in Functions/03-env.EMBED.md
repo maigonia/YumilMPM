@@ -77,5 +77,5 @@ _@@@
 
 - [Programmable Block](../README.md)
 - [env.SIMILARITY](13-env.SIMILARITY.md)
-- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM Studio/01-Settings.md)
-- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM Studio.md)
+- [LM Studio Settings](../../../../GlobalSettings/04-Menu/04-LM%20Studio/01-Settings.md)
+- [LM Studio](../../../../GlobalSettings/02-Glossary/01-LM%20Studio.md)

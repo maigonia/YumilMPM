@@ -2,7 +2,7 @@
 
 This is the per-category generation template settings tab, displayed in Category scope.
 
-For the concept of [Category Template](../02-Glossary/01-Category Template.md), please see the glossary. Here is how to operate the tab.
+For the concept of [Category Template](../02-Glossary/01-Category%20Template.md), please see the glossary. Here is how to operate the tab.
 
 ## Two Input Modes
 
@@ -48,14 +48,14 @@ The choices for each combo box can be edited from the menu under **Category Temp
 
 ## Related
 
-- [Category Template](../02-Glossary/01-Category Template.md)
-- [Advanced Panel](07-What Is Advanced Panel.md)
-- [Final Edit](../02-Glossary/05-Final Edit.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Target](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/01-Target.md)
-- [Filter](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/02-Filter.md)
-- [Pick](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/03-Pick.md)
-- [Sort](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/04-Sort.md)
-- [Join](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/05-Join.md)
-- [Edit](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/02-Action Commands/06-Edit.md)
+- [Category Template](../02-Glossary/01-Category%20Template.md)
+- [Advanced Panel](07-What%20Is%20Advanced%20Panel.md)
+- [Final Edit](../02-Glossary/05-Final%20Edit.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Target](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/01-Target.md)
+- [Filter](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/02-Filter.md)
+- [Pick](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/03-Pick.md)
+- [Sort](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/04-Sort.md)
+- [Join](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/05-Join.md)
+- [Edit](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/02-Action%20Commands/06-Edit.md)

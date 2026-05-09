@@ -21,5 +21,5 @@ A confirmation dialog is shown before deletion.
 
 ## Related
 
-- [Check Preset](../../02-Glossary/02-Check Preset.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
+- [Check Preset](../../02-Glossary/02-Check%20Preset.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)

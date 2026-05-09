@@ -22,8 +22,8 @@ Sets the prompt (chunk) name directly as its content. Useful when you want the c
 
 ## Related
 
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md)
-- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit SelectedText with Plugins.md)
-- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [Rename](../../../CategoryTree/03-Menu/01-Selected Category/04-Rename.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md)
+- [Edit SelectedText with Plugins](../../01-Basics/01-Features/06-Edit%20SelectedText%20with%20Plugins.md)
+- [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [Rename](../../../CategoryTree/03-Menu/01-Selected%20Category/04-Rename.md)

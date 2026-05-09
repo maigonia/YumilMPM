@@ -18,7 +18,7 @@ Remove this app's entry from `.mcp.json` to prevent automatic reconnection in fu
 
 ## How to Reconnect
 
-Run **Developer: Reload Window** from the VSCode command palette (Ctrl+Shift+P). If the JSON was re-obtained from [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP Server Settings.md) and `.mcp.json` was updated, Reload Window applies the new settings.
+Run **Developer: Reload Window** from the VSCode command palette (Ctrl+Shift+P). If the JSON was re-obtained from [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP%20Server%20Settings.md) and `.mcp.json` was updated, Reload Window applies the new settings.
 
 > **Note**: The Reconnect / Enable buttons in the `/mcp` menu sometimes fail to pick up `.mcp.json` updates. Use **Developer: Reload Window** for reliable application of the config.
 
@@ -26,6 +26,6 @@ Run **Developer: Reload Window** from the VSCode command palette (Ctrl+Shift+P).
 
 ## Related
 
-- [AI Auto-Operation](08-AI Auto-Operation.md)
-- [On Demand](../../PromptGeneration/04-Menu/02-Generation On Demand/README.md)
-- [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP Server Settings.md)
+- [AI Auto-Operation](08-AI%20Auto-Operation.md)
+- [On Demand](../../PromptGeneration/04-Menu/02-Generation%20On%20Demand/README.md)
+- [MCP Server Settings](../../GlobalSettings/04-Menu/08-MCP%20Server%20Settings.md)

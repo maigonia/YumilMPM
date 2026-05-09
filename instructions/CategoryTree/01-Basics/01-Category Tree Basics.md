@@ -21,7 +21,7 @@ Create a new category using the **+ Category** button at the top of the tree, or
 
 To create one under the selected category, use **Add Child Category** from the right-click menu.
 
-→ See [Add Root Category](../03-Menu/02-Add Root Category.md) / [Add Child Category](../03-Menu/01-Selected Category/01-Add Child Category.md) / [Add Brother Category](../03-Menu/01-Selected Category/02-Add Brother Category.md) for details
+→ See [Add Root Category](../03-Menu/02-Add%20Root%20Category.md) / [Add Child Category](../03-Menu/01-Selected%20Category/01-Add%20Child%20Category.md) / [Add Brother Category](../03-Menu/01-Selected%20Category/02-Add%20Brother%20Category.md) for details
 
 ### Organizing Categories
 
@@ -29,32 +29,32 @@ To create one under the selected category, use **Add Child Category** from the r
 - **Delete**: Select a category and press `Delete`
 - **Reorder**: Drag & drop to move
 
-→ See [Rename](../03-Menu/01-Selected Category/04-Rename.md) / [Delete](../03-Menu/01-Selected Category/03-Delete.md) / [Move Up](../03-Menu/01-Selected Category/05-Move Up.md) / [Move Down](../03-Menu/01-Selected Category/06-Move Down.md) for details
+→ See [Rename](../03-Menu/01-Selected%20Category/04-Rename.md) / [Delete](../03-Menu/01-Selected%20Category/03-Delete.md) / [Move Up](../03-Menu/01-Selected%20Category/05-Move%20Up.md) / [Move Down](../03-Menu/01-Selected%20Category/06-Move%20Down.md) for details
 
 ## About the Checkbox
 
 The checkbox to the left of the category name controls whether that category is included as an output target for prompt generation.
 
-- **Checked**: Included in generation ([Output Category](../02-Glossary/01-Output Category.md))
+- **Checked**: Included in generation ([Output Category](../02-Glossary/01-Output%20Category.md))
 - **Unchecked**: Not included in generation
 
 To generate prompts, you need to check both the category and the prompts in the PromptTree.
 
-→ See [Output Category](../02-Glossary/01-Output Category.md) for details
+→ See [Output Category](../02-Glossary/01-Output%20Category.md) for details
 
 ## Related
 
-- [Category](../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Output Category](../02-Glossary/01-Output Category.md)
-- [Add Root Category](../03-Menu/02-Add Root Category.md)
-- [Add Child Category](../03-Menu/01-Selected Category/01-Add Child Category.md)
-- [Add Brother Category](../03-Menu/01-Selected Category/02-Add Brother Category.md)
-- [Rename](../03-Menu/01-Selected Category/04-Rename.md)
-- [Delete](../03-Menu/01-Selected Category/03-Delete.md)
-- [Move Up](../03-Menu/01-Selected Category/05-Move Up.md)
-- [Move Down](../03-Menu/01-Selected Category/06-Move Down.md)
-- [Expand All](../03-Menu/03-Expand All.md)
-- [Collapse All](../03-Menu/04-Collapse All.md)
-- [PromptTree](../../PromptTree/01-Basics/03-Prompt Tree Overview.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Generation](../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
+- [Category](../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Output Category](../02-Glossary/01-Output%20Category.md)
+- [Add Root Category](../03-Menu/02-Add%20Root%20Category.md)
+- [Add Child Category](../03-Menu/01-Selected%20Category/01-Add%20Child%20Category.md)
+- [Add Brother Category](../03-Menu/01-Selected%20Category/02-Add%20Brother%20Category.md)
+- [Rename](../03-Menu/01-Selected%20Category/04-Rename.md)
+- [Delete](../03-Menu/01-Selected%20Category/03-Delete.md)
+- [Move Up](../03-Menu/01-Selected%20Category/05-Move%20Up.md)
+- [Move Down](../03-Menu/01-Selected%20Category/06-Move%20Down.md)
+- [Expand All](../03-Menu/03-Expand%20All.md)
+- [Collapse All](../03-Menu/04-Collapse%20All.md)
+- [PromptTree](../../PromptTree/01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Generation](../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)

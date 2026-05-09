@@ -28,7 +28,7 @@ A favorite list stores a list of prompt IDs. By clicking the checkbox, you can b
 
 ## Related
 
-- [Favorite List](../../02-Glossary/03-Favorite List.md)
-- [Advanced Panel](../../01-Basics/07-What Is Advanced Panel.md)
-- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Create Favorite List](../../../PromptTree/04-Menu/05-Checked/03-Create Favorite List.md)
+- [Favorite List](../../02-Glossary/03-Favorite%20List.md)
+- [Advanced Panel](../../01-Basics/07-What%20Is%20Advanced%20Panel.md)
+- [Check State](../../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Create Favorite List](../../../PromptTree/04-Menu/05-Checked/03-Create%20Favorite%20List.md)

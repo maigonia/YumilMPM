@@ -1,7 +1,7 @@
 # About Prompt Generation
 
-Basically, it "randomly selects and outputs one checked prompt from the PromptTree of each [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md)."
-Prompts are output for each [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md).
+Basically, it "randomly selects and outputs one checked prompt from the PromptTree of each [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md)."
+Prompts are output for each [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md).
 
 ## Basic Flow
 
@@ -23,20 +23,20 @@ Generated prompts can be received in the following ways depending on settings:
 
 ## 3 Generation Modes
 
-Three generation modes are available for different use cases. See [Generation Modes](01-Generation Modes.md) for details.
+Three generation modes are available for different use cases. See [Generation Modes](01-Generation%20Modes.md) for details.
 
 ## Related
 
-- [Generation](03-About Prompt Generation.md)
-- [Output Category](../../CategoryTree/02-Glossary/01-Output Category.md)
-- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding Check State.md)
-- [Category Template](../../AdvancedPanel/02-Glossary/01-Category Template.md)
-- [Category Identifier](../../PromptEditor/02-How To Write Prompt Content/01-How To Write Category Identifier/README.md)
-- [Programmable Block](../../PromptEditor/02-How To Write Prompt Content/02-How To Write Programmable Block/README.md)
-- [Generation Modes](01-Generation Modes.md)
-- [Generation Queue](../04-Menu/05-Generation Queue/README.md)
-- [Result Window](04-Result Window.md)
-- [Once Generation](../04-Menu/01-Once Generation.md)
-- [Timer Generation Start](../04-Menu/03-Timer Generation/01-Timer Generation Start.md)
-- [Start On Demand](../04-Menu/02-Generation On Demand/01-Start On Demand.md)
-- [Final Edit](../../AdvancedPanel/02-Glossary/05-Final Edit.md)
+- [Generation](03-About%20Prompt%20Generation.md)
+- [Output Category](../../CategoryTree/02-Glossary/01-Output%20Category.md)
+- [Check State](../../PromptTree/01-Basics/01-Concepts/01-Understanding%20Check%20State.md)
+- [Category Template](../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
+- [Category Identifier](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/01-How%20To%20Write%20Category%20Identifier/README.md)
+- [Programmable Block](../../PromptEditor/02-How%20To%20Write%20Prompt%20Content/02-How%20To%20Write%20Programmable%20Block/README.md)
+- [Generation Modes](01-Generation%20Modes.md)
+- [Generation Queue](../04-Menu/05-Generation%20Queue/README.md)
+- [Result Window](04-Result%20Window.md)
+- [Once Generation](../04-Menu/01-Once%20Generation.md)
+- [Timer Generation Start](../04-Menu/03-Timer%20Generation/01-Timer%20Generation%20Start.md)
+- [Start On Demand](../04-Menu/02-Generation%20On%20Demand/01-Start%20On%20Demand.md)
+- [Final Edit](../../AdvancedPanel/02-Glossary/05-Final%20Edit.md)

@@ -26,10 +26,10 @@ If you want to use AI features, first install and launch LM Studio, then configu
 
 ## Related
 
-- [LM Studio Settings](../04-Menu/04-LM Studio/01-Settings.md)
-- [WD14 Tagger Settings](../04-Menu/03-EditPlugin Settings/04-WD14 Tagger.md)
-- [Sandbox Settings](../04-Menu/07-Sandbox Settings.md)
-- [EditPlugin Settings](../04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md)
-- [API Key Settings](../04-Menu/09-API Key Settings.md)
-- [URL Whitelist Manager](../04-Menu/05-URL Whitelist Manager.md)
-- [Font Settings](../04-Menu/02-Font Settings.md)
+- [LM Studio Settings](../04-Menu/04-LM%20Studio/01-Settings.md)
+- [WD14 Tagger Settings](../04-Menu/03-EditPlugin%20Settings/04-WD14%20Tagger.md)
+- [Sandbox Settings](../04-Menu/07-Sandbox%20Settings.md)
+- [EditPlugin Settings](../04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md)
+- [API Key Settings](../04-Menu/09-API%20Key%20Settings.md)
+- [URL Whitelist Manager](../04-Menu/05-URL%20Whitelist%20Manager.md)
+- [Font Settings](../04-Menu/02-Font%20Settings.md)

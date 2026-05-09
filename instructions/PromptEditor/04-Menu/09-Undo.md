@@ -28,5 +28,5 @@ Cancels the most recent editing operation and reverts to the previous state. Exe
 
 ## Related
 
-- [PromptEditor](../01-Basics/03-Prompt Editor.md)
+- [PromptEditor](../01-Basics/03-Prompt%20Editor.md)
 - [Redo](10-Redo.md)

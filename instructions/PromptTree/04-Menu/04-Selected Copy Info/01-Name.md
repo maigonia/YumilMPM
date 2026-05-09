@@ -14,8 +14,8 @@ Copies the name of the selected prompt to the clipboard.
 
 ## Related
 
-- [Prompt](../../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../../01-Basics/03-Prompt Tree Overview.md)
+- [Prompt](../../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../../01-Basics/03-Prompt%20Tree%20Overview.md)
 - [Copy Content](02-Content.md)
 - [Copy TreePath](03-TreePath.md)
-- [Rename](../../../CategoryTree/03-Menu/01-Selected Category/04-Rename.md)
+- [Rename](../../../CategoryTree/03-Menu/01-Selected%20Category/04-Rename.md)

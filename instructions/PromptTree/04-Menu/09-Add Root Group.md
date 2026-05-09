@@ -23,8 +23,8 @@ Adds an empty prompt at the top level (root level) of the category.
 
 ## Related
 
-- [Prompt](../01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [PromptTree](../01-Basics/03-Prompt Tree Overview.md)
-- [Add Child](03-Selected Add/01-Plugin/01-Add Child.md)
-- [Add Sibling](03-Selected Add/01-Plugin/04-Add Sibling.md)
-- [Add Child Group](03-Selected Add/01-Plugin/02-Add Child Group.md)
+- [Prompt](../01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [PromptTree](../01-Basics/03-Prompt%20Tree%20Overview.md)
+- [Add Child](03-Selected%20Add/01-Plugin/01-Add%20Child.md)
+- [Add Sibling](03-Selected%20Add/01-Plugin/04-Add%20Sibling.md)
+- [Add Child Group](03-Selected%20Add/01-Plugin/02-Add%20Child%20Group.md)

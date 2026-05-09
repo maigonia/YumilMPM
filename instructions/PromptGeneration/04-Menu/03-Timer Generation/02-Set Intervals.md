@@ -33,5 +33,5 @@ Sets the interval (in milliseconds) used for timer generation. This setting take
 
 ## Related
 
-- [Timer Generation Start](01-Timer Generation Start.md)
-- [Once Generation](../01-Once Generation.md)
+- [Timer Generation Start](01-Timer%20Generation%20Start.md)
+- [Once Generation](../01-Once%20Generation.md)

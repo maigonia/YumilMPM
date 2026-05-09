@@ -118,7 +118,7 @@ _@@@
 ## Related
 
 - [Programmable Block](../README.md)
-- [Prompt](../../../../PromptTree/01-Basics/01-Concepts/03-What Is a Prompt.md)
-- [Hierarchy](../../../../PromptTree/01-Basics/01-Concepts/02-Understanding Hierarchy.md)
+- [Prompt](../../../../PromptTree/01-Basics/01-Concepts/03-What%20Is%20a%20Prompt.md)
+- [Hierarchy](../../../../PromptTree/01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
 - [TreePath](../../../../PromptTree/02-Glossary/01-TreePath.md)
 - [env.getCategory](04-env.getCategory.md)

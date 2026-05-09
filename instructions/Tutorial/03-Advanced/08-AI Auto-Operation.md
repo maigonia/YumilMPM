@@ -48,7 +48,7 @@ Any MCP-compatible AI tool can connect. Works with Claude Code, Cline, Cursor, a
 
 For setup procedures and specific operation methods, see the following instructions:
 
-- [AI Auto-Operation — Setup & Overview](../../Utility/01-Menu/08-AI Auto-Operation.md)
-- [Safe Setup Guide](../../Utility/01-Menu/09-AI Auto-Operation - Safe Setup Guide.md)
-- [Command Reference (Full Operation List)](../../Utility/01-Menu/11-AI Auto-Operation - Command Reference.md)
-- [Disconnect & Reconnect](../../Utility/01-Menu/10-AI Auto-Operation - Disconnect & Reconnect.md)
+- [AI Auto-Operation — Setup & Overview](../../Utility/01-Menu/08-AI%20Auto-Operation.md)
+- [Safe Setup Guide](../../Utility/01-Menu/09-AI%20Auto-Operation%20-%20Safe%20Setup%20Guide.md)
+- [Command Reference (Full Operation List)](../../Utility/01-Menu/11-AI%20Auto-Operation%20-%20Command%20Reference.md)
+- [Disconnect & Reconnect](../../Utility/01-Menu/10-AI%20Auto-Operation%20-%20Disconnect%20&%20Reconnect.md)

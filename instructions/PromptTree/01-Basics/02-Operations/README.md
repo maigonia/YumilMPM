@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Creating Prompts](01-Creating Prompts.md)
-- [Organizing and Moving](02-Organizing and Moving.md)
-- [Search and Filtering](03-Search and Filtering.md)
-- [Selecting Generation Targets](04-Selecting Generation Targets.md)
+- [Creating Prompts](01-Creating%20Prompts.md)
+- [Organizing and Moving](02-Organizing%20and%20Moving.md)
+- [Search and Filtering](03-Search%20and%20Filtering.md)
+- [Selecting Generation Targets](04-Selecting%20Generation%20Targets.md)

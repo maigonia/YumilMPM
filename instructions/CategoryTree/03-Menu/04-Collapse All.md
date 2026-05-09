@@ -17,6 +17,6 @@ Select **CategoryTree > Collapse All**
 
 ## Related
 
-- [Category](../../AdvancedPanel/01-Basics/01-Category Template Tab.md)
-- [Hierarchy](../../PromptTree/01-Basics/01-Concepts/02-Understanding Hierarchy.md)
-- [Expand All](03-Expand All.md)
+- [Category](../../AdvancedPanel/01-Basics/01-Category%20Template%20Tab.md)
+- [Hierarchy](../../PromptTree/01-Basics/01-Concepts/02-Understanding%20Hierarchy.md)
+- [Expand All](03-Expand%20All.md)

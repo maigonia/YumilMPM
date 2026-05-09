@@ -20,4 +20,4 @@ You can also toggle it from the command palette with `settings: Always On Top`.
 
 ## Related
 
-- [Enable Dark Display](10-Enable Dark Display.md)
+- [Enable Dark Display](10-Enable%20Dark%20Display.md)

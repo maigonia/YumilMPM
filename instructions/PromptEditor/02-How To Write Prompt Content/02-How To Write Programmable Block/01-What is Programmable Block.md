@@ -4,11 +4,11 @@
 
 ## What Is This?
 
-Programmable Block (PB) is a feature that allows you to execute JavaScript code within prompts. It uses the same `@@@_` ... `_@@@` notation as [Category Identifier](../01-How To Write Category Identifier/README.md), but by writing JavaScript code inside, more advanced processing becomes possible.
+Programmable Block (PB) is a feature that allows you to execute JavaScript code within prompts. It uses the same `@@@_` ... `_@@@` notation as [Category Identifier](../01-How%20To%20Write%20Category%20Identifier/README.md), but by writing JavaScript code inside, more advanced processing becomes possible.
 
 ## Auto-Detection
 
-It uses the same notation as [Category Identifier](../01-How To Write Category Identifier/README.md), but when a **line starts** with the following keywords or symbols, it is executed as a PB:
+It uses the same notation as [Category Identifier](../01-How%20To%20Write%20Category%20Identifier/README.md), but when a **line starts** with the following keywords or symbols, it is executed as a PB:
 
 `const` `let` `var` `function` `async` `await` `env.` `export` `for` `while` `if` `try` `class` `switch` `do` `return` `throw` `//` `/*`
 
@@ -36,11 +36,11 @@ Programmable Blocks are executed in a sandboxed environment using QuickJS (WebAs
 
 ### Exception: Access via Plugins
 
-When a PB calls a plugin through [Category Identifier](../01-How To Write Category Identifier/README.md)'s `.Edit(...)` or [env.PLUGINEDIT](02-Built-in Functions/17-env.PLUGINEDIT.md), that plugin can access files or networks within the scope of permissions it has been granted.
+When a PB calls a plugin through [Category Identifier](../01-How%20To%20Write%20Category%20Identifier/README.md)'s `.Edit(...)` or [env.PLUGINEDIT](02-Built-in%20Functions/17-env.PLUGINEDIT.md), that plugin can access files or networks within the scope of permissions it has been granted.
 
 For example, calling a translation plugin that has network permission causes external communication to occur, even though the PB code itself cannot connect to the network.
 
-What a called plugin can do is determined by the permissions previously granted by the user in the [Plugin](../../../PromptTree/04-Menu/03-Selected Add/01-Plugin/README.md) settings. Permissions that have not been granted are not used through PB either.
+What a called plugin can do is determined by the permissions previously granted by the user in the [Plugin](../../../PromptTree/04-Menu/03-Selected%20Add/01-Plugin/README.md) settings. Permissions that have not been granted are not used through PB either.
 
 ## env Object
 
@@ -52,43 +52,43 @@ The `env` object provides access to app features.
 
 | Function | await | Description |
 |----------|:-----:|-------------|
-| [env.CI](02-Built-in Functions/02-env.CI.md) `CI(expression)` | **Required** | Executes a Category Identifier expression |
-| [env.OUTPUT](02-Built-in Functions/09-env.OUTPUT.md) `OUTPUT(text)` | Not needed | Outputs text |
-| [env.chunk](02-Built-in Functions/01-env.chunk.md) | - | Current chunk information object |
+| [env.CI](02-Built-in%20Functions/02-env.CI.md) `CI(expression)` | **Required** | Executes a Category Identifier expression |
+| [env.OUTPUT](02-Built-in%20Functions/09-env.OUTPUT.md) `OUTPUT(text)` | Not needed | Outputs text |
+| [env.chunk](02-Built-in%20Functions/01-env.chunk.md) | - | Current chunk information object |
 
 ### Data Access
 
 | Function | await | Description |
 |----------|:-----:|-------------|
-| [env.getCategory](02-Built-in Functions/04-env.getCategory.md) `getCategory(name)` | Not needed | Gets category information |
-| [env.getCategoryNames](02-Built-in Functions/05-env.getCategoryNames.md) `getCategoryNames()` | Not needed | Gets all category names |
-| [env.globalTags](02-Built-in Functions/06-env.globalTags.md) | - | Array of all global tag names |
-| [env.HISTORY](02-Built-in Functions/07-env.HISTORY.md) `HISTORY(index, category?)` | Not needed | Gets prompt from history |
+| [env.getCategory](02-Built-in%20Functions/04-env.getCategory.md) `getCategory(name)` | Not needed | Gets category information |
+| [env.getCategoryNames](02-Built-in%20Functions/05-env.getCategoryNames.md) `getCategoryNames()` | Not needed | Gets all category names |
+| [env.globalTags](02-Built-in%20Functions/06-env.globalTags.md) | - | Array of all global tag names |
+| [env.HISTORY](02-Built-in%20Functions/07-env.HISTORY.md) `HISTORY(index, category?)` | Not needed | Gets prompt from history |
 
 ### Random Numbers
 
 | Function | await | Description |
 |----------|:-----:|-------------|
-| [env.RANDOM](02-Built-in Functions/11-env.RANDOM.md) `RANDOM()` | Not needed | Random number 0-1 |
-| [env.RANDINT](02-Built-in Functions/10-env.RANDINT.md) `RANDINT(min, max)` | Not needed | Random number in range (supports integers and floats) |
-| [env.SEED](02-Built-in Functions/12-env.SEED.md) `SEED(n)` | Not needed | Set random seed |
+| [env.RANDOM](02-Built-in%20Functions/11-env.RANDOM.md) `RANDOM()` | Not needed | Random number 0-1 |
+| [env.RANDINT](02-Built-in%20Functions/10-env.RANDINT.md) `RANDINT(min, max)` | Not needed | Random number in range (supports integers and floats) |
+| [env.SEED](02-Built-in%20Functions/12-env.SEED.md) `SEED(n)` | Not needed | Set random seed |
 
 ### AI Features
 
 | Function | await | Description |
 |----------|:-----:|-------------|
-| [env.LMEDIT](02-Built-in Functions/08-env.LMEDIT.md) `LMEDIT(...)` | **Required** | Edit text with LM Studio |
-| [env.EMBED](02-Built-in Functions/03-env.EMBED.md) `EMBED(text)` | **Required** | Get text embedding vector |
-| [env.SIMILARITY](02-Built-in Functions/13-env.SIMILARITY.md) `SIMILARITY(vec1, vec2)` | Not needed | Calculate cosine similarity |
-| [env.WD14](02-Built-in Functions/14-env.WD14.md) `WD14(imagePath)` | **Required** | Extract tags from image |
+| [env.LMEDIT](02-Built-in%20Functions/08-env.LMEDIT.md) `LMEDIT(...)` | **Required** | Edit text with LM Studio |
+| [env.EMBED](02-Built-in%20Functions/03-env.EMBED.md) `EMBED(text)` | **Required** | Get text embedding vector |
+| [env.SIMILARITY](02-Built-in%20Functions/13-env.SIMILARITY.md) `SIMILARITY(vec1, vec2)` | Not needed | Calculate cosine similarity |
+| [env.WD14](02-Built-in%20Functions/14-env.WD14.md) `WD14(imagePath)` | **Required** | Extract tags from image |
 
 ### Plugin Invocation
 
 | Function | await | Description |
 |----------|:-----:|-------------|
-| [env.PLUGINEDIT](02-Built-in Functions/17-env.PLUGINEDIT.md) `PLUGINEDIT(text, spec)` | **Required** | Call an Edit plugin directly (CI-compatible syntax) |
+| [env.PLUGINEDIT](02-Built-in%20Functions/17-env.PLUGINEDIT.md) `PLUGINEDIT(text, spec)` | **Required** | Call an Edit plugin directly (CI-compatible syntax) |
 
-> **Plugin enablement required**: `env.PLUGINEDIT` can only invoke plugins that are enabled in the **Programmable Block** tab of [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin Settings/01-EditPlugin Settings.md). `LMStudioEdit`, `WD14 Tagger`, and `Programmable Edit` are not registered in the PB context at all (use [env.LMEDIT](02-Built-in Functions/08-env.LMEDIT.md) / [env.WD14](02-Built-in Functions/14-env.WD14.md) instead). When you invoke an Edit plugin via `env.CI("Cat.Edit(...)")`, the **Category Identifier / CT** tab settings apply — the PB tab is independent.
+> **Plugin enablement required**: `env.PLUGINEDIT` can only invoke plugins that are enabled in the **Programmable Block** tab of [EditPlugin Settings](../../../GlobalSettings/04-Menu/03-EditPlugin%20Settings/01-EditPlugin%20Settings.md). `LMStudioEdit`, `WD14 Tagger`, and `Programmable Edit` are not registered in the PB context at all (use [env.LMEDIT](02-Built-in%20Functions/08-env.LMEDIT.md) / [env.WD14](02-Built-in%20Functions/14-env.WD14.md) instead). When you invoke an Edit plugin via `env.CI("Cat.Edit(...)")`, the **Category Identifier / CT** tab settings apply — the PB tab is independent.
 
 ## Usage Examples
 
@@ -180,13 +180,13 @@ const result = env.CI("Character");
 
 - [Programmable Block](README.md)
 - [Sandbox](../../../GlobalSettings/02-Glossary/03-Sandbox.md)
-- [Sandbox Settings](../../../GlobalSettings/04-Menu/07-Sandbox Settings.md)
-- [Category Identifier](../01-How To Write Category Identifier/README.md)
-- [PromptEditor](../../01-Basics/03-Prompt Editor.md)
-- [Generation](../../../PromptGeneration/01-Basics/03-About Prompt Generation.md)
-- [env.CI](02-Built-in Functions/02-env.CI.md)
-- [env.OUTPUT](02-Built-in Functions/09-env.OUTPUT.md)
-- [env.chunk](02-Built-in Functions/01-env.chunk.md)
-- [env.LMEDIT](02-Built-in Functions/08-env.LMEDIT.md)
-- [env.EMBED](02-Built-in Functions/03-env.EMBED.md)
-- [env.PLUGINEDIT](02-Built-in Functions/17-env.PLUGINEDIT.md)
+- [Sandbox Settings](../../../GlobalSettings/04-Menu/07-Sandbox%20Settings.md)
+- [Category Identifier](../01-How%20To%20Write%20Category%20Identifier/README.md)
+- [PromptEditor](../../01-Basics/03-Prompt%20Editor.md)
+- [Generation](../../../PromptGeneration/01-Basics/03-About%20Prompt%20Generation.md)
+- [env.CI](02-Built-in%20Functions/02-env.CI.md)
+- [env.OUTPUT](02-Built-in%20Functions/09-env.OUTPUT.md)
+- [env.chunk](02-Built-in%20Functions/01-env.chunk.md)
+- [env.LMEDIT](02-Built-in%20Functions/08-env.LMEDIT.md)
+- [env.EMBED](02-Built-in%20Functions/03-env.EMBED.md)
+- [env.PLUGINEDIT](02-Built-in%20Functions/17-env.PLUGINEDIT.md)

@@ -102,7 +102,7 @@ The Join action supports the following escape sequences:
 ## Related
 
 - [Category Identifier](../README.md)
-- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
 - [Target](01-Target.md)
 - [Filter](02-Filter.md)
 - [Pick](03-Pick.md)

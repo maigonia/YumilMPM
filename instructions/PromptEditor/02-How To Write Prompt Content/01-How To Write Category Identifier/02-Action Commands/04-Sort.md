@@ -137,7 +137,7 @@ Underscore format is also supported.
 ## Related
 
 - [Category Identifier](../README.md)
-- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category Template.md)
+- [Category Template](../../../../AdvancedPanel/02-Glossary/01-Category%20Template.md)
 - [Target](01-Target.md)
 - [Filter](02-Filter.md)
 - [Pick](03-Pick.md)

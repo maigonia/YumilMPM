@@ -9,7 +9,7 @@ You cannot drag and drop images from a browser directly onto the image panel in 
 | Action | Behavior |
 |---|---|
 | **Add Image** button | Opens file dialog, references path (no copy) |
-| **Local file D&D** | With [Copy Dropped Images](../../GlobalSettings/04-Menu/12-Copy dropped images to Images folder.md) OFF, references the path (no copy); with ON, copies to the Images folder |
+| **Local file D&D** | With [Copy Dropped Images](../../GlobalSettings/04-Menu/12-Copy%20dropped%20images%20to%20Images%20folder.md) OFF, references the path (no copy); with ON, copies to the Images folder |
 | **Browser image D&D** | Drop onto Result Window → transferred to main window |
 | **Paste** (Ctrl+V) | Copies to Images folder |
 

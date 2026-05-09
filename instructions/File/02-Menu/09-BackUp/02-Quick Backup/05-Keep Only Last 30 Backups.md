@@ -22,14 +22,14 @@ Keeps the 30 most recent backup files and deletes older ones. Useful when you wa
 - **This operation cannot be undone**
 
 ## Tips
-- Combine with [Delete Older Than 30 Days](04-Delete Older Than 30 Days.md) for more effective backup management
-- If [Enable Auto Backup](06-Enable Auto Backup.md) is active, it is recommended to periodically clean up with this feature
+- Combine with [Delete Older Than 30 Days](04-Delete%20Older%20Than%2030%20Days.md) for more effective backup management
+- If [Enable Auto Backup](06-Enable%20Auto%20Backup.md) is active, it is recommended to periodically clean up with this feature
 
 ## Related
 
 - [BackUp](../README.md)
-- [Delete Older Than 30 Days](04-Delete Older Than 30 Days.md)
-- [Enable Auto Backup](06-Enable Auto Backup.md)
-- [Create Backup](01-Create Backup Quick Backup.md)
-- [Backup Folder Settings](03-Backup Folder Settings.md)
-- [Open Backup Folder](02-Open Backup Folder.md)
+- [Delete Older Than 30 Days](04-Delete%20Older%20Than%2030%20Days.md)
+- [Enable Auto Backup](06-Enable%20Auto%20Backup.md)
+- [Create Backup](01-Create%20Backup%20Quick%20Backup.md)
+- [Backup Folder Settings](03-Backup%20Folder%20Settings.md)
+- [Open Backup Folder](02-Open%20Backup%20Folder.md)
