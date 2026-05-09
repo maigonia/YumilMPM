@@ -55,7 +55,7 @@
 
 | Platform | Link |
 |---|---|
-| **Windows** | [Microsoft Store](#) <!-- TODO: Replace with actual MS Store link --> |
+| **Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9P6ML4V166GB) |
 
 ### System Requirements
 

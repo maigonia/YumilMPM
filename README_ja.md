@@ -55,7 +55,7 @@
 
 | プラットフォーム | リンク |
 |---|---|
-| **Windows** | [Microsoft Store](#) <!-- TODO: 実際のMS Storeリンクに差し替え --> |
+| **Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9P6ML4V166GB) |
 
 ### 動作環境
 
