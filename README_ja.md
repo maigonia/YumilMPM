@@ -66,9 +66,10 @@
 
 ### Linux / macOS
 
-Linux / macOS 向けビルドは GitHub Releases で提供予定ですが、現在はまだ公開していません。
+実験的・サポート対象外のビルドを [GitHub Releases](https://github.com/maigonia/YumilMPM/releases/latest) で公開しています。これらはコンパイルは通っていますが、作者による動作確認・署名は行えておらず、Microsoft Store 版のような正式サポートはご提供できません。
 
-これらのビルドは実験的なもので、正式なサポート対象ではありません。
+- **Linux**: `.deb`（Debian/Ubuntu）/ `.AppImage`（汎用）、x86_64
+- **macOS**: `.dmg`、Apple Silicon 専用（M1/M2/M3/M4）
 
 ---
 
