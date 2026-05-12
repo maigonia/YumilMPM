@@ -25,7 +25,7 @@
 
 ---
 
-## スクリーンショット
+## 機能ツアー
 
 <p align="center">
   <img src="assets/02-organize.png" alt="整理" width="48%">&nbsp;

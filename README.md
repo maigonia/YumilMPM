@@ -25,7 +25,7 @@
 
 ---
 
-## See it in Action
+## Feature Tour
 
 <p align="center">
   <img src="assets/02-organize.png" alt="Organize" width="48%">&nbsp;
