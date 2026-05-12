@@ -20,18 +20,24 @@
 ---
 
 <p align="center">
-  <img src="assets/basic.png" alt="Yumil MPM" width="30%">&nbsp;
-  <img src="assets/auto-send-prompt.png" alt="Auto Send Prompt" width="30%">&nbsp;
-  <img src="assets/prompt-browser.png" alt="Prompt Browser" width="30%">
+  <img src="assets/01-overview.png" alt="Yumil MPM Overview" width="80%">
 </p>
 
 ---
 
-## 動画で見る
+## スクリーンショット
 
-| 紹介動画 | Yumil MPM + ComfyUI |
-|:---:|:---:|
-| [![紹介動画](https://img.youtube.com/vi/CJk9jYzc9N8/0.jpg)](https://www.youtube.com/watch?v=CJk9jYzc9N8) | [![Yumil MPM + ComfyUI](https://img.youtube.com/vi/8czSJYxJ07M/0.jpg)](https://www.youtube.com/watch?v=8czSJYxJ07M) |
+<p align="center">
+  <img src="assets/02-organize.png" alt="整理" width="48%">&nbsp;
+  <img src="assets/03-auto-send.png" alt="自動送信" width="48%">
+</p>
+<p align="center">
+  <img src="assets/04-browse.png" alt="閲覧" width="48%">&nbsp;
+  <img src="assets/05-category-identifier.png" alt="Category Identifier" width="48%">
+</p>
+<p align="center">
+  <img src="assets/06-edit-plugins.png" alt="Edit プラグイン" width="80%">
+</p>
 
 ---
 
