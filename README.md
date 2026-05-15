@@ -109,6 +109,7 @@ Thank you for your continued support.
 - [License (EULA)](LICENSE)
 - [Third-Party Licenses](THIRD_PARTY_LICENSES.txt)
 - [Privacy Policy](PRIVACY_POLICY.md)
+- [X (@YumilMpm)](https://x.com/YumilMpm)
 - [Contact](mailto:yumil.mpm@gmail.com)
 
 ---

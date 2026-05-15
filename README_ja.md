@@ -109,6 +109,7 @@ Yumil MPM の開発は皆様のご支援によって支えられています。<
 - [利用規約 (EULA)](LICENSE)
 - [サードパーティライセンス](THIRD_PARTY_LICENSES.txt)
 - [プライバシーポリシー](PRIVACY_POLICY_ja.md)
+- [X (@YumilMpm)](https://x.com/YumilMpm)
 - [お問い合わせ](mailto:yumil.mpm@gmail.com)
 
 ---
