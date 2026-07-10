@@ -14,7 +14,6 @@ This public repository hosts:
 - `LICENSE` — End-User License Agreement
 - `PRIVACY_POLICY.md` / `PRIVACY_POLICY_ja.md` — privacy policy
 - `assets/` — icon and screenshots
-- `instructions/` — in-app help content (added at Launch)
 
 The application source code is maintained in a **private repository** and is not part of this public repo.
 
