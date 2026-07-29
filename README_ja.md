@@ -98,9 +98,9 @@ Yumil MPM はオープンソースのサードパーティコンポーネント�
 
 ## サポート
 
-Yumil MPM の開発は皆様のご支援によって支えられています。<br>
-❤ [GitHub Sponsors](https://github.com/sponsors/maigonia)<br>
-いつもご支援ありがとうございます。
+現在、Yumil MPM では開発支援の募集を行っていません。
+
+これまで応援してくださった皆様に、心より感謝いたします。
 
 ---
 

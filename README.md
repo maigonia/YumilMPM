@@ -98,9 +98,9 @@ Yumil MPM uses open-source third-party components. License information is availa
 
 ## Support
 
-Yumil MPM's development is sustained by your support.<br>
-❤ [GitHub Sponsors](https://github.com/sponsors/maigonia)<br>
-Thank you for your continued support.
+Yumil MPM is not currently accepting development support.
+
+We sincerely thank everyone who has supported the project.
 
 ---
 
