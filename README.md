@@ -12,7 +12,6 @@
   <a href="#features">Features</a> &bull;
   <a href="#download">Download</a> &bull;
   <a href="#extensions">Extensions</a> &bull;
-  <a href="#support">Support</a> &bull;
   <a href="PRIVACY_POLICY.md">Privacy Policy</a> &bull;
   <a href="README_ja.md">日本語</a>
 </p>
@@ -93,14 +92,6 @@ Integrate Yumil MPM into your image generation workflow.
 ## Third-Party Licenses
 
 Yumil MPM uses open-source third-party components. License information is available in the app's About dialog and in [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
-
----
-
-## Support
-
-Yumil MPM is not currently accepting development support.
-
-We sincerely thank everyone who has supported the project.
 
 ---
 
