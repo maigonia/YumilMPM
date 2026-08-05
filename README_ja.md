@@ -12,7 +12,6 @@
   <a href="#機能">機能</a> &bull;
   <a href="#ダウンロード">ダウンロード</a> &bull;
   <a href="#拡張機能">拡張機能</a> &bull;
-  <a href="#サポート">サポート</a> &bull;
   <a href="PRIVACY_POLICY_ja.md">プライバシーポリシー</a> &bull;
   <a href="README.md">English</a>
 </p>
@@ -93,14 +92,6 @@ Yumil MPMを画像生成ワークフローに統合。
 ## サードパーティライセンス
 
 Yumil MPM はオープンソースのサードパーティコンポーネントを使用しています。ライセンス情報はアプリ内の About ダイアログ、および [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt) で確認できます。
-
----
-
-## サポート
-
-現在、Yumil MPM では開発支援の募集を行っていません。
-
-これまで応援してくださった皆様に、心より感謝いたします。
 
 ---
 
